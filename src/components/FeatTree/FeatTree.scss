@@ -1,0 +1,33 @@
+.feat-tree-container {
+    position: absolute;
+    left: 15%;
+    top: 40px;
+}
+
+div.feat-container {
+    margin-left: 15%;
+}
+.feat-tree-item {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+    padding: 4px;
+    border: 1px solid rgb(99, 99, 99);
+    margin: 0 0 8px 0;
+
+    &_left {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+svg.icon {
+    width: 1.5em;
+    height: 1.5em;
+    cursor: pointer;
+}
+
+svg.unfolded {
+    transform: rotate(180deg);
+}

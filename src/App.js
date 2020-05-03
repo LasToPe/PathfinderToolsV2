@@ -1,26 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import Main from './components/Main';
+import FeatSearch from './components/FeatSearch/FeatSearch';
+import FeatTree from './components/FeatTree/FeatTree';
+import './App.scss';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <Router>
+        <nav className="navigation">
+          <ul>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/feat-search">Feat Search</Link></li>
+            <li><Link to="/feat-tree">Feat Tree</Link></li>
+          </ul>
+        </nav>
+
+        <Switch>
+          <Route path="/feat-tree">
+            <FeatTree />
+          </Route>
+          <Route path="/feat-search">
+            <FeatSearch />
+          </Route>
+          <Route path="/">
+            <Main />
+          </Route>
+        </Switch>
+      </Router>
+    );
+  }
 }
 
 export default App;
