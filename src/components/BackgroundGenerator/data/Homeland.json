@@ -1,0 +1,154 @@
+{
+    "Dwarf": [
+        {
+            "Name": "Hills or Mountain",
+            "Description": "You were born and grew up in the hills or on a mountain."
+        },
+        {
+            "Name": "Underground",
+            "Description": "You were born and grew up underground."
+        },
+        {
+            "Name": "Non-Dwarven Town or Village",
+            "Description": "You were born and grew up in non-dwarven town or village."
+        },
+        {
+            "Name": "Non-Dwarven City or Metropolis",
+            "Description": "You were born and grew up in non-dwarven city or metropolis."
+        }
+    ],
+    "Elf": [
+        {
+            "Name": "Forest",
+            "Description": "You were born and grew up in a forest."
+        },
+        {
+            "Name": "Non-Elven City or Metropolis",
+            "Description": "You were born and grew up in non-elven city or metropolis."
+        },
+        {
+            "Name":"Non-Elven Town or Village",
+            "Description":"You were born and grew up in non-elven town or village."
+        }
+    ],
+    "Gnome": [
+        {
+            "Name": "Forest",
+            "Description": "You were born and grew up in a forest."
+        },
+        {
+            "Name": "Non-Gnome Town or Village",
+            "Description":"You were born and grew up in non-gnome town or village."
+        },
+        {
+            "Name":"Non-Gnome City or Metropolis",
+            "Description":"You were born and grew up in non-gnome city or metropolis."
+        }
+    ],
+    "Half-Elf": [
+        {
+            "Name": "Raised in an Elven Homeland",
+            "Description": "You were born and raised in an elven homeland"
+        },
+        {
+            "Name": "Raised in a Human Homeland",
+            "Description":"You were born and raised in a human homeland"
+        },
+        {
+            "Name": "Forest",
+            "Description":"You were born and grew up in a forest."
+        }
+    ],
+    "Half-Orc": [
+        {
+            "Name": "Subterranean",
+            "Description": "You were born and raised in a subterranean environment."
+        },
+        {
+            "Name": "Orc Settlement",
+            "Description": "You were born and raised in an orc settlement."
+        },
+        {
+            "Name": "Raised in a Human Homeland",
+            "Description": "You were born and raised in a human homeland"
+        },
+        {
+            "Name": "No True Homeland",
+            "Description": "You have no true homeland. You might be a wanderer or just an outcast no matter where you go."
+        }
+    ],
+    "Halfling": [
+        {
+            "Name": "Halfling Settlement",
+            "Description": "You were born and grew up in a halfling settlement."
+        },
+        {
+            "Name": "Human Settlement",
+            "Description": "You were born and grew up in a human settlement."
+        },
+        {
+            "Name": "Traveling Band or Caravan",
+            "Description": "You were born and grew up as part of a travelling band or caravan."
+        }
+    ],
+    "Human": [
+        {
+            "Name": "Town or Village",
+            "Description": "You were born and grew up in a smaller town or village."
+        },
+        {
+            "Name": "City or Metropolis",
+            "Description": "You were born and grew up in a city or metropolis."
+        },
+        {
+            "Name": "Frontier",
+            "Description": "You were born and grew up on the frontier."
+        }
+    ],
+    "Unusual": [
+        {
+            "Name": "Subterranean",
+            "Description":"You were born and raised in a subterranean environment."
+        },
+        {
+            "Name": "Mountains",
+            "Description": "You were born and raised in the mountains."
+        },
+        {
+            "Name": "Plains",
+            "Description": "You were born and raised on the plains."
+        },
+        {
+            "Name": "Town or Village",
+            "Description": "You were born and grew up in a smaller town or village."
+        },
+        {
+            "Name": "City or Metropolis",
+            "Description": "You were born and grew up in a city or metropolis."
+        },
+        {
+            "Name": "Forest",
+            "Description":"You were born and grew up in a forest."
+        },
+        {
+            "Name": "River, Swamp, or Wetlands",
+            "Description": "You were born and raised in by a river, swamp or wetlands."
+        },
+        {
+            "Name": "Desert",
+            "Description": "You were born and raised in the desert."
+        },
+        {
+            "Name": "Sea",
+            "Description": "You were born and raised at sea."
+        },
+        {
+            "Name": "Tundra",
+            "Description": "You were born and raised in the tundra."
+        },
+        {
+            "Name": "Another Plane",
+            "Description": "You were born and raised on another plane."
+        }
+    ]
+}
