@@ -5,14 +5,70 @@ export default class SpecialChoice extends BuilderComponent {
     constructor(props) {
         super(props);
 
-        if (props.special.Choices instanceof Array) {
-            this.state = {
-                options: props.special.Choices.map(item => <option value={item}>{item}</option>)
+        this.state = {
+            options: this.setupOptions()
+        }
+    }
+
+    setupOptions() {
+        switch (this.props.class) {
+            case "Barbarian": {
+                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
             }
-        } else if (props.special.Choices instanceof Object) {
-            this.state = {
-                options: Object.keys(props.special.Choices).map(item => <option value={item}>{item}</option>)
+            case "Bard": {
+                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
             }
+            case "Cleric": {
+                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
+            }
+            case "Druid": {
+                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
+            }
+            case "Fighter": {
+                return this.props.special.Choices.map(item => <option value={item}>{item}</option>);
+            }
+            case "Monk": {
+                return null;
+            }
+            case "Paladin": {
+                if (this.props.special.Name === "Mercy") {
+                    return Object.keys(this.props.special.Choices).map(grp => {
+                        return (
+                            <optgroup label={`Level ${grp}`}>
+                                {this.props.special.Choices[grp].map(item => <option value={item}>{item}</option>)}
+                            </optgroup>
+                        )
+                    });
+                }
+                return null;
+            }
+            case "Ranger": {
+                return this.props.special.Choices ? (this.props.special.Choices instanceof Array ?
+                    this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
+                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>)) :
+                    null;
+            }
+            case "Rogue": {
+                return this.props.special.Choices ? Object.keys(this.props.special.Choices).map(grp => {
+                    return (
+                        <optgroup label={`${grp}`}>
+                            {this.props.special.Choices[grp].map(item => <option value={item}>{item}</option>)}
+                        </optgroup>
+                    )
+                }) :
+                    null;
+            }
+            case "Sorcerer": {
+                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
+            }
+            case "Wizard": {
+                return this.props.special.Choices ? (this.props.special.Choices instanceof Array ?
+                    this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
+                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>)) :
+                    null;
+            }
+            default:
+                return null;
         }
     }
 

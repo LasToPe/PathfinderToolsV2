@@ -52,7 +52,7 @@ export default class ClassLevel extends BuilderComponent {
         return this.character.levels[this.props.level].Specials[this.classLevel - 1].map(special => {
             return (
                 <div>
-                    <SpecialChoice special={special} />
+                    <SpecialChoice class={this.state.class} special={special} />
                 </div>
             )
         });

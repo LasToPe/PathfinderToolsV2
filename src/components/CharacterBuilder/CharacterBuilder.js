@@ -28,9 +28,9 @@ export default class CharacterBuilder extends React.Component {
 
                 <nav>
                     <ul className="builder-navigation">
-                        <li><a className={this.state.tab === 'info' && 'active'} href="#info" onClick={() => this.gotoTab('info')}>Info</a></li>
-                        <li><a className={this.state.tab === 'class-levels' && 'active'} href="#class-levels" onClick={() => this.gotoTab('class-levels')}>Class Levels</a></li>
-                        <li><a className={this.state.tab === 'feats' && 'active'} href="#feats" onClick={() => this.gotoTab('feats')}>Feats</a></li>
+                        <li><a className={this.state.tab === 'info' ? 'active' : ''} href="#info" onClick={() => this.gotoTab('info')}>Info</a></li>
+                        <li><a className={this.state.tab === 'class-levels' ? 'active' : ''} href="#class-levels" onClick={() => this.gotoTab('class-levels')}>Class Levels</a></li>
+                        <li><a className={this.state.tab === 'feats' ? 'active': ''} href="#feats" onClick={() => this.gotoTab('feats')}>Feats</a></li>
                     </ul>
                 </nav>
 
