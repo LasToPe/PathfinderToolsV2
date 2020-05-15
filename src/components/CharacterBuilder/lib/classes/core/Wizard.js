@@ -28,7 +28,7 @@ export default class Wizard extends Class {
         this.Specials = [
             [
                 new Special("Arcane Bond", require('./Specials/WizardArcaneBonds.json')),
-                new Special("Arcane School", require('./Specials/WIzardArcaneSchools.json')),
+                new Special("Arcane School", require('./Specials/WizardArcaneSchools.json')),
                 new Special("cantrips"),
                 new Special("Scribe Scroll")
             ],
