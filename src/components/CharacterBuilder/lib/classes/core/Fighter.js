@@ -103,6 +103,6 @@ export default class Fighter extends Class {
     }
 
     get WeaponTraining() {
-        return new Special('Weapon Training', require('./FighterWeaponTraining.json'));
+        return new Special('Weapon Training', require('./Specials/FighterWeaponTraining.json'));
     }
 }

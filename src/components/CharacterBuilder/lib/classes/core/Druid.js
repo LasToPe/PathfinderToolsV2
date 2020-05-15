@@ -33,7 +33,7 @@ export default class Druid extends Class {
         this.Will = this.GoodSave;
         this.Specials = [
             [
-                new Special("Nature Bond", require('./DruidNatureBonds.json')),
+                new Special("Nature Bond", require('./Specials/DruidNatureBonds.json')),
                 new Special("nature sense"),
                 new Special("orisons"),
                 new Special("wild empathy")

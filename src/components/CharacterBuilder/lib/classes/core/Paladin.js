@@ -99,6 +99,6 @@ export default class Paladin extends Class {
     }
 
     get Mercy() {
-        return new Special("Mercy", require('./PaladinMercies.json'));
+        return new Special("Mercy", require('./Specials/PaladinMercies.json'));
     }
 }

@@ -100,6 +100,6 @@ export default class Cleric extends Class {
     }
 
     get Domain() {
-        return new Special('Domain', require('./ClericDomains.json'));
+        return new Special('Domain', require('./Specials/ClericDomains.json'));
     }
 }
