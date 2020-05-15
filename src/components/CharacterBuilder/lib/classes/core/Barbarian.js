@@ -101,6 +101,6 @@ export default class Barbarian extends Class {
     }
 
     get RagePower() {
-        return new Special('Rage Power', require('./RagePowers.json'));
+        return new Special('Rage Power', require('./BarbarianRagePowers.json'));
     }
 }

@@ -117,7 +117,7 @@ export default class Bard extends Class {
     }
 
     get VersatilePerformance() {
-        return new Special('Versatile Performance', require('./VersatilePerformances.json'));
+        return new Special('Versatile Performance', require('./BardVersatilePerformances.json'));
     }
 
 }
