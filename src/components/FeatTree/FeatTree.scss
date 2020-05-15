@@ -20,14 +20,15 @@ div.feat-container {
         display: flex;
         flex-direction: row;
     }
+
+    svg.icon {
+        width: 1.5em;
+        height: 1.5em;
+        cursor: pointer;
+    }
+    
+    svg.unfolded {
+        transform: rotate(180deg);
+    }
 }
 
-svg.icon {
-    width: 1.5em;
-    height: 1.5em;
-    cursor: pointer;
-}
-
-svg.unfolded {
-    transform: rotate(180deg);
-}

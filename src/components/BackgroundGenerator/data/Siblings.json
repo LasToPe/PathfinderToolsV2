@@ -1,0 +1,79 @@
+{
+    "Dwarf": [
+        "1d4 biological siblings",
+        "1d4+1 biological siblings",
+        "1d3–1 biological siblings and 1d3–1 adopted siblings",
+        "No siblings"
+    ],
+    "Elf": [
+        "1d2 biological siblings",
+        "1d4+1 biological siblings",
+        "1d4+1 biological siblings. 1d3–1 of these siblings are half-elves, adopted, or a mix of the two",
+        "No siblings"
+    ],
+    "Gnome": [
+        "1d4 biological siblings",
+        "1d4-1 biological siblings and one adopted sibling",
+        "No siblings"
+    ],
+    "Half-Elf": [
+        "1d2 half-siblings, either elf or human",
+        "One half-elf sibling",
+        "No siblings"
+    ],
+    "Half-Orc": [
+        "1d6+1 orc siblings",
+        "1d4 human siblings",
+        "One half-orc sibling",
+        "No siblings"
+    ],
+    "Halfling": [
+        "1d2 siblings",
+        "1d4+1 siblings",
+        "No siblings"
+    ],
+    "Human": [
+        "1d2 siblings",
+        "1d2 siblings and 1d2 half-siblings",
+        "2d4 siblings",
+        "No siblings"
+    ],
+    "Adopted": [
+        "Aasimar",
+        "Catfolk",
+        "Changeling",
+        "Dhampir",
+        "Duergar",
+        "Dwarf",
+        "Elf",
+        "Fetchling",
+        "Gillman",
+        "Gnome",
+        "Goblin",
+        "Grippli",
+        "Half-Elf",
+        "Half-Orc",
+        "Halfling",
+        "Hobgoblin",
+        "Human",
+        "Ifrit",
+        "Kitsune",
+        "Kobold",
+        "Merfolk",
+        "Nagaji",
+        "Orc",
+        "Oread",
+        "Ratfolk",
+        "Samsaran",
+        "Strix",
+        "Suli",
+        "Svirneblin",
+        "Sylph",
+        "Tengu",
+        "Tiefling",
+        "Undine",
+        "Vanara",
+        "Vishkanya",
+        "Wayang"
+    ]
+}

@@ -1,7 +1,7 @@
 import React from 'react';
 import Feat from './FeatComponent';
 import './FeatSearch.scss';
-const Feats = require('../../data/CombatFeats.json');
+const Feats = require('./data/CombatFeats.json');
 
 export default class FeatSearch extends React.Component {
 
@@ -44,7 +44,8 @@ export default class FeatSearch extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className="container">
+                <h1>Feat Search</h1>
                 <div className="search-bar">
                     <form onSubmit={(e) => e.preventDefault()}>
                         <input onChange={(e) => this.setState({ searchValue: e.target.value })} type="text" />

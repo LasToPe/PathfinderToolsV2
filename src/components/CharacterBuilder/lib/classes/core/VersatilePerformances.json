@@ -1,0 +1,11 @@
+{
+    "Act": "Bluff and Disguise",
+    "Comedy": "Bluff and Intimidate",
+    "Dance": "Acrobatics and Fly",
+    "Keyboard": "Diplomacy and Intimidate",
+    "Oratory": "Diplomacy and Sense Motive",
+    "Percussion": "Handle Animal and Intimidate",
+    "Sing": "Bluff and Sense Motive",
+    "Strings": "Bluff and Diplomacy",
+    "Wind": "Diplomacy and Handle Animal"
+}

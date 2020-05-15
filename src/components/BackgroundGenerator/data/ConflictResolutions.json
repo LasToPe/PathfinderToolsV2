@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Regret and Penance",
+        "Description": "Not only do you regret your action, but you have publicly admitted to it and did your best to make amends for the wrongdoing. Most know of the conf lict’s details and those who don’t can easily find them out if they know where to look or whom to ask."
+    },
+    {
+        "Name": "Sincere Regret",
+        "Description": "Though you feel sincere regret for the event and its memory affects your behavior, it’s still a secret.Only your trusted companions know of the conflict, and they have promised a degree of discretion."
+    },
+    {
+        "Name": "Secret Regret",
+        "Description": "You regret the conf lict, but go to great lengths to keep it secret and try desperately to forget it ever happened. Only you and maybe a select few people know of your involvement in the conf lict."
+    },
+    {
+        "Name": "Mixed Feelings",
+        "Description": "Sometimes you regret the conf lict, but other times you feel as if you didn’t have a choice in the matter or that you made the right decision. Most of the time, you just avoid thinking about the conf lict.Only you and maybe a select few people know of your involvement."
+    },
+    {
+        "Name": "Denial",
+        "Description": "You feel little if any regret, and deny the event mostly so others won’t judge you.Few if any know of your part in the conf lict, and your constant denials are meant to keep it that way."
+    },
+    {
+        "Name": "No Guilt",
+        "Description": "Either guilt is for the weak, or you know you made the right decision. You might not openly brag about your part in the conf lict, but you don’t deny it when confronted either."
+    },
+    {
+        "Name": "You Enjoyed It",
+        "Description": "Those who cling to petty morals have no understanding of what true freedom and power is. The fact is, you enjoyed your part in the conf lict and would do it all over again if the opportunity presented itself.Many people know of your misdeed, and they also realize your complete lack of remorse."
+    }
+]

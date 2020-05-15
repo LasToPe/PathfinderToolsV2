@@ -1,7 +1,8 @@
 import React from 'react';
 import FeatTreeItem from './FeatTreeItem';
 import _ from 'underscore';
-let Feats = require('../../data/CombatFeats.json');
+import Spinner from '../shared/loader';
+let Feats = [];
 
 export default class FeatTree extends React.Component {
 
@@ -9,7 +10,8 @@ export default class FeatTree extends React.Component {
         super(props);
 
         this.state = {
-            rootFeats: []
+            rootFeats: [],
+            loading: true
         };
     }
 
@@ -18,6 +20,7 @@ export default class FeatTree extends React.Component {
     }
 
     mapFeats() {
+        Feats = require('./data/CombatFeats.json');
         Feats.forEach(feat => {
             feat.ChildFeats = [];
             Feats.forEach(f => {
@@ -46,15 +49,18 @@ export default class FeatTree extends React.Component {
         let rootFeats = Feats.filter(feat => feat.PrerequisiteFeats.length === 0);
 
         this.setState({
-            rootFeats
+            rootFeats,
+            loading: false
         });
     }
 
     render() {
         return (
-            <div className="feat-tree-container">
-                {
-                    this.state.rootFeats.map((feat, index) => <FeatTreeItem key={index} feat={feat}/>)
+            <div className="container">
+                <h1>Feat Tree</h1>
+                { !this.state.loading ?
+                    this.state.rootFeats.map((feat, index) => <FeatTreeItem key={index} feat={feat}/>) :
+                    <Spinner color="#00BFFF" size={80} />
                 }
             </div>
         )

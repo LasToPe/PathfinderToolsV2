@@ -1,0 +1,650 @@
+{
+    "Ancestor Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser ancestor totem",
+        "Benefits": "Gain a +4 Insight Bonus to a skill while raging, and you may use it while raging even if you normally couldn’t"
+    },
+    "Ancestor Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, ancestor totem",
+        "Benefits": "Gain a +6 Insight Bonus to a skill while raging, and you may use it while raging even if you normally couldn’t. Once per rage you may spend a round of rage to reroll a skill check of that skill."
+    },
+    "Ancestor Totem, Lesser (Su)": {
+        "Prerequisites": "",
+        "Benefits": "Gain a +2 Insight Bonus to a skill (that you can use while raging) while raging"
+    },
+    "Animal Fury (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bite attack"
+    },
+    "Armor Ripper": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus to Sunder checks with your natural attacks while raging"
+    },
+    "Atavism Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "You gain a bite attack; or if you already have a bite attack, it deals damage as if you were one size larger."
+    },
+    "Atavism Totem (Su)": {
+        "Prerequisites": "Barbarian 6",
+        "Benefits": "You gain the ferocity ability."
+    },
+    "Atavism Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10",
+        "Benefits": "You gain the trample ability."
+    },
+    "Auspicious Mark (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on a roll once per rage"
+    },
+    "Battle Roar (Su)": {
+        "Prerequisites": "Barbarian 6, intimidating glare",
+        "Benefits": "You deal an additional 1d6 points of sonic damage to an opponent you successfully demoralized using intimidating glare."
+    },
+    "Beast Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser beast totem",
+        "Benefits": "Gain a natural armor bonus"
+    },
+    "Beast Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, beast totem",
+        "Benefits": "Gain a pounce attack"
+    },
+    "Beast Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain two claw attacks"
+    },
+    "Bestial Climber (Ex)": {
+        "Prerequisites": "Barbarian 6, raging climber",
+        "Benefits": "Climb at your normal land speed while raging"
+    },
+    "Bestial Leaper (Ex)": {
+        "Prerequisites": "Barbarian 6, raging leaper",
+        "Benefits": "Take a standard action while moving during a rage"
+    },
+    "Bestial Swimmer (Ex)": {
+        "Prerequisites": "Barbarian 6, raging swimmer",
+        "Benefits": "Swim at your normal land speed while raging"
+    },
+    "Bleeding Blow (Ex)": {
+        "Prerequisites": "Barbarian 8, powerful blow",
+        "Benefits": "Deal bleed damage with your powerful blows"
+    },
+    "Bloody Bite (Ex)": {
+        "Prerequisites": "Half-orc, animal fury rage power or a natural bite attack",
+        "Benefits": "Your bite attack deals 1d6 points of bleed damage in addition to its other effects."
+    },
+    "Bloody Fist (Ex)": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Once per rage, the barbarian may attempt to punch through an opponent’s flesh and rip out one of its vital organs. In order to do so, the barbarian must confirm a critical hit against an opponent with a natural attack or unarmed strike. The barbarian deals damage as normal for a critical hit and the opponent must succeed at a Fortitude save (DC = 10 + 1/2 the barbarian’s class level + the barbarian’s Strength modifier) or take 1d4 points of Constitution damage as one of its vital organs is ripped free from its body."
+    },
+    "Boar’s Charge": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Automatically score critical hits with your gore attack while raging"
+    },
+    "Boasting Taunt (Ex)": {
+        "Prerequisites": "Barbarian 6",
+        "Benefits": "Force an enemy to attack the barbarian"
+    },
+    "Body Bludgeon (Ex)": {
+        "Prerequisites": "Barbarian 10",
+        "Benefits": "Beat a foe with another creature"
+    },
+    "Brawler": {
+        "Prerequisites": "—",
+        "Benefits": "Gain Improved Unarmed Strike while raging"
+    },
+    "Brawler, Greater": {
+        "Prerequisites": "Brawler",
+        "Benefits": "Gain Two-Weapon Fighting while raging"
+    },
+    "Breathtaker (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "While raging, whenever you make a successful melee attack against an opponent that is holding its breath, in addition to any other effects caused by that attack, the opponent loses a number of rounds of breath equal to your Strength modifier."
+    },
+    "Celestial Totem": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Gain a halo that shines as daylight and triggers invisibility purge (only reveals non-good creatures) in the barbarian’s square and each adjacent square."
+    },
+    "Celestial Totem, Greater": {
+        "Prerequisites": "Barbarian 12, celestial totem",
+        "Benefits": "Gain SR while raging equal to 11 + barbarian class level against spells with the evil descriptor; also gain +2 bonus on all saves against spells and effects from evil creatures."
+    },
+    "Celestial Totem, Lesser": {
+        "Prerequisites": "—",
+        "Benefits": "Whenever subjected to a spell that cures hp damage, heal 1 additional hp per caster level. In the case of non-spell healing effects (such as channeled energy or lay on hands), heal a number of additional hp equal to the class level of the character performing the magical healing."
+    },
+    "Chaos Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser chaos totem",
+        "Benefits": "Gain a bonus to Escape Artist and a chance to avoid critical hits"
+    },
+    "Chaos Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, chaos totem",
+        "Benefits": "Gain DR/lawful and weapons count as chaotic"
+    },
+    "Chaos Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a deflection bonus to AC and a resistance bonus against lawful spells and creatures"
+    },
+    "Clear Mind (Ex)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Reroll a failed Will save"
+    },
+    "Come and Get Me (Ex)": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Provoke attacks of opportunity to get extra attacks"
+    },
+    "Crippling Blow (Ex)": {
+        "Prerequisites": "Barbarian 8, powerful blow",
+        "Benefits": "Deal Strength or Dexterity damage with your powerful blows"
+    },
+    "Cult Totem, Lesser (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "While the barbarian is raging, any morale bonuses or bonuses for flanking she gains on attacks rolls are added to her damage rolls instead of her attack rolls. They are still morale bonuses, and they don’t stack with other morale bonuses on damage rolls."
+    },
+    "Cult Totem (Ex)": {
+        "Prerequisites": "Barbarian 6, lesser cult totem rage power",
+        "Benefits": "The barbarian can make an attack of opportunity against a creature within her reach who damages an ally of the barbarian with a melee attack. Only the enemy, not the barbarian’s ally, needs to be within the barbarian’s melee reach in order for the barbarian to make this attack of opportunity. Once the barbarian makes an attack of opportunity against a creature with this ability, she can’t use this ability to make an attack of opportunity against the same creature for 24 hours."
+    },
+    "Cult Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, lesser cult totem and cult totem rage powers",
+        "Benefits": "While the barbarian is raging, when she takes hit point damage that would render her dying or dead, she remains conscious and raging until the end of her next turn after taking that damage, though she is disabled during that turn. She becomes dying or dead at the end of her next turn as normal for her current hit point total. This ability has no effect if the barbarian dies from a cause other than hit point damage, such as from a death effect or if her Constitution damage exceeds her Constitution score."
+    },
+    "Daemon Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "While raging, the barbarian gains a +2 bonus on saving throws against acid damage, death effects, disease, and poison. This bonus increases by 1 for each daemon totem rage power the barbarian has, excluding this one."
+    },
+    "Daemon Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser daemon totem rage power",
+        "Benefits": "While the barbarian is raging, her melee attacks impose a temporary negative level on her opponent on a successful critical hit. After 1 hour, these temporary negative levels disappear automatically (without a saving throw)."
+    },
+    "Daemon Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, lesser daemon totem, daemon totem rage powers",
+        "Benefits": "If the barbarian kills an intelligent creature with a CR equal to at least half her character level while raging, she heals 5 hit points. If she is already at her maximum number of hit points, she instead gains 5 temporary hit points, which don’t stack if she kills multiple creatures."
+    },
+    "Deadly Accuracy (Ex)": {
+        "Prerequisites": "Barbarian 4, surprise accuracy",
+        "Benefits": "On critical threat when using surprise accuracy, double surprise accuracy bonus on roll to confirm critical hit."
+    },
+    "Deathless Frenzy": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Ignore all consequences of being at 0 or lower hit points for one round while raging"
+    },
+    "Disemboweling Tusks": {
+        "Prerequisites": "Barbarian 10",
+        "Benefits": "While raging, deal Con damage when you confirm a critical hit with your gore attack"
+    },
+    "Disruptive": {
+        "Prerequisites": "Barbarian 8, superstition",
+        "Benefits": "Gain the Disruptive feat as a bonus feat"
+    },
+    "Dragon Totem (Su)": {
+        "Prerequisites": "Barbarian 6, animal fury, intimidating glare,",
+        "Benefits": "Gain bonuses while raging"
+    },
+    "Dragon Totem Resilience (Su)": {
+        "Prerequisites": "Barbarian 8, dragon totem",
+        "Benefits": "Gain energy resistance while raging"
+    },
+    "Dragon Totem Wings (Su)": {
+        "Prerequisites": "Barbarian 10, dragon totem, dragon totem resilience",
+        "Benefits": "Gain wings and a fly speed while raging"
+    },
+    "Eater of Magic (Su)": {
+        "Prerequisites": "Barbarian 10, superstition",
+        "Benefits": "Take a second saving throw and gain temp hp"
+    },
+    "Elemental Rage (Su)": {
+        "Prerequisites": "Barbarian 8, lesser elemental rage",
+        "Benefits": "Deal extra elemental damage with melee attacks"
+    },
+    "Elemental Rage, Greater (Su)": {
+        "Prerequisites": "Barbarian 12, elemental rage",
+        "Benefits": "Deal extra elemental damage on critical hits with melee weapons"
+    },
+    "Elemental Rage, Lesser (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Use a swift action to cause extra elemental damage with melee attacks"
+    },
+    "Energy Absorption (Su)": {
+        "Prerequisites": "Barbarian 12, greater energy resistance",
+        "Benefits": "Absorb energy to gain temporary hit points"
+    },
+    "Energy Eruption (Su)": {
+        "Prerequisites": "Barbarian 16, energy absorption",
+        "Benefits": "Store absorbed energy and release it as a breath weapon attack"
+    },
+    "Energy Resistance (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain resistance to one type of elemental damage"
+    },
+    "Energy Resistance, Greater (Ex)": {
+        "Prerequisites": "Barbarian 8, energy resistance",
+        "Benefits": "Halve damage from an elemental attack"
+    },
+    "Fearless Rage (Ex)": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Become immune to the shaken and frightened conditions"
+    },
+    "Feasting Bite (Ex)": {
+        "Prerequisites": "Half-orc, bloody bite rage power and either the animal fury rage power or a natural bite attack",
+        "Benefits": "When the barbarian confirms a critical hit with her bite attack, she regains a number of hit points equal to half the damage dealt. Activating this ability consumes 1 round of rage."
+    },
+    "Feast of Blood (Su)": {
+        "Prerequisites": "Bloody fist rage power, barbarian 14",
+        "Benefits": "While raging, the barbarian may feast on the organs of her foes and absorb their power."
+    },
+    "Ferocious Beast (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Your animal companion also gains the benefits of rage though you must spend 1 additional round of rage per round if companion begins or ends its turn adjacent to you, and 2 additional rounds of rage per round if not."
+    },
+    "Ferocious Beast, Greater (Ex)": {
+        "Prerequisites": "Barbarian 8, ferocious beast",
+        "Benefits": "Your animal companion shares the benefits of your rage powers that are constant in effect but gains no benefit from rage powers that require actions to activate, even if they are free actions."
+    },
+    "Ferocious Mount (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Allow your mount to rage as well"
+    },
+    "Ferocious Mount, Greater (Ex)": {
+        "Prerequisites": "Barbarian 8, ferocious mount",
+        "Benefits": "Allow your mount to benefit from rage powers"
+    },
+    "Ferocious Trample (Ex)": {
+        "Prerequisites": "Barbarian 8, ferocious mount",
+        "Benefits": "While raging your mount gains the trample ability"
+    },
+    "Ferocious Trample, Greater (Ex)": {
+        "Prerequisites": "Barbarian 12, ferocious trample",
+        "Benefits": "Your mount can trample larger creatures and make overrun attacks while raging"
+    },
+    "Fiend Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser fiend totem",
+        "Benefits": "Attackers take damage when they hit you in melee"
+    },
+    "Fiend Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, fiend totem",
+        "Benefits": "Non-evil creatures adjacent to the barbarian take damage and are shaken"
+    },
+    "Fiend Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a gore attack"
+    },
+    "Fierce Fortitude (Ex)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "You gain a +4 bonus on saving throws against diseases and poison. A skald must be trained in Intimidate to select this rage power."
+    },
+    "Fight Response (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "When a barbarian with this rage power attempts a saving throw against a fear effect, she can enter a rage as an immediate action (as long as she would normally be able to enter rage). This consumes 3 rounds of the barbarian’s daily allotment of rage rounds, but the barbarian can maintain the rage each round on her turn normally. Any benefits from the barbarian’s rage apply immediately, so she gains her bonus on Will saves against the effect that required the initial saving throw. Unlike most rage powers, this rage power’s effects are useful only when the barbarian is not raging, so a skald can’t grant this rage power to allies with raging song."
+    },
+    "Flesh Wound (Ex)": {
+        "Prerequisites": "Barbarian 10",
+        "Benefits": "Convert lethal damage to nonlethal damage"
+    },
+    "Fueled by Vengeance": {
+        "Prerequisites": "Barbarian 6",
+        "Benefits": "Gain an extra round of rage if you hit a creature that hit you this round while raging"
+    },
+    "Gearbreaker (Ex)": {
+        "Prerequisites": "Smasher",
+        "Benefits": "Once per round while raging, whenever you make an attack against a construct, you can ignore an amount of that construct’s hardness equal to your barbarian level. This ability must be used before the attack roll is made. This power stacks with hard hitter."
+    },
+    "Ghost Rager (Su)": {
+        "Prerequisites": "Barbarian 6, superstition",
+        "Benefits": "Deal normal damage to incorporeal creatures"
+    },
+    "Good for What Ails You (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Drink alcohol to gain a new save against conditions"
+    },
+    "Greater Animal Fury (Ex)": {
+        "Prerequisites": "Animal fury",
+        "Benefits": "As animal fury, but your bite attack deals damage as if you were one size larger."
+    },
+    "Ground Breaker (Ex)": {
+        "Prerequisites": "Barbarian 6",
+        "Benefits": "Attack the ground to create difficult terrain"
+    },
+    "Ground Breaker, Greater (Ex)": {
+        "Prerequisites": "Barbarian 8, ground breaker",
+        "Benefits": "Extend ground breaker’s radius of difficult terrain"
+    },
+    "Guarded Life (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Stabilize when at negative hit points"
+    },
+    "Guarded Life, Greater (Ex)": {
+        "Prerequisites": "Barbarian 6, guarded life",
+        "Benefits": "Convert more damage to nonlethal damage"
+    },
+    "Guarded Stance (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a dodge bonus to AC"
+    },
+    "Hive Totem (Su)": {
+        "Prerequisites": "Barbarian 4, animal fury",
+        "Benefits": "Take half damage from swarms while raging"
+    },
+    "Hive Totem Resilience (Su)": {
+        "Prerequisites": "Barbarian 6, hive totem",
+        "Benefits": "Take no damage from swarms while raging"
+    },
+    "Hive Totem Toxicity (Su)": {
+        "Prerequisites": "Barbarian 8, hive totem, hive totem resilience",
+        "Benefits": "Do Constitution damage with a bite while raging"
+    },
+    "Hurling (Ex)": {
+        "Prerequisites": "Barbarian 8, lesser hurling",
+        "Benefits": "Increase the range and size allowed for a hurled object"
+    },
+    "Hurling, Greater (Ex)": {
+        "Prerequisites": "Barbarian 12, hurling",
+        "Benefits": "Increase the range and size allowed for a hurled object"
+    },
+    "Hurling, Lesser (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "You can lift and throw large objects to do damage"
+    },
+    "Hurling Charge (Ex)": {
+        "Prerequisites": "Barbarian 6, lesser hurling",
+        "Benefits": "You can hurl an object as part of a charge"
+    },
+    "Impelling Disarm (Ex)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Once per rage, you may attempt to hit another opponent with a weapon you disarmed from a different opponent."
+    },
+    "Increased Damage Reduction (Ex)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Gain DR/- while raging"
+    },
+    "Inspire Ferocity (Ex)": {
+        "Prerequisites": "Reckless abandon",
+        "Benefits": "Use a move action to share reckless abandon with allies"
+    },
+    "Internal Fortitude (Ex)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Gain immunity to nauseated and sickened conditions"
+    },
+    "Intimidating Glare (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Intimidate an opponent as a move action"
+    },
+    "Knockback (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Make a bull rush in place of a melee attack"
+    },
+    "Knockdown (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Make a trip attack in place of a melee attack"
+    },
+    "Lethal Accuracy (Ex)": {
+        "Prerequisites": "Barbarian 16, deadly accuracy, surprise accuracy",
+        "Benefits": "Deal more damage when you score a critical hit with surprise accuracy"
+    },
+    "Linnorm Death Curse, Cairn (Su)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Your melee attacks deal an additional 1 point of negative energy damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of decay (Will negates)."
+    },
+    "Linnorm Death Curse, Crag (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Your melee attacks deal an additional 1 point of fire damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of fire (Will negates)."
+    },
+    "Linnorm Death Curse, Fjord (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Your melee attacks deal an additional 1 point of cold damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of drowning (Will negates)."
+    },
+    "Linnorm Death Curse, Ice (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Your melee attacks deal an additional 1 point of cold damage. If the character is knocked unconscious or killed, the attacker suffers the curse of frost."
+    },
+    "Linnorm Death Curse, Taiga (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Your melee attacks deal an additional 1 point of electricity damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of electricity (Will negates)."
+    },
+    "Linnorm Death Curse, Tarn (Su)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Your melee attacks deal an additional 1 point of acid damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of death (Will negates)."
+    },
+    "Linnorm Death Curse, Tor (Su)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Your melee attacks deal an additional 1 point of fire damage. If the character is knocked unconscious or killed by an attack or spell, the attacker suffers the curse of boiling blood (Will negates)."
+    },
+    "Liquid Courage (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Alcoholic beverages give you a morale bonus while raging"
+    },
+    "Low-Light Vision (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain low-light vision while raging"
+    },
+    "Mighty Swing (Ex)": {
+        "Prerequisites": "Barbarian 12",
+        "Benefits": "Automatically confirm a critical hit"
+    },
+    "Moment of Clarity (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Remove benefits and penalties of raging for 1 round"
+    },
+    "Moon Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser moon totem",
+        "Benefits": ""
+    },
+    "Moon Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, moon totem",
+        "Benefits": ""
+    },
+    "Moon Totem, Lesser (Su)": {
+        "Prerequisites": "",
+        "Benefits": ""
+    },
+    "Night Vision (Ex)": {
+        "Prerequisites": "Low-light vision rage power or racial low-light vision",
+        "Benefits": "Gain darkvision 60 ft while raging"
+    },
+    "No Escape (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Double move as an immediate action when an opponent withdraws"
+    },
+    "Overbearing Advance (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Deal extra damage when using the overrun maneuver"
+    },
+    "Overbearing Onslaught (Ex)": {
+        "Prerequisites": "Barbarian 6, overbearing advance",
+        "Benefits": "Overrun multiple targets per round"
+    },
+    "Penetrating Bite (Ex)": {
+        "Prerequisites": "Barbarian 4, animal fury",
+        "Benefits": "When using animal fury while raging, your bite is able to pierce most resistances."
+    },
+    "Perfect Clarity (Ex)": {
+        "Prerequisites": "Moment of clarity",
+        "Benefits": "Roll twice when disbelieving an illusion"
+    },
+    "Powerful Blow (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Deal extra damage with a single blow"
+    },
+    "Primal Scent (Ex)": {
+        "Prerequisites": "Barbarian 8, scent",
+        "Benefits": "Gain a bonus when using scent"
+    },
+    "Quick Reflexes (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Make additional attacks of opportunity while raging"
+    },
+    "Raging Climber (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on Climb checks while raging"
+    },
+    "Raging Flier (Su)": {
+        "Prerequisites": "Barbarian 6, raging leaper",
+        "Benefits": "1/rage, fly up to your base speed as a move action and can use this flight as part of movement during a charge."
+    },
+    "Raging Grappler (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "While raging, whenever you succeed at a check to start a grapple, you can choose to deal damage as if you had also succeeded at a check to maintain the grapple. In addition, while raging, whenever you succeed at a combat maneuver check to maintain a grapple, you can choose to give yourself, the target of your grapple, or both the prone condition as a free action while continuing to maintain the grapple."
+    },
+    "Raging Leaper (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on Acrobatics checks to jump while raging"
+    },
+    "Raging Swimmer (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on Swim checks while raging"
+    },
+    "Reckless Abandon (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Take a penalty to AC for extra accuracy while raging"
+    },
+    "Reflexive Dodge (Ex)": {
+        "Prerequisites": "Barbarian 6, rolling dodge",
+        "Benefits": "Use your rolling dodge bonus on Reflex saving throws"
+    },
+    "Regenerative Vigor (Ex)": {
+        "Prerequisites": "Barbarian 6, renewed vigor",
+        "Benefits": "Gain fast healing after using renewed vigor"
+    },
+    "Renewed Life (Ex)": {
+        "Prerequisites": "Barbarian 6, renewed vitality",
+        "Benefits": "Ignore temporary negative levels while raging"
+    },
+    "Renewed Vigor (Ex)": {
+        "Prerequisites": "Barbarian 4",
+        "Benefits": "Heal damage as a standard action"
+    },
+    "Renewed Vitality (Ex)": {
+        "Prerequisites": "Barbarian 4, renewed vigor",
+        "Benefits": "Ignore ability damage or penalties while raging"
+    },
+    "Roaring Drunk (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on Intimidate checks and fear effect DC"
+    },
+    "Rolling Dodge (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a dodge bonus to AC against ranged attacks while raging"
+    },
+    "Roused Anger (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Enter a rage even when fatigued"
+    },
+    "Savage Dirty Trick (Ex)": {
+        "Prerequisites": "Barbarian 6",
+        "Benefits": "Once per round while raging, you can attempt a dirty trick combat maneuver in place of a melee attack."
+    },
+    "Savage Intuition": {
+        "Prerequisites": "—",
+        "Benefits": "You may enter a rage even if you aren’t aware that combat has begun"
+    },
+    "Savage Jaw (Ex)": {
+        "Prerequisites": "Animal fury",
+        "Benefits": "While raging, you can open your jaws wide and latch your teeth firmly onto your opponent."
+    },
+    "Scent (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain the scent ability when raging"
+    },
+    "Sharpened Accuracy (Ex)": {
+        "Prerequisites": "Barbarian 8, surprise accuracy",
+        "Benefits": "Surprise accuracy ignores concealment and cover"
+    },
+    "Smasher (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "When sundering an unattended object, ignore hardness"
+    },
+    "Spell Sunder (Su)": {
+        "Prerequisites": "Barbarian 6, witch hunter",
+        "Benefits": "Sunder spells with a combat maneuver check"
+    },
+    "Spellbreaker": {
+        "Prerequisites": "Barbarian 12, disruptive",
+        "Benefits": "Gain the Spellbreaker feat while raging"
+    },
+    "Spire Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser spire totem",
+        "Benefits": ""
+    },
+    "Spire Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, spire totem",
+        "Benefits": ""
+    },
+    "Spire Totem, Lesser (Su)": {
+        "Prerequisites": "",
+        "Benefits": ""
+    },
+    "Spirit Steed (Su)": {
+        "Prerequisites": "Barbarian 6, ferocious mount",
+        "Benefits": "Your mount gains DR/magic and its natural weapons count as magical"
+    },
+    "Spirit Totem (Su)": {
+        "Prerequisites": "Barbarian 6, lesser spirit totem",
+        "Benefits": "Attacks against you may miss when you are raging"
+    },
+    "Spirit Totem, Greater (Su)": {
+        "Prerequisites": "Barbarian 10, spirit totem",
+        "Benefits": "Enemies near you take negative energy damage"
+    },
+    "Spirit Totem, Lesser (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain spirit allies that can attack adjacent enemies"
+    },
+    "Sprint (Ex)": {
+        "Prerequisites": "Barbarian 4, swift foot",
+        "Benefits": "Move at x3 or x6 speed once per rage"
+    },
+    "Staggering Drunk (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain dodge AC against attacks of opportunity if drinking"
+    },
+    "Strength Surge (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a Strength bonus on Combat Maneuver Checks"
+    },
+    "Sunder Enchantment (Su)": {
+        "Prerequisites": "Barbarian 8, spell sunder",
+        "Benefits": "Suppress sundered magical item’s powers"
+    },
+    "Superstition (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a bonus on saving throws"
+    },
+    "Surprise Accuracy (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain a morale bonus on one attack roll"
+    },
+    "Swift Foot (Ex)": {
+        "Prerequisites": "—",
+        "Benefits": "Move faster when raging"
+    },
+    "Terrifying Howl (Ex)": {
+        "Prerequisites": "Barbarian 8, intimidating glare",
+        "Benefits": "Cause shaken enemies to become panicked"
+    },
+    "Ultimate Clarity (Su)": {
+        "Prerequisites": "Barbarian 6, moment of clarity, perfect clarity",
+        "Benefits": "1/rage, for 1 round, see through normal and magical darkness (including from magical effects such as blur and displacement), invisibility, and illusions; and discern exact locations of creatures with concealment."
+    },
+    "Unexpected Strike (Ex)": {
+        "Prerequisites": "Barbarian 8",
+        "Benefits": "Enemies provoke attacks of opportunity even when they normally wouldn’t"
+    },
+    "Water Sense (Ex)": {
+        "Prerequisites": "",
+        "Benefits": "Your senses are no longer fooled by the rippling surface and confounding reflections seen in water that is being used as cover by your foes."
+    },
+    "Witch Hunter (Ex)": {
+        "Prerequisites": "Superstition",
+        "Benefits": "Do extra damage against spellcasters"
+    },
+    "World Serpent Totem (Su)": {
+        "Prerequisites": "—",
+        "Benefits": "Gain bonuses against outsiders and abberations"
+    },
+    "World Serpent Spirit (Su)": {
+        "Prerequisites": "Barbarian 6, world serpent totem",
+        "Benefits": "Your weapon counts as chaotic, evil, good, lawful while raging"
+    },
+    "World Serpent Totem Unity (Su)": {
+        "Prerequisites": "Barbarian 6, world serpent spirit, world serpent totem",
+        "Benefits": "Double fast movement bonus and cannot be knocked prone"
+    }
+}

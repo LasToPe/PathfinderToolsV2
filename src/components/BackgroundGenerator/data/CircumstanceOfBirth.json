@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Lower-Class Birth",
+        "Description": "You were born among peasants or slum denizens. You grew up working the land around a village or manor, practicing a rudimentary trade, or begging in a settlement."
+    },
+    {
+        "Name": "Middle-Class Birth",
+        "Description": "You were born to the middle class, which includes merchants, artisans, and tradespeople.You likely grew up in a good-sized settlement, and one of your parents is likely associated with a guild or other trade organization. As a free person, you don’t experience the bondage of serfdom or peasantry, but you also lack the privilege of the nobility."
+    },
+    {
+        "Name": "Noble Birth",
+        "Description": "You were born to privilege among the nobility. Unless one of your parents is the regent, your family serves a higher-ranked noble but lesser nobles serve your family in turn."
+    },
+    {
+        "Name": "Adopted Outside Your Race",
+        "Description": "You were not raised by your birth family and grew up in a family of a different race than your own."
+    },
+    {
+        "Name": "Adopted",
+        "Description": "You were not raised by your birth family, but taken in by another family within your race or culture."
+    },
+    {
+        "Name": "Bastard Born",
+        "Description": "Your parents had a tryst that resulted in your birth out of wedlock. You know one of your parents, but the other remains unknown or a distant presence at best."
+    },
+    {
+        "Name": "Blessed Birth",
+        "Description": "When you were born, you were blessed by a being of great power such as an angel, azata, or genie. This blessing has protected you from certain peril or marked you as special to some deity."
+    },
+    {
+        "Name": "Born of Violence",
+        "Description": "Your birth was caused by violent, unwilling means. You have one parent, and the other likely remains unknown."
+    },
+    {
+        "Name": "Born out of Time",
+        "Description": "You were born in a different era, either the distant past or the far future. Some event has displaced you from your time, and the ways and customs of the present seem strange and alien to you."
+    },
+    {
+        "Name": "Born into Bondage",
+        "Description": "You were born into slavery or servitude. Your parents are likely slaves or servants, or you were sold into slavery as an infant."
+    },
+    {
+        "Name": "Cursed Birth",
+        "Description": "When you were born, a powerful fiendish entity tainted your blood in some way and cursed you as an agent of dark prophecy."
+    },
+    {
+        "Name": "Dishonered Family",
+        "Description": "You were born into a family that once was honored among your society but has since fallen into disgrace. Now your family name is loathed and maligned by those who know it, putting you on your guard."
+    },
+    {
+        "Name": "Heir to a Legacy",
+        "Description": "You are the heir to a family with an old name and a distinguished past. Your family might be wealthy or middle class, but your name itself is worth twice your fortunes."
+    },
+    {
+        "Name": "Left to Die",
+        "Description": "When you were born you were left to die, but by some twist of circumstance you survived."
+    },
+    {
+        "Name": "Marked by the Gods",
+        "Description": "A deity has marked you. That mark can be on your body or your soul."
+    },
+    {
+        "Name": "Energy Infused",
+        "Description": "During your birth you were exposed to potent source of divine energy."
+    },
+    {
+        "Name": "Progeny of Power",
+        "Description": "You were born during a particularly powerful conjunction or in some other time of power."
+    },
+    {
+        "Name": "Prophesied",
+        "Description": "Your birth was foretold, as recently as during the last generation to as far back as thousands of years ago."
+    },
+    {
+        "Name": "Reincarnated",
+        "Description": "You have been reborn in many cycles, and may be reborn in many more until you accomplish the ultimate task for which you are destined."
+    },
+    {
+        "Name": "The Omen",
+        "Description": "The sages, priests, or wizards of your society decreed your birth an omen of a coming age or event—perhaps you are an omen of promise, perhaps one of dark times ahead."
+    }
+]

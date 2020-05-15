@@ -1,5 +1,10 @@
 import React from 'react';
-const homelands = require('./data/Homeland.json');
+const Races = require('./data/Races.json');
+const Homelands = require('./data/Homeland.json');
+const Parents = require('./data/Parents.json');
+const Siblings = require('./data/Siblings.json');
+const CircumstanceOfBirth = require('./data/CircumstanceOfBirth.json');
+const MajorChildhoodEvent = require('./data/MajorChildhoodEvent.json');
 
 export default class HomelandFamilyChildhood extends React.Component {
 
@@ -18,16 +23,15 @@ export default class HomelandFamilyChildhood extends React.Component {
 
     renderRace() {
         return (
-            <select onChange={(e) => this.setState({ race: e.target.value })}>
-                <option hidden>Select Race</option>
-                <option value="Dwarf">Dwarf</option>
-                <option value="Elf">Elf</option>
-                <option value="Gnome">Gnome</option>
-                <option value="Half-Elf">Half-Elf</option>
-                <option value="Half-Orc">Half-Orc</option>
-                <option value="Halfling">Halfling</option>
-                <option value="Human">Human</option>
-            </select>
+            <div>
+                <h4>Select race</h4>
+                <select onChange={(e) => this.setState({ race: e.target.value })}>
+                    <option hidden>Select Race</option>
+                    {Races.map(race => {
+                        return <option value={race}>{race}</option>
+                    })}
+                </select>
+            </div>
         );
     }
 
@@ -36,14 +40,20 @@ export default class HomelandFamilyChildhood extends React.Component {
 
         return (
             <div>
-                <h4>Select Homeland</h4>
-                <select onChange={(e) => this.setState({ homeland: e.target.value })}>
-                    {homelands[this.state.race].map(homeland => {
-                        return <option value={homeland.Name}>{homeland.Name}</option>
+                <h4>Select homeland</h4>
+                <select onChange={(e) => this.setState({ homeland: e.target.value, homelandUnusual: null })}>
+                    <option hidden>Select homeland</option>
+                    {Homelands[this.state.race].map(homeland => {
+                        return <option value={homeland.Description}>{homeland.Name}</option>
                     })}
                     <option value="Unusual">Unusual</option>
                 </select>
                 {this.renderUnusualHomeland()}
+                <p className="description">
+                    {
+                        this.state.homeland === "Unusual" ? this.state.homelandUnusual : this.state.homeland
+                    }
+                </p>
             </div>
         )
     }
@@ -53,10 +63,76 @@ export default class HomelandFamilyChildhood extends React.Component {
 
         return (
             <select onChange={(e) => this.setState({ homelandUnusual: e.target.value })}>
-                {homelands.Unusual.map(homeland => {
-                    return <option value={homeland.Name}>{homeland.Name}</option>
+                <option hidden>Choose unusual homeland</option>
+                {Homelands.Unusual.map(homeland => {
+                    return <option value={homeland.Description}>{homeland.Name}</option>
                 })}
             </select>
+        )
+    }
+
+    renderParents() {
+        return (
+            <div>
+                <h4>Parents</h4>
+                <select onChange={e => this.setState({ parents: e.target.value })}>
+                    <option hidden>Select parents</option>
+                    {Parents.map(element => {
+                        return <option value={element}>{element}</option>
+                    })}
+                </select>
+            </div>
+
+        )
+    }
+
+    renderSiblings() {
+        if (!this.state.race) return null;
+
+        return (
+            <div>
+                <h4>Siblings</h4>
+                <select onChange={e => this.setState({ siblings: e.target.value })}>
+                    <option hidden>Select siblings</option>
+                    {Siblings[this.state.race].map(sibling => {
+                        return <option value={sibling}>{sibling}</option>
+                    })}
+                </select>
+            </div>
+        )
+    }
+
+    renderCircumstanceOfBirth() {
+        return (
+            <div>
+                <h4>Circumstance of birth</h4>
+                <select onChange={e => this.setState({ circumstanceOfBirth: e.target.value })}>
+                    <option hidden>Select circumstance of birth</option>
+                    {CircumstanceOfBirth.map(cob => {
+                        return <option value={cob.Description}>{cob.Name}</option>
+                    })}
+                </select>
+                <p className="description">
+                    {this.state.circumstanceOfBirth}
+                </p>
+            </div>
+        )
+    }
+
+    renderMajorChildhoodEvent() {
+        return (
+            <div>
+                <h4>Major childhood event</h4>
+                <select onChange={e => this.setState({ majorChildhoodEvent: e.target.value })}>
+                    <option hidden>Select major childhood event</option>
+                    {MajorChildhoodEvent.map(event => {
+                        return <option value={event.Description}>{event.Name}</option>
+                    })}
+                </select>
+                <p className="description">
+                    {this.state.majorChildhoodEvent}
+                </p>
+            </div>
         )
     }
 
@@ -64,9 +140,12 @@ export default class HomelandFamilyChildhood extends React.Component {
         return (
             <div>
                 <h2>Homeland, Family and Childhood</h2>
-                <h4>Select race</h4>
                 {this.renderRace()}
                 {this.renderHomeland()}
+                {this.renderParents()}
+                {this.renderSiblings()}
+                {this.renderCircumstanceOfBirth()}
+                {this.renderMajorChildhoodEvent()}
             </div>
         )
     }

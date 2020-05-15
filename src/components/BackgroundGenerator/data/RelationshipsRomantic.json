@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "One Significant Relationship",
+        "Description": "You had a true love once, but that time has passed."
+    },
+    {
+        "Name": "A Few Significant Relationships",
+        "Description": "You’ve tried to make deep connections with individuals on several occasions, but it’s never worked out."
+    },
+    {
+        "Name": "Several Significant Relationships",
+        "Description": "You’ve engaged in a number of partnerships, but for some reason or another your relationships always fail."
+    },
+    {
+        "Name": "Current Lover",
+        "Description": "You are currently involved in a romantic relationship. You gain access to the True Love story feat."
+    },
+    {
+        "Name": "Several Inconsequential Relationships",
+        "Description": "You have had many lovers but no long-lasting, meaningful relationships."
+    },
+    {
+        "Name": "Experience but No Substantial Relationships",
+        "Description": "You’ve had a fling or two, but have so far shied away from any ties or commitments."
+    },
+    {
+        "Name": "No Experience",
+        "Description": "You have never experienced any kind of romantic connection whatsoever."
+    }
+]

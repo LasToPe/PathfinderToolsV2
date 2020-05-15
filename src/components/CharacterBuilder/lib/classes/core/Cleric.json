@@ -1,0 +1,214 @@
+{
+    "Name": "Cleric",
+    "Description": "In faith and the miracles of the divine, many find a greater purpose. Called to serve powers beyond most mortal understanding, all priests preach wonders and provide for the spiritual needs of their people. Clerics are more than mere priests, though; these emissaries of the divine work the will of their deities through strength of arms and the magic of their gods. Devoted to the tenets of the religions and philosophies that inspire them, these ecclesiastics quest to spread the knowledge and influence of their faith. Yet while they might share similar abilities, clerics prove as different from one another as the divinities they serve, with some offering healing and redemption, others judging law and truth, and still others spreading conflict and corruption. The ways of the cleric are varied, yet all who tread these paths walk with the mightiest of allies and bear the arms of the gods themselves.",
+    "Role": "More than capable of upholding the honor of their deities in battle, clerics often prove stalwart and capable combatants. Their true strength lies in their capability to draw upon the power of their deities, whether to increase their own and their allies' prowess in battle, to vex their foes with divine magic, or to lend healing to companions in need.",
+    "Alignment": "A cleric's alignment must be within one step of her deity's, along either the law/chaos axis or the good/evil axis.",
+    "HitDie": 8,
+    "ClassSkills": [
+        "Appraise",
+        "Craft",
+        "Diplomacy",
+        "Heal",
+        "Knowledge (arcana)",
+        "Knowledge (history)",
+        "Knowledge (nobility)",
+        "Knowledge (planes)",
+        "Knowledge (religion)",
+        "Linguistics",
+        "Profession",
+        "Sense Motive",
+        "Spellcraft"
+    ],
+    "SkillPointsPerLevel": 2,
+    "BaseAttackBonus": [
+        0,
+        1,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        9,
+        9,
+        10,
+        11,
+        12,
+        12,
+        13,
+        14,
+        15
+    ],
+    "Fortitude": [
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12
+    ],
+    "Reflex": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+    ],
+    "Will": [
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12
+    ],
+    "Specials": [
+        [
+            "Aura",
+            "channel energy 1d6",
+            "Domain",
+            "Domain",
+            "orisons"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 2d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 3d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 4d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 5d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 6d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 7d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 8d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 9d6"
+        ],
+        [
+            "—"
+        ],
+        [
+            "Channel energy 10d6"
+        ],
+        [
+            "—"
+        ]
+    ],
+    "Domains": {
+        "Air": {},
+        "Animal": {},
+        "Artifice": {},
+        "Chaos": {},
+        "Charm": {},
+        "Community": {},
+        "Darkness": {},
+        "Death": {},
+        "Destruction": {},
+        "Earth": {},
+        "Evil": {},
+        "Fire": {},
+        "Glory": {},
+        "Good": {},
+        "Healing": {},
+        "Knowledge": {},
+        "Law": {},
+        "Liberation": {},
+        "Luck": {},
+        "Madness": {},
+        "Magic": {},
+        "Nobility": {},
+        "Plant": {},
+        "Protection": {},
+        "Repose": {},
+        "Rune": {},
+        "Scalykind": {},
+        "Strength": {},
+        "Sun": {},
+        "Travel": {},
+        "Trickery": {},
+        "Void": {},
+        "War": {},
+        "Water": {},
+        "Weather": {}
+    }
+}
