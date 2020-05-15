@@ -2,55 +2,31 @@ import React from 'react';
 import BuilderComponent from '../../BuilderComponent';
 
 export default class SpecialChoice extends BuilderComponent {
-
     constructor(props) {
         super(props);
 
-        this.options = {};
-
-        switch (this.classLevel.Name) {
-            case "Barbarian":
-                this.options['Rage Power'] = this.map('Rage Powers');
-                break;
-
-            case "Bard":
-                this.options['Versatile Performance'] = this.map('Versatile Performances');
-                break;
-
-            case "Cleric":
-                this.options['Domain'] = this.map('Domains');
-                break;
-
-            case "Druid":
-                this.options['Nature Bond'] = this.map('Nature Bonds');
-                break;
-            case "Fighter":
-                this.options['Weapon Training'] = this.map('Weapon Training');
-                break;
-            default:
-                break;
+        if (props.special.Choices instanceof Array) {
+            this.state = {
+                options: props.special.Choices.map(item => <option value={item}>{item}</option>)
+            }
+        } else if (props.special.Choices instanceof Object) {
+            this.state = {
+                options: Object.keys(props.special.Choices).map(item => <option value={item}>{item}</option>)
+            }
         }
-    }
-
-    map(specialName) {
-        return Object.keys(this.classLevel[specialName]).map(item => {
-            return <option value={item}>{item}</option>
-        });
-    }
-
-    get classLevel() {
-        return this.character.levels[this.props.level];
     }
 
     render() {
         return (
             <div>
-                {this.props.special}
-                {this.options[this.props.special] &&
-                    <select>
-                        <option hidden>{`Select ${this.props.special}`}</option>
-                        {this.options[this.props.special]}
-                    </select>
+                <span>{this.props.special.Name}</span>
+                {
+                    this.props.special.Choices ?
+                        <select>
+                            <option hidden>Select {this.props.special.Name}</option>
+                            {this.state.options}
+                        </select>
+                        : undefined
                 }
             </div>
         )

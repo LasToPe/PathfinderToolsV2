@@ -2,6 +2,7 @@ import React from 'react';
 import BuilderComponent from '../../BuilderComponent';
 import Svg from '../../../shared/Svg';
 import Classes from '../../lib/classes/Classes';
+import SpecialChoice from './SpecialChoice';
 
 export default class ClassLevel extends BuilderComponent {
 
@@ -51,17 +52,7 @@ export default class ClassLevel extends BuilderComponent {
         return this.character.levels[this.props.level].Specials[this.classLevel - 1].map(special => {
             return (
                 <div>
-                    <span>{special.Name}</span>
-                    {
-                        special.Choices ?
-                        <select>
-                            <option hidden>Select {special.Name}</option>
-                            {Object.keys(special.Choices).map(item => {
-                                return <option value={item}>{item}</option>
-                            })}
-                        </select>
-                        : undefined
-                    }
+                    <SpecialChoice special={special} />
                 </div>
             )
         });
