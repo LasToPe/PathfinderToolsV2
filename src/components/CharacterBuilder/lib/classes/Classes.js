@@ -6,6 +6,7 @@ import Fighter from './core/Fighter';
 import Monk from './core/Monk';
 import Paladin from './core/Paladin';
 import Ranger from './core/Ranger';
+import Rogue from './core/Rogue';
 
 export default {
     Barbarian: new Barbarian(),
@@ -16,7 +17,7 @@ export default {
     Monk: new Monk(),
     Paladin: new Paladin(),
     Ranger: new Ranger(),
-    Rogue: require('./core/Rogue.json'),
+    Rogue: new Rogue(),
     Sorcerer: require('./core/Sorcerer.json'),
     Wizard: require('./core/Wizard.json')
 }
