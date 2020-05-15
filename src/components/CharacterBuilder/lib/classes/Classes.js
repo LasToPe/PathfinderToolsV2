@@ -1,10 +1,11 @@
 import Barbarian from './core/Barbarian';
 import Bard from './core/Bard';
+import Cleric from './core/Cleric';
 
 export default {
     Barbarian: new Barbarian(),
     Bard: new Bard(),
-    Cleric: require('./core/Cleric.json'),
+    Cleric: new Cleric(),
     Druid: require('./core/Druid.json'),
     Fighter: require('./core/Fighter.json'),
     Monk: require('./core/Monk.json'),
