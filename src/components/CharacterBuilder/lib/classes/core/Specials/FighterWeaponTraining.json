@@ -1,19 +1,19 @@
-{
-    "Axes": {},
-    "Blades, Heavy": {},
-    "Blades, Light": {},
-    "Bows": {},
-    "Close": {},
-    "Crossbows": {},
-    "Double": {},
-    "Firearms": {},
-    "Flails": {},
-    "Hammers": {},
-    "Monk": {},
-    "Natural": {},
-    "Polearms": {},
-    "Siege Engines": {},
-    "Spears": {},
-    "Thrown": {},
-    "Tribal": {}
-}
+[
+    "Axes",
+    "Blades, Heavy",
+    "Blades, Light",
+    "Bows",
+    "Close",
+    "Crossbows",
+    "Double",
+    "Firearms",
+    "Flails",
+    "Hammers",
+    "Monk",
+    "Natural",
+    "Polearms",
+    "Siege Engines",
+    "Spears",
+    "Thrown",
+    "Tribal"
+]

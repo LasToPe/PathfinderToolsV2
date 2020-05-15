@@ -1,31 +1,36 @@
 {
-    "Deceived": {},
-    "Fatigued": {},
-    "Riled": {},
-    "Shaken": {},
-    "Sickened": {},
-
-    "Dazed": {},
-    "Diseased": {},
-    "Enfeebled": {},
-    "Haunted": {},
-    "Staggered": {},
-    "Targeted": {},
-
-    "Confused": {},
-    "Cursed": {},
-    "Exhausted": {},
-    "Frightened": {},
-    "Injured": {},
-    "Nauseated": {},
-    "Poisoned": {},
-    "Restorative": {},
-    
-    "Amputated": {},
-    "Blinded": {},
-    "Deafened": {},
-    "Ensorcelled": {},
-    "Paralyzed": {},
-    "Petrified": {},
-    "Stunned": {}
+    "3": [
+        "Deceived",
+        "Fatigued",
+        "Riled",
+        "Shaken",
+        "Sickened"
+    ],
+    "6": [
+        "Dazed",
+        "Diseased",
+        "Enfeebled",
+        "Haunted",
+        "Staggered",
+        "Targeted"
+    ],
+    "9": [
+        "Confused",
+        "Cursed",
+        "Exhausted",
+        "Frightened",
+        "Injured",
+        "Nauseated",
+        "Poisoned",
+        "Restorative"
+    ],
+    "12": [
+        "Amputated",
+        "Blinded",
+        "Deafened",
+        "Ensorcelled",
+        "Paralyzed",
+        "Petrified",
+        "Stunned"
+    ]
 }
