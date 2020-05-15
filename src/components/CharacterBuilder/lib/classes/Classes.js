@@ -4,6 +4,7 @@ import Cleric from './core/Cleric';
 import Druid from './core/Druid';
 import Fighter from './core/Fighter';
 import Monk from './core/Monk';
+import Paladin from './core/Paladin';
 
 export default {
     Barbarian: new Barbarian(),
@@ -12,7 +13,7 @@ export default {
     Druid: new Druid(),
     Fighter: new Fighter(),
     Monk: new Monk(),
-    Paladin: require('./core/Paladin.json'),
+    Paladin: new Paladin(),
     Ranger: require('./core/Ranger.json'),
     Rogue: require('./core/Rogue.json'),
     Sorcerer: require('./core/Sorcerer.json'),
