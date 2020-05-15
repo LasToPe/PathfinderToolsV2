@@ -11,6 +11,8 @@ export default class SpecialChoice extends BuilderComponent {
     }
 
     setupOptions() {
+        if(!this.props.special.Choices) return null;
+        
         switch (this.props.class) {
             case "Barbarian": {
                 return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
@@ -43,10 +45,9 @@ export default class SpecialChoice extends BuilderComponent {
                 return null;
             }
             case "Ranger": {
-                return this.props.special.Choices ? (this.props.special.Choices instanceof Array ?
+                return this.props.special.Choices instanceof Array ?
                     this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
-                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>)) :
-                    null;
+                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
             }
             case "Rogue": {
                 return this.props.special.Choices ? Object.keys(this.props.special.Choices).map(grp => {
@@ -62,10 +63,9 @@ export default class SpecialChoice extends BuilderComponent {
                 return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
             }
             case "Wizard": {
-                return this.props.special.Choices ? (this.props.special.Choices instanceof Array ?
+                return this.props.special.Choices instanceof Array ?
                     this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
-                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>)) :
-                    null;
+                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
             }
             default:
                 return null;
