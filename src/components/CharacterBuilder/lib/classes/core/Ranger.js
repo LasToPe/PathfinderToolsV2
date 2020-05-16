@@ -41,7 +41,7 @@ export default class Ranger extends Class {
             ],
             [
                 this.CombatStyle,
-                new Special("Combat style feat")
+                this.CombatStyleFeat
             ],
             [
                 new Special("Endurance"),
@@ -54,7 +54,7 @@ export default class Ranger extends Class {
                 new Special("2nd favored enemy", this.FavoredEnemies)
             ],
             [
-                new Special("Combat style feat")
+                this.CombatStyleFeat
             ],
             [
                 new Special("Woodland stride")
@@ -68,7 +68,7 @@ export default class Ranger extends Class {
             ],
             [
                 new Special("3rd favored enemy", this.FavoredEnemies),
-                new Special("combat style feat")
+                this.CombatStyleFeat
             ],
             [
                 new Special("Quarry")
@@ -80,7 +80,7 @@ export default class Ranger extends Class {
                 new Special("3rd favored terrain", this.FavoredTerrains)
             ],
             [
-                new Special("Combat style feat")
+                this.CombatStyleFeat
             ],
             [
                 new Special("4th favored enemy", this.FavoredEnemies)
@@ -93,7 +93,7 @@ export default class Ranger extends Class {
             ],
             [
                 new Special("4th favored terrain", this.FavoredTerrains),
-                new Special("combat style feat")
+                this.CombatStyleFeat
             ],
             [
                 new Special("Improved quarry")
@@ -111,6 +111,10 @@ export default class Ranger extends Class {
 
     get CombatStyle() {
         return new Special('Combat Style', require('./Specials/RangerCombatStyles.json'));
+    }
+
+    get CombatStyleFeat() {
+        return new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'));
     }
 
     get FavoredTerrains() {

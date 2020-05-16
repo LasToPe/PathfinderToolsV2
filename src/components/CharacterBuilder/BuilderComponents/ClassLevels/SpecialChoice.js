@@ -78,8 +78,19 @@ export default class SpecialChoice extends BuilderComponent {
         if (this.props.special.Name.indexOf("favored") > -1) {
             return this.props.special.Choices.map(item => <option value={item}>{item}</option>);
         }
-        if(this.props.special.Name === "Combat Style") {
+        if (this.props.special.Name === "Combat Style") {
             return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
+        }
+        if (this.props.special.Name === "Combat style feat") {
+            return Object.keys(this.props.special.Choices).map(style => {
+                return (
+                    <optgroup label={style}>
+                        {Object.keys(this.props.special.Choices[style]).map(level => {
+                            return this.props.special.Choices[style][level].map(item => <option value={item}>{item}</option>);
+                        })}
+                    </optgroup>
+                )
+            })
         }
     }
 
@@ -106,7 +117,7 @@ export default class SpecialChoice extends BuilderComponent {
     renderWizardOptions() {
         if (this.props.class !== "Wizard") return null;
 
-        if(this.props.special.Name === "Arcane Bond") {
+        if (this.props.special.Name === "Arcane Bond") {
             return this.props.special.Choices.map(item => <option value={item}>{item}</option>);
         }
 
