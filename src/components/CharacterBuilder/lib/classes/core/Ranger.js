@@ -40,7 +40,7 @@ export default class Ranger extends Class {
                 new Special("wild empathy")
             ],
             [
-                this.CombatStyles,
+                this.CombatStyle,
                 new Special("Combat style feat")
             ],
             [
@@ -109,7 +109,7 @@ export default class Ranger extends Class {
         return require('./Specials/RangerFavoredEnemies.json');
     }
 
-    get CombatStyles() {
+    get CombatStyle() {
         return new Special('Combat Style', require('./Specials/RangerCombatStyles.json'));
     }
 
