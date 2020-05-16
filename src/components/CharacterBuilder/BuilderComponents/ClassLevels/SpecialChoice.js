@@ -3,42 +3,29 @@ import BuilderComponent from '../../BuilderComponent';
 
 export default class SpecialChoice extends BuilderComponent {
 
-    setupOptions() {
-        if (!this.props.special.Choices) return null;
-
-        switch (this.props.class) {
-            case "Paladin": {
-                if (this.props.special.Name === "Mercy") {
-
+    render() {
+        return (
+            <div>
+                <span>{this.props.special.Name}</span>
+                {
+                    this.props.special.Choices ?
+                        <select>
+                            <option hidden>Select {this.props.special.Name}</option>
+                            {this.renderBarbarianOptions()}
+                            {this.renderBardOPtions()}
+                            {this.renderClericOptions()}
+                            {this.renderDruidOptions()}
+                            {this.renderFighterOptions()}
+                            {this.renderPaladinOptions()}
+                            {this.renderRangerOptions()}
+                            {this.renderRogueOptions()}
+                            {this.renderSorcererOptions()}
+                            {this.renderWizardOptions()}
+                        </select>
+                        : undefined
                 }
-                return null;
-            }
-            case "Ranger": {
-                return this.props.special.Choices instanceof Array ?
-                    this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
-                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
-            }
-            case "Rogue": {
-                return this.props.special.Choices ? Object.keys(this.props.special.Choices).map(grp => {
-                    return (
-                        <optgroup label={`${grp}`}>
-                            {this.props.special.Choices[grp].map(item => <option value={item}>{item}</option>)}
-                        </optgroup>
-                    )
-                }) :
-                    null;
-            }
-            case "Sorcerer": {
-                return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
-            }
-            case "Wizard": {
-                return this.props.special.Choices instanceof Array ?
-                    this.props.special.Choices.map(item => <option value={item}>{item}</option>) :
-                    Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
-            }
-            default:
-                return null;
-        }
+            </div>
+        )
     }
 
     renderBarbarianOptions() {
@@ -126,30 +113,5 @@ export default class SpecialChoice extends BuilderComponent {
         if (this.props.special.Name === "Arcane School") {
             return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
         }
-    }
-
-    render() {
-        return (
-            <div>
-                <span>{this.props.special.Name}</span>
-                {
-                    this.props.special.Choices ?
-                        <select>
-                            <option hidden>Select {this.props.special.Name}</option>
-                            {this.renderBarbarianOptions()}
-                            {this.renderBardOPtions()}
-                            {this.renderClericOptions()}
-                            {this.renderDruidOptions()}
-                            {this.renderFighterOptions()}
-                            {this.renderPaladinOptions()}
-                            {this.renderRangerOptions()}
-                            {this.renderRogueOptions()}
-                            {this.renderSorcererOptions()}
-                            {this.renderWizardOptions()}
-                        </select>
-                        : undefined
-                }
-            </div>
-        )
     }
 }
