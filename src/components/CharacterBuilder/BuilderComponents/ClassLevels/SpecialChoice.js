@@ -53,7 +53,7 @@ export default class SpecialChoice extends BuilderComponent {
     }
 
     renderFighterOptions() {
-        if (this.props.class !== "Cleric") return null;
+        if (this.props.class !== "Fighter") return null;
 
         return this.props.special.Choices.map(item => <option value={item}>{item}</option>);
     }
