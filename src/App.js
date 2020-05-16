@@ -6,6 +6,7 @@ import FeatSearch from './components/FeatSearch/FeatSearch';
 import FeatTree from './components/FeatTree/FeatTree';
 import BackgroundGenerator from './components/BackgroundGenerator/BackgroundGenerator';
 import CharacterBuilder from './components/CharacterBuilder/CharacterBuilder';
+import About from './components/About';
 
 class App extends React.Component {
   render() {
@@ -18,7 +19,11 @@ class App extends React.Component {
             <li><Link to="/feat-tree">Feat Tree</Link></li>
             <li><Link to="/background-generator">Background Generator</Link></li>
             <li><Link to="/character-builder">Character Builder</Link></li>
+            <li><Link to="/about">About</Link></li>
           </ul>
+          <footer>
+            &copy; 2020, Lasse Pedersen
+          </footer>
         </nav>
 
         <Switch>
@@ -33,6 +38,9 @@ class App extends React.Component {
           </Route>
           <Route path="/feat-search">
             <FeatSearch />
+          </Route>
+          <Route path="/about">
+            <About />
           </Route>
           <Route path="/">
             <Main />
