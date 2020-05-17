@@ -49,13 +49,13 @@ export default class Druid extends Class {
                 new Special("wild shape (1/day)")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Wild shape (2/day)")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Wild shape (3/day)")
@@ -67,7 +67,7 @@ export default class Druid extends Class {
                 new Special("Wild shape (4/day)")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Wild shape (5/day)")
@@ -85,13 +85,13 @@ export default class Druid extends Class {
                 new Special("Wild shape (7/day)")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Wild shape (8/day)")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Wild shape (at will)")
