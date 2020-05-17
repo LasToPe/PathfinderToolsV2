@@ -8,7 +8,7 @@ export default class Special {
         this.Choices = choices;
     }
 
-    setSelected(value) {
+    set(value) {
         this.Selected = value;
     }
 }

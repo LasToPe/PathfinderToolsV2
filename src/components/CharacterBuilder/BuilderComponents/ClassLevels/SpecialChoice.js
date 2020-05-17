@@ -9,7 +9,7 @@ export default class SpecialChoice extends BuilderComponent {
                 <span>{this.props.special.Name}</span>
                 {
                     this.props.special.Choices ?
-                        <select>
+                        <select onChange={e => this.props.special.set(e.target.value)}>
                             <option hidden>Select {this.props.special.Name}</option>
                             {this.renderBarbarianOptions()}
                             {this.renderBardOPtions()}
