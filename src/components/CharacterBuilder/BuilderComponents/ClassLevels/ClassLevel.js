@@ -40,6 +40,10 @@ export default class ClassLevel extends BuilderComponent {
         this.setState({ editing: false });
     }
 
+    updateState() {
+        this.setState({});
+    }
+
     renderDetails() {
         if (
             !this.character.levels[this.props.level] ||
@@ -50,7 +54,12 @@ export default class ClassLevel extends BuilderComponent {
         }
 
         return this.character.levels[this.props.level].Specials[this.classLevel - 1].map(special => {
-            return <SpecialChoice class={this.state.class} special={special} />;
+            return <SpecialChoice
+                character={this.character}
+                class={this.state.class}
+                level={this.props.level}
+                special={special} 
+                updateState={() => this.updateState()}/>;
         });
     }
 

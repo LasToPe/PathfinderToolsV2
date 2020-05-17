@@ -35,40 +35,40 @@ export default class Ranger extends Class {
         this.Will = this.BadSave;
         this.Specials = [
             [
-                new Special("1st favored enemy", this.FavoredEnemies),
+                new Special("1st favored enemy", require('./Specials/RangerFavoredEnemies.json')),
                 new Special("track"),
                 new Special("wild empathy")
             ],
             [
-                this.CombatStyle,
-                this.CombatStyleFeat
+                new Special('Combat Style', require('./Specials/RangerCombatStyles.json')),
+                new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'))
             ],
             [
                 new Special("Endurance"),
-                new Special("1st favored terrain", this.FavoredTerrains)
+                new Special("1st favored terrain", require('./Specials/RangerFavoredTerrains.json'))
             ],
             [
-                this.HuntersBond
+                new Special("Hunter's Bond", require('./Specials/RangerHuntersBond.json'))
             ],
             [
-                new Special("2nd favored enemy", this.FavoredEnemies)
+                new Special("2nd favored enemy", require('./Specials/RangerFavoredEnemies.json'))
             ],
             [
-                this.CombatStyleFeat
+                new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'))
             ],
             [
                 new Special("Woodland stride")
             ],
             [
                 new Special("Swift tracker"),
-                new Special("2nd favored terrain", this.FavoredTerrains)
+                new Special("2nd favored terrain", require('./Specials/RangerFavoredTerrains.json'))
             ],
             [
                 new Special("Evasion")
             ],
             [
-                new Special("3rd favored enemy", this.FavoredEnemies),
-                this.CombatStyleFeat
+                new Special("3rd favored enemy", require('./Specials/RangerFavoredEnemies.json')),
+                new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'))
             ],
             [
                 new Special("Quarry")
@@ -77,13 +77,13 @@ export default class Ranger extends Class {
                 new Special("Camouflage")
             ],
             [
-                new Special("3rd favored terrain", this.FavoredTerrains)
+                new Special("3rd favored terrain", require('./Specials/RangerFavoredTerrains.json'))
             ],
             [
-                this.CombatStyleFeat
+                new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'))
             ],
             [
-                new Special("4th favored enemy", this.FavoredEnemies)
+                new Special("4th favored enemy", require('./Specials/RangerFavoredEnemies.json'))
             ],
             [
                 new Special("Improved evasion")
@@ -92,36 +92,24 @@ export default class Ranger extends Class {
                 new Special("Hide in plain sight")
             ],
             [
-                new Special("4th favored terrain", this.FavoredTerrains),
-                this.CombatStyleFeat
+                new Special("4th favored terrain", require('./Specials/RangerFavoredTerrains.json')),
+                new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'))
             ],
             [
                 new Special("Improved quarry")
             ],
             [
-                new Special("5th favored enemy", this.FavoredEnemies),
+                new Special("5th favored enemy", require('./Specials/RangerFavoredEnemies.json')),
                 new Special("master hunter")
             ]
         ];
     }
 
-    get FavoredEnemies() {
-        return require('./Specials/RangerFavoredEnemies.json');
-    }
-
     get CombatStyle() {
-        return new Special('Combat Style', require('./Specials/RangerCombatStyles.json'));
-    }
-
-    get CombatStyleFeat() {
-        return new Special("Combat style feat", require('./Specials/RangerCombatStyles.json'));
-    }
-
-    get FavoredTerrains() {
-        return require('./Specials/RangerFavoredTerrains.json');
+        return this.Specials[1].find(s => s.Name === "Combat Style");
     }
 
     get HuntersBond() {
-        return new Special("Hunter's Bond", require('./Specials/RangerHuntersBond.json'));
+        return this.Specials[3].find(s => s.Name === "Hunters Bond");
     }
 }

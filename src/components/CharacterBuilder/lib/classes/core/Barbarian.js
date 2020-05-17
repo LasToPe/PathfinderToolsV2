@@ -33,40 +33,40 @@ export default class Barbarian extends Class {
                 new Special('Rage')
             ],
             [
-                this.RagePower,
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json')),
                 new Special('Uncanny Dodge')
             ],
             [
                 new Special('Trap Sense +1')
             ],
             [
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ],
             [
                 new Special('Improved Uncanny Dodge')
             ],
             [
-                this.RagePower,
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json')),
                 new Special('Trap Sense +2')
             ],
             [
                 new Special('Damage Reduction 1/-')
             ],
             [
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ],
             [
                 new Special('Trap Sense +3')
             ],
             [
                 new Special('Damage Reduction 2/-'),
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ],
             [
                 new Special('Greater Rage')
             ],
             [
-                this.RagePower,
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json')),
                 new Special('Trap Sense +4')
             ],
             [
@@ -74,20 +74,20 @@ export default class Barbarian extends Class {
             ],
             [
                 new Special("Indomitable will"),
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ],
             [
                 new Special("Trap sense +5")
             ],
             [
                 new Special("Damage reduction 4/-"),
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ],
             [
                 new Special("Tireless rage")
             ],
             [
-                this.RagePower,
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json')),
                 new Special("Trap sense +6")
             ],
             [
@@ -95,12 +95,8 @@ export default class Barbarian extends Class {
             ],
             [
                 new Special("Mighty rage"),
-                this.RagePower
+                new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'))
             ]
         ]
-    }
-
-    get RagePower() {
-        return new Special('Rage Power', require('./Specials/BarbarianRagePowers.json'));
     }
 }

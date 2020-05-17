@@ -35,60 +35,60 @@ export default class Sorcerer extends Class {
                 new Special("eschew materials")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline power"),
                 new Special("bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline feat"),
                 new Special("bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline power"),
                 new Special("bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline feat"),
                 new Special("bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline power"),
                 new Special("bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline spell")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Bloodline feat"),

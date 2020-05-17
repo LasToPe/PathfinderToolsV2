@@ -46,21 +46,21 @@ export default class Rogue extends Class {
             ],
             [
                 new Special("Evasion"),
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ],
             [
                 new Special("Sneak attack +2d6"),
                 new Special("trap sense +1")
             ],
             [
-                this.RogueTalent,
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json')),
                 new Special("uncanny dodge")
             ],
             [
                 new Special("Sneak attack +3d6")
             ],
             [
-                this.RogueTalent,
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json')),
                 new Special("trap sense +2")
             ],
             [
@@ -68,7 +68,7 @@ export default class Rogue extends Class {
             ],
             [
                 new Special("Improved uncanny dodge"),
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ],
             [
                 new Special("Sneak attack +5d6"),
@@ -76,33 +76,33 @@ export default class Rogue extends Class {
             ],
             [
                 new Special("Advanced talents"),
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ],
             [
                 new Special("Sneak attack +6d6")
             ],
             [
-                this.RogueTalent,
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json')),
                 new Special("trap sense +4")
             ],
             [
                 new Special("Sneak attack +7d6")
             ],
             [
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ],
             [
                 new Special("Sneak attack +8d6"),
                 new Special("trap sense +5")
             ],
             [
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ],
             [
                 new Special("Sneak attack +9d6")
             ],
             [
-                this.RogueTalent,
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json')),
                 new Special("trap sense +6")
             ],
             [
@@ -110,12 +110,8 @@ export default class Rogue extends Class {
             ],
             [
                 new Special("Master strike"),
-                this.RogueTalent
+                new Special("Rogue Talent", require('./Specials/RogueTalents.json'))
             ]
         ];
-    }
-
-    get RogueTalent() {
-        return new Special("Rogue Talent", require('./Specials/RogueTalents.json'));
     }
 }

@@ -30,79 +30,71 @@ export default class Fighter extends Class {
         this.Will = this.BadSave;
         this.Specials = [
             [
-                this.BonusFeat
+                new Special('Bonus Feat')
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("bravery +1")
             ],
             [
                 new Special("Armor training 1")
             ],
             [
-                this.BonusFeat
+                new Special('Bonus Feat')
             ],
             [
-                this.WeaponTraining
+                new Special('Weapon Training 1', require('./Specials/FighterWeaponTraining.json'))
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("bravery +2")
             ],
             [
                 new Special("Armor Training 2")
             ],
             [
-                this.BonusFeat
+                new Special('Bonus Feat')
             ],
             [
-                this.WeaponTraining
+                new Special('Weapon Training 2', require('./Specials/FighterWeaponTraining.json'))
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("bravery +3")
             ],
             [
                 new Special("Armor Training 3")
             ],
             [
-                this.BonusFeat
+                new Special('Bonus Feat')
             ],
             [
-                this.WeaponTraining
+                new Special('Weapon Training 3', require('./Specials/FighterWeaponTraining.json'))
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("bravery +4")
             ],
             [
                 new Special("Armor Training 4")
             ],
             [
-                this.BonusFeat
+                new Special('Bonus Feat')
             ],
             [
-                this.WeaponTraining
+                new Special('Weapon Training 4', require('./Specials/FighterWeaponTraining.json'))
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("bravery +5")
             ],
             [
                 new Special("Armor mastery")
             ],
             [
-                this.BonusFeat,
+                new Special('Bonus Feat'),
                 new Special("weapon mastery")
             ]
         ];
-    }
-
-    get BonusFeat() {
-        return new Special('Bonus Feat');
-    }
-
-    get WeaponTraining() {
-        return new Special('Weapon Training', require('./Specials/FighterWeaponTraining.json'));
     }
 }

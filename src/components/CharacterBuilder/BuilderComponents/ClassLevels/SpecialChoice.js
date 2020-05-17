@@ -9,7 +9,7 @@ export default class SpecialChoice extends BuilderComponent {
                 <span>{this.props.special.Name}</span>
                 {
                     this.props.special.Choices ?
-                        <select onChange={e => this.props.special.set(e.target.value)}>
+                        <select onChange={e => this.setSpecial(e.target.value)}>
                             <option hidden>Select {this.props.special.Name}</option>
                             {this.renderBarbarianOptions()}
                             {this.renderBardOPtions()}
@@ -26,6 +26,12 @@ export default class SpecialChoice extends BuilderComponent {
                 }
             </div>
         )
+    }
+
+    setSpecial(value) {
+        this.props.special.set(value);
+        this.setState({});
+        this.props.updateState();
     }
 
     renderBarbarianOptions() {
@@ -82,14 +88,16 @@ export default class SpecialChoice extends BuilderComponent {
             return Object.keys(this.props.special.Choices).map(item => <option value={item}>{item}</option>);
         }
         if (this.props.special.Name === "Combat style feat") {
-            return Object.keys(this.props.special.Choices).map(style => {
-                return (
-                    <optgroup label={style}>
-                        {Object.keys(this.props.special.Choices[style]).map(level => {
-                            return this.props.special.Choices[style][level].map(item => <option value={item}>{item}</option>);
-                        })}
-                    </optgroup>
-                )
+            let c = this.character.levels[this.props.level];
+
+            if (!c.CombatStyle.Selected) return null;
+            
+            return Object.keys(this.props.special.Choices[c.CombatStyle.Selected]).map(level => {
+                return level <= parseInt(this.props.level) ?
+                    this.props.special.Choices[c.CombatStyle.Selected][level].map(item => {
+                        return <option value={item}>{item}</option>;
+                    }) :
+                    null;
             })
         }
     }

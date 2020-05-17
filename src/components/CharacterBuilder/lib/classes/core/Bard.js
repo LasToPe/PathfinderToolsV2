@@ -47,14 +47,14 @@ export default class Bard extends Class {
                 new Special("Inspire Courage +1")
             ],
             [
-                this.VersatilePerformance,
+                new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json')),
                 new Special("Well-Versed")
             ],
             [
                 new Special("Inspire Competence +2")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Inspire Courage +2"),
@@ -62,7 +62,7 @@ export default class Bard extends Class {
             ],
             [
                 new Special("Suggestion"),
-                this.VersatilePerformance
+                new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json'))
             ],
             [
                 new Special("Inspire Competence +3")
@@ -75,7 +75,7 @@ export default class Bard extends Class {
             ],
             [
                 new Special("Jack-of-all-Trades"),
-                this.VersatilePerformance
+                new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json'))
             ],
             [
                 new Special("Inspire Competence +4"),
@@ -86,18 +86,18 @@ export default class Bard extends Class {
                 new Special("Soothing Performance")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Frightening tune"),
-                this.VersatilePerformance
+                new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json'))
             ],
             [
                 new Special("Inspire Competence +5"),
                 new Special("Inspire Heroics")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Inspire Courage +4"),
@@ -105,7 +105,7 @@ export default class Bard extends Class {
             ],
             [
                 new Special("Mass Suggestion"),
-                this.VersatilePerformance
+                new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json'))
             ],
             [
                 new Special("Inspire Competence +6")
@@ -115,9 +115,4 @@ export default class Bard extends Class {
             ]
         ];
     }
-
-    get VersatilePerformance() {
-        return new Special('Versatile Performance', require('./Specials/BardVersatilePerformances.json'));
-    }
-
 }

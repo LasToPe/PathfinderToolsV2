@@ -33,66 +33,62 @@ export default class Wizard extends Class {
                 new Special("Scribe Scroll")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.BonusFeat
+                new Special("Bonus Feat")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.BonusFeat
+                new Special("Bonus Feat")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.BonusFeat
+                new Special("Bonus Feat")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
-                this.BonusFeat
+                new Special("Bonus Feat")
             ]
         ]
-    }
-
-    get BonusFeat() {
-        return new Special("Bonus Feat");
     }
 }

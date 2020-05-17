@@ -35,71 +35,67 @@ export default class Cleric extends Class {
             [
                 new Special("Aura"),
                 new Special("Channel Energy 1d6"),
-                this.Domain,
-                this.Domain,
+                new Special('Domain 1', require('./Specials/ClericDomains.json')),
+                new Special('Domain 2', require('./Specials/ClericDomains.json')),
                 new Special("Orisons")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 2d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 3d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 4d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 5d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 6d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 7d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 8d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 9d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ],
             [
                 new Special("Channel Energy 10d6")
             ],
             [
-                this.Blank
+                this.Blank()
             ]
         ];
-    }
-
-    get Domain() {
-        return new Special('Domain', require('./Specials/ClericDomains.json'));
     }
 }

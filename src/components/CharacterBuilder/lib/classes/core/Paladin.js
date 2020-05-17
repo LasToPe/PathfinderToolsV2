@@ -41,7 +41,7 @@ export default class Paladin extends Class {
             [
                 new Special("Aura of courage"),
                 new Special("divine health"),
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Channel positive energy"),
@@ -51,7 +51,7 @@ export default class Paladin extends Class {
                 new Special("Divine bond")
             ],
             [
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Smite evil 3/day")
@@ -60,7 +60,7 @@ export default class Paladin extends Class {
                 new Special("Aura of resolve")
             ],
             [
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Smite evil 4/day")
@@ -69,7 +69,7 @@ export default class Paladin extends Class {
                 new Special("Aura of justice")
             ],
             [
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Smite evil 5/day")
@@ -78,7 +78,7 @@ export default class Paladin extends Class {
                 new Special("Aura of faith")
             ],
             [
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Smite evil 6/day")
@@ -87,7 +87,7 @@ export default class Paladin extends Class {
                 new Special("Aura of righteousness")
             ],
             [
-                this.Mercy
+                new Special("Mercy", require('./Specials/PaladinMercies.json'))
             ],
             [
                 new Special("Smite evil 7/day")
@@ -96,9 +96,5 @@ export default class Paladin extends Class {
                 new Special("Holy champion")
             ]
         ];
-    }
-
-    get Mercy() {
-        return new Special("Mercy", require('./Specials/PaladinMercies.json'));
     }
 }
