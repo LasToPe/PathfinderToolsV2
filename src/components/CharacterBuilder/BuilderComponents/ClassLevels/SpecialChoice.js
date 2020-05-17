@@ -68,12 +68,11 @@ export default class SpecialChoice extends BuilderComponent {
         if (this.props.class !== "Paladin") return null;
 
         if (this.props.special.Name === "Mercy") {
-            return Object.keys(this.props.special.Choices).map(grp => {
-                return (
-                    <optgroup label={`Level ${grp}`}>
-                        {this.props.special.Choices[grp].map(item => <option value={item}>{item}</option>)}
-                    </optgroup>
-                )
+            return Object.keys(this.props.special.Choices).map(level => {
+                return level <= parseInt(this.props.level) ?
+                    this.props.special.Choices[level].map(item => {
+                        return <option value={item}>{item}</option>
+                    }) : null;
             });
         }
     }
