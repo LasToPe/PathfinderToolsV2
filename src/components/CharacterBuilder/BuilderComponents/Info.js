@@ -15,7 +15,7 @@ export default class Info extends BuilderComponent {
     render() {
         return (
             <div>
-                <Basic character={this.character} />
+                <Basic character={this.character} updateState={() => this.setState({})} />
                 <Details character={this.character} />
                 <Stats character={this.character} />
             </div>

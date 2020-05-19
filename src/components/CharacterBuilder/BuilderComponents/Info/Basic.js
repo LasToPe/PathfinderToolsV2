@@ -7,12 +7,19 @@ export default class Basic extends BuilderComponent {
     setRace(race) {
         this.character.Race = Races[race];
 
-        Object.keys(this.character.Race.AbilityMods).forEach(mod => {
-            debugger;
-            this.character[mod].Racial = this.character.Race.AbilityMods[mod];
-        });
+        Object.values(this.character.Abilities).forEach(ability => {
+            ability.Racial = 0;
+        })
 
-        this.setState({});
+        if(this.character.Race.AbilityMods.any) {
+            this.props.updateState();
+            return;
+        } 
+
+        Object.keys(this.character.Race.AbilityMods).forEach(mod => {
+            this.character.Abilities[mod].Racial = this.character.Race.AbilityMods[mod];
+        });
+        this.props.updateState();
     }
 
     render() {
@@ -38,12 +45,12 @@ export default class Basic extends BuilderComponent {
                     </div>
                     <div>
                         <label title="Category">Age</label>
-                        <select name="age" defaultValue="adult" onChange={e => this.setValue({ ageCategory: e.target.value })}>
-                            <option value="young">Young</option>
-                            <option value="adult">Adult</option>
-                            <option value="middle aged">Middle Aged</option>
-                            <option value="old">Old</option>
-                            <option value="venerable">Venerable</option>
+                        <select name="age" defaultValue="Adult" onChange={e => this.setValue({ ageCategory: e.target.value })}>
+                            <option value="Young">Young</option>
+                            <option value="Adult">Adult</option>
+                            <option value="Middle Aged">Middle Aged</option>
+                            <option value="Old">Old</option>
+                            <option value="Venerable">Venerable</option>
                         </select>
                     </div>
                 </div>

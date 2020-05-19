@@ -7,29 +7,26 @@ const pointBuyValues = { 7: -4, 8: -2, 9: -1, 10: 0, 11: 1, 12: 2, 13: 3, 14: 5,
 export default class Stats extends BuilderComponent {
 
     setRacialBonus(ability) {
-        if (!this.character.race.AbilityMods.any) return;
+        if (!this.character.Race.AbilityMods.any) return;
 
-        this.character.race.AbilityMods[ability] = 2;
-        Object.keys(this.character.race.AbilityMods).forEach(mod => {
-            if (mod !== ability && mod !== 'any') {
-                this.character.race.AbilityMods[mod] = 0;
-            }
-        });
+        Object.values(this.character.Abilities).forEach(ability => ability.Racial = 0);
+
+        this.character.Abilities[ability].Racial = 2;
         this.setState({});
     }
 
     setAbility(ability, value) {
-        this.character[ability].Base = value;
+        this.character.Abilities[ability].Base = value;
         this.setState({});
     }
 
     get pointBuy() {
-        let str = pointBuyValues[this.character.Strength.Base];
-        let dex = pointBuyValues[this.character.Dexterity.Base];
-        let con = pointBuyValues[this.character.Constitution.Base];
-        let int = pointBuyValues[this.character.Intelligence.Base];
-        let wis = pointBuyValues[this.character.Wisdom.Base];
-        let cha = pointBuyValues[this.character.Charisma.Base];
+        let str = pointBuyValues[this.character.Abilities.Strength.Base];
+        let dex = pointBuyValues[this.character.Abilities.Dexterity.Base];
+        let con = pointBuyValues[this.character.Abilities.Constitution.Base];
+        let int = pointBuyValues[this.character.Abilities.Intelligence.Base];
+        let wis = pointBuyValues[this.character.Abilities.Wisdom.Base];
+        let cha = pointBuyValues[this.character.Abilities.Charisma.Base];
 
         return str + dex + con + int + wis + cha;
     }
@@ -42,103 +39,103 @@ export default class Stats extends BuilderComponent {
                         <tr>
                             <td>Strength</td>
                             <td>
-                                <select defaultValue={this.character.Strength.Base} onChange={e => this.setAbility('Strength', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Strength.Base} onChange={e => this.setAbility('Strength', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Strength')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Strength.Total} ({this.character.Strength.Modifier >= 0 && '+'}{this.character.Strength.Modifier})
+                                {this.character.Abilities.Strength.Total} ({this.character.Abilities.Strength.Modifier >= 0 && '+'}{this.character.Abilities.Strength.Modifier})
                         </td>
                         </tr>
                         <tr>
                             <td>Dexterity</td>
                             <td>
-                                <select defaultValue={this.character.Dexterity.Base} onChange={e => this.setAbility('Dexterity', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Dexterity.Base} onChange={e => this.setAbility('Dexterity', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Dexterity')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Dexterity.Total} ({this.character.Dexterity.Modifier >= 0 && '+'}{this.character.Dexterity.Modifier})
+                                {this.character.Abilities.Dexterity.Total} ({this.character.Abilities.Dexterity.Modifier >= 0 && '+'}{this.character.Abilities.Dexterity.Modifier})
                         </td>
                         </tr>
                         <tr>
                             <td>Constitution</td>
                             <td>
-                                <select defaultValue={this.character.Constitution.Base} onChange={e => this.setAbility('Constitution', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Constitution.Base} onChange={e => this.setAbility('Constitution', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Constitution')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Constitution.Total} ({this.character.Constitution.Modifier >= 0 && '+'}{this.character.Constitution.Modifier})
+                                {this.character.Abilities.Constitution.Total} ({this.character.Abilities.Constitution.Modifier >= 0 && '+'}{this.character.Abilities.Constitution.Modifier})
                         </td>
                         </tr>
                         <tr>
                             <td>Intelligence</td>
                             <td>
-                                <select defaultValue={this.character.Intelligence.Base} onChange={e => this.setAbility('Intelligence', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Intelligence.Base} onChange={e => this.setAbility('Intelligence', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Intelligence')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Intelligence.Total} ({this.character.Intelligence.Modifier >= 0 && '+'}{this.character.Intelligence.Modifier})
+                                {this.character.Abilities.Intelligence.Total} ({this.character.Abilities.Intelligence.Modifier >= 0 && '+'}{this.character.Abilities.Intelligence.Modifier})
                         </td>
                         </tr>
                         <tr>
                             <td>Wisdom</td>
                             <td>
-                                <select defaultValue={this.character.Wisdom.Base} onChange={e => this.setAbility('Wisdom', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Wisdom.Base} onChange={e => this.setAbility('Wisdom', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Wisdom')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Wisdom.Total} ({this.character.Wisdom.Modifier >= 0 && '+'}{this.character.Wisdom.Modifier})
+                                {this.character.Abilities.Wisdom.Total} ({this.character.Abilities.Wisdom.Modifier >= 0 && '+'}{this.character.Abilities.Wisdom.Modifier})
                         </td>
                         </tr>
                         <tr>
                             <td>Charisma</td>
                             <td>
-                                <select defaultValue={this.character.Charisma.Base} onChange={e => this.setAbility('Charisma', e.target.value)}>
+                                <select defaultValue={this.character.Abilities.Charisma.Base} onChange={e => this.setAbility('Charisma', e.target.value)}>
                                     {statValues.map(val => <option value={val}>{val}</option>)}
                                 </select>
                             </td>
                             {
-                                this.character.race && this.character.race.AbilityMods.any &&
+                                this.character.Race && this.character.Race.AbilityMods.any &&
                                 <td>
                                     <input type="radio" name="ability-bonus" onChange={() => this.setRacialBonus('Charisma')} />
                                 </td>
                             }
                             <td>
-                                {this.character.Charisma.Total} ({this.character.Charisma.Modifier >= 0 && '+'}{this.character.Charisma.Modifier})
+                                {this.character.Abilities.Charisma.Total} ({this.character.Abilities.Charisma.Modifier >= 0 && '+'}{this.character.Abilities.Charisma.Modifier})
                         </td>
                         </tr>
                     </tbody>
