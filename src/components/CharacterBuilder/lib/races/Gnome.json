@@ -2,9 +2,9 @@
     "Name": "Gnome",
     "Description": "Expatriates of the strange land of fey, these small folk have a reputation for flighty and eccentric behavior. Many gnomes are whimsical artisans and tinkers, creating strange devices powered by magic, alchemy, and their quirky imagination. Gnomes have an insatiable need for new experiences that often gets them in trouble.",
     "AbilityMods": {
-        "strength": -2,
-        "constitution": 2,
-        "charisma": 2
+        "Strength": -2,
+        "Constitution": 2,
+        "Charisma": 2
     },
     "Size": "Small",
     "RacialTraits": [

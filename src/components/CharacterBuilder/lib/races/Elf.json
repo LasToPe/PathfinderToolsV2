@@ -2,9 +2,9 @@
     "Name": "Elf",
     "Description": "Tall, noble, and often haughty, elves are long-lived and subtle masters of the wilderness. Elves excel in the arcane arts. Often they use their intrinsic link to nature to forge new spells and create wondrous items that, like their creators, seem nearly impervious to the ravages of time. A private and often introverted race, elves can give the impression they are indifferent to the plights of others.",
     "AbilityMods": {
-        "dexterity": 2,
-        "constitution": -2,
-        "intelligence": 2
+        "Dexterity": 2,
+        "Constitution": -2,
+        "Intelligence": 2
     },
     "Size": "Medium",
     "RacialTraits": [

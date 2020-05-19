@@ -5,7 +5,13 @@ import Races from '../../lib/races/Races';
 export default class Basic extends BuilderComponent {
 
     setRace(race) {
-        this.character.race = Races[race];
+        this.character.Race = Races[race];
+
+        Object.keys(this.character.Race.AbilityMods).forEach(mod => {
+            debugger;
+            this.character[mod].Racial = this.character.Race.AbilityMods[mod];
+        });
+
         this.setState({});
     }
 
