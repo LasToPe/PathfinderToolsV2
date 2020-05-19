@@ -167,3 +167,49 @@ select {
         }
     }
 }
+
+.skills {
+    width: 750px;
+
+    .skill {
+
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+
+        .skill-class-skill {
+            width: 5%;
+        }
+
+        .skill-name {
+            width: 16%;
+            text-align: start;
+        }
+
+        .skill-total {
+            width: 8%;
+        }
+
+        .skill-ability {
+            width: 8%;
+            text-align: center;
+        }
+
+        .skill-ability-mod {
+            width: 8%;
+        }
+
+        .skill-ranks {
+            width: 8%;
+        }
+
+        .skill-misc {
+            width: 8%;
+        }
+
+        input {
+            width: 75%;
+            text-align: center;
+        }
+    }
+}
