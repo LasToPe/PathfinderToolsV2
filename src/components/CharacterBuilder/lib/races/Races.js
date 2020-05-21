@@ -1,11 +1,12 @@
 import Dwarf from './core/Dwarf';
+import Elf from './core/Elf';
 
 export default {
     Dwarf: new Dwarf(),
-    Elf: require('./Elf.json'),
-    Gnome: require('./Gnome.json'),
-    HalfElf: require('./Half-Elf.json'),
-    Halfling: require('./Halfling.json'),
-    HalfOrc: require('./Half-Orc.json'),
-    Human: require('./Human.json')
+    Elf: new Elf(),
+    Gnome: require('./core/Gnome.json'),
+    HalfElf: require('./core/Half-Elf.json'),
+    Halfling: require('./core/Halfling.json'),
+    HalfOrc: require('./core/Half-Orc.json'),
+    Human: require('./core/Human.json')
 }
