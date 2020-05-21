@@ -1,0 +1,502 @@
+[
+    {
+      "Name": "Armored kilt",
+      "Type": "Light",
+      "Cost": "20",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": 6,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "0%",
+      "Weight": "10"
+    },
+    {
+      "Name": "Haramaki",
+      "Type": "Light",
+      "Cost": "3",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": "—",
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "0%",
+      "Weight": "1"
+    },
+    {
+      "Name": "Martial arts training gear",
+      "Type": "Light",
+      "Cost": "45",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": 8,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "5%",
+      "Weight": "5"
+    },
+    {
+      "Name": "Padded",
+      "Type": "Light",
+      "Cost": "5",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": 8,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "5%",
+      "Weight": "10"
+    },
+    {
+      "Name": "Quilted cloth",
+      "Type": "Light",
+      "Cost": "100",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": 8,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "10%",
+      "Weight": "15"
+    },
+    {
+      "Name": "Reinforced tunic",
+      "Type": "Light",
+      "Cost": "1",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "5%",
+      "Weight": "5"
+    },
+    {
+      "Name": "Silken ceremonial",
+      "Type": "Light",
+      "Cost": "30",
+      "Armor Bonus": 1,
+      "Max Dex Bonus": "—",
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "0%",
+      "Weight": "4"
+    },
+    {
+      "Name": "Lamellar cuirass",
+      "Type": "Light",
+      "Cost": "15",
+      "Armor Bonus": 2,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "5%",
+      "Weight": "8"
+    },
+    {
+      "Name": "Leather",
+      "Type": "Light",
+      "Cost": "10",
+      "Armor Bonus": 2,
+      "Max Dex Bonus": 6,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "10%",
+      "Weight": "15"
+    },
+    {
+      "Name": "Rosewood armor",
+      "Type": "Light",
+      "Cost": "50",
+      "Armor Bonus": 2,
+      "Max Dex Bonus": 6,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "10%",
+      "Weight": "15"
+    },
+    {
+      "Name": "Varisian dancing scarves",
+      "Type": "Light",
+      "Cost": "150",
+      "Armor Bonus": 2,
+      "Max Dex Bonus": "—",
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "—",
+      "Weight": "8"
+    },
+    {
+      "Name": "Hellknight leather",
+      "Type": "Light",
+      "Cost": "30",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Hide shirt",
+      "Type": "Light",
+      "Cost": "20",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "18"
+    },
+    {
+      "Name": "Leaf armor",
+      "Type": "Light",
+      "Cost": "500",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": 0,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "20"
+    },
+    {
+      "Name": "Parade",
+      "Type": "Light",
+      "Cost": "25",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "20"
+    },
+    {
+      "Name": "Spider-silk bodysuit",
+      "Type": "Light",
+      "Cost": "850",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 6,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "10%",
+      "Weight": "4"
+    },
+    {
+      "Name": "Studded leather",
+      "Type": "Light",
+      "Cost": "25",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "20"
+    },
+    {
+      "Name": "Wooden",
+      "Type": "Light",
+      "Cost": "20",
+      "Armor Bonus": 3,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -1,
+      "Arcane Spell Failure Chance": "15%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Chain shirt",
+      "Type": "Light",
+      "Cost": "100",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": -2,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Lamellar (leather)",
+      "Type": "Light",
+      "Cost": "60",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -2,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Armored coat",
+      "Type": "Medium",
+      "Cost": "50",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -2,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "20"
+    },
+    {
+      "Name": "Chain coat",
+      "Type": "Medium",
+      "Cost": "75",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 5,
+      "Armor Check Penalty": -2,
+      "Arcane Spell Failure Chance": "30%",
+      "Weight": "40"
+    },
+    {
+      "Name": "Erutaki coat",
+      "Type": "Medium",
+      "Cost": "80",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -2,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "24"
+    },
+    {
+      "Name": "Hide",
+      "Type": "Medium",
+      "Cost": "15",
+      "Armor Bonus": 4,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": -3,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Do-maru",
+      "Type": "Medium",
+      "Cost": "200",
+      "Armor Bonus": 5,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "30"
+    },
+    {
+      "Name": "Kikko",
+      "Type": "Medium",
+      "Cost": "250",
+      "Armor Bonus": 5,
+      "Max Dex Bonus": 4,
+      "Armor Check Penalty": -3,
+      "Arcane Spell Failure Chance": "20%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Lamellar (horn)",
+      "Type": "Medium",
+      "Cost": "100",
+      "Armor Bonus": 5,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "30"
+    },
+    {
+      "Name": "Scale mail",
+      "Type": "Medium",
+      "Cost": "50",
+      "Armor Bonus": 5,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "30"
+    },
+    {
+      "Name": "Agile breastplate",
+      "Type": "Medium",
+      "Cost": "400",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "25"
+    },
+    {
+      "Name": "Breastplate",
+      "Type": "Medium",
+      "Cost": "200",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "30"
+    },
+    {
+      "Name": "Chainmail",
+      "Type": "Medium",
+      "Cost": "150",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 2,
+      "Armor Check Penalty": -5,
+      "Arcane Spell Failure Chance": "30%",
+      "Weight": "40"
+    },
+    {
+      "Name": "Four-mirror",
+      "Type": "Medium",
+      "Cost": "125",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 2,
+      "Armor Check Penalty": -5,
+      "Arcane Spell Failure Chance": "30%",
+      "Weight": "45"
+    },
+    {
+      "Name": "Lamellar (steel)",
+      "Type": "Medium",
+      "Cost": "150",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -5,
+      "Arcane Spell Failure Chance": "25%",
+      "Weight": "35"
+    },
+    {
+      "Name": "Mountain pattern",
+      "Type": "Medium",
+      "Cost": "250",
+      "Armor Bonus": 6,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -4,
+      "Arcane Spell Failure Chance": "30%",
+      "Weight": "40"
+    },
+    {
+      "Name": "Banded mail",
+      "Type": "Heavy",
+      "Cost": "250",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "35"
+    },
+    {
+      "Name": "Field plate",
+      "Type": "Heavy",
+      "Cost": "1,200",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -5,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Kusari gusoku",
+      "Type": "Heavy",
+      "Cost": "350",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "45"
+    },
+    {
+      "Name": "Lamellar (iron)",
+      "Type": "Heavy",
+      "Cost": "200",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Splint mail",
+      "Type": "Heavy",
+      "Cost": "200",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "45"
+    },
+    {
+      "Name": "Tatami-do",
+      "Type": "Heavy",
+      "Cost": "1,000",
+      "Armor Bonus": 7,
+      "Max Dex Bonus": 3,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "45"
+    },
+    {
+      "Name": "Agile half-plate",
+      "Type": "Heavy",
+      "Cost": "850",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "55"
+    },
+    {
+      "Name": "Alkenstar fortress plate",
+      "Type": "Heavy",
+      "Cost": "2,100",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "75"
+    },
+    {
+      "Name": "Half-plate",
+      "Type": "Heavy",
+      "Cost": "600",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Hellknight half-plate",
+      "Type": "Heavy",
+      "Cost": "850",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Lamellar (stone)",
+      "Type": "Heavy",
+      "Cost": "500",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 0,
+      "Armor Check Penalty": -7,
+      "Arcane Spell Failure Chance": "40%",
+      "Weight": "45"
+    },
+    {
+      "Name": "O-yoroi",
+      "Type": "Heavy",
+      "Cost": "1,700",
+      "Armor Bonus": 8,
+      "Max Dex Bonus": 2,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "45"
+    },
+    {
+      "Name": "Full plate",
+      "Type": "Heavy",
+      "Cost": "1,500",
+      "Armor Bonus": 9,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Gray maiden plate",
+      "Type": "Heavy",
+      "Cost": "1,500",
+      "Armor Bonus": 9,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Hellknight plate",
+      "Type": "Heavy",
+      "Cost": "2,000",
+      "Armor Bonus": 9,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -5,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "50"
+    },
+    {
+      "Name": "Stoneplate",
+      "Type": "Heavy",
+      "Cost": "1,800",
+      "Armor Bonus": 9,
+      "Max Dex Bonus": 1,
+      "Armor Check Penalty": -6,
+      "Arcane Spell Failure Chance": "35%",
+      "Weight": "75"
+    }
+  ]
