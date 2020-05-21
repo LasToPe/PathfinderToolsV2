@@ -25,7 +25,7 @@ export default class Feat extends BuilderComponent {
         feats[index] = feat;
         this.setState({ feats });
 
-        this.character.feats[this.props.level] = this.state.feats;
+        this.character.Feats[this.props.level] = this.state.feats;
     }
 
     addBonusFeat() {
@@ -51,7 +51,7 @@ export default class Feat extends BuilderComponent {
                         this.state.feats.map((feat, index) => {
                             return (
                                 <span>
-                                    <input onChange={e => this.setFeat(index, e.target.value)} defaultValue={feat.Name} />
+                                    <input onChange={e => this.setFeat(index, e.target.value)} defaultValue={feat.Name} list="feats-list" />
                                     {
                                         (index > 0 || this.props.level % 2 === 0) &&
                                         <span className="icon" onClick={() => this.removeBonusFeat()} title="Remove bonus feat">
