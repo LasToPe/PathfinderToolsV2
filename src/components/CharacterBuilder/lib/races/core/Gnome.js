@@ -1,4 +1,5 @@
 import Race from "../Race"
+import Size from "../Size";
 
 export default class Gnome extends Race {
 
@@ -12,7 +13,7 @@ export default class Gnome extends Race {
             "Constitution": 2,
             "Charisma": 2
         };
-        this.Size = "Small";
+        this.Size = Size.Small;
         this.RacialTraits = [
             {
                 "Low-Light Vision": "Gnomes can see twice as far as humans in conditions of dim light."

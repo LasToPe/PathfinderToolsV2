@@ -10,7 +10,6 @@ export default class HalfElf extends Race {
         this.AbilityMods = {
             any: true
         };
-        this.Size = "Medium";
         this.RacialTraits = [
             {
                 "Low-Light Vision": "Elves can see twice as far as humans in conditions of dim light."

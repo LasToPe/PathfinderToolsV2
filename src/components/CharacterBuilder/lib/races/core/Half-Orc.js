@@ -10,7 +10,6 @@ export default class HalfOrc extends Race {
         this.AbilityMods = {
             any: true
         };
-        this.Size = "Medium";
         this.RacialTraits = [
             {
                 "Darkvision": "Half-orcs can see in the dark up to 60 feet."

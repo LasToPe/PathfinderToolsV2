@@ -10,7 +10,6 @@ export default class Dwarf extends Race {
             "Wisdom": 2,
             "Charisma": -2
         };
-        this.Size = "Medium";
         this.RacialTraits = [
             {
                 "Slow and Steady": "Dwarves have a base speed of 20 feet, but their speed is never modified by armor or encumbrance."

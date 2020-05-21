@@ -1,4 +1,5 @@
 import Race from "../Race"
+import Size from "../Size";
 
 export default class Halfling extends Race {
 
@@ -12,7 +13,7 @@ export default class Halfling extends Race {
             "Dexterity": 2,
             "Charisma": 2
         };
-        this.Size = "Small";
+        this.Size = Size.Small;
         this.RacialTraits = [
             {
                 "Fearless": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck."

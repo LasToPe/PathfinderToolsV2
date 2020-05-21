@@ -10,7 +10,6 @@ export default class Human extends Race {
         this.AbilityMods = {
             any: true
         };
-        this.Size = "Medium";
         this.RacialTraits = [
             {
                 "Bonus Feat": "Humans select one extra feat at 1st level."

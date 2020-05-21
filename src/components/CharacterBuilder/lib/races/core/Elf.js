@@ -11,7 +11,6 @@ export default class Elf extends Race {
             "Constitution": -2,
             "Intelligence": 2
         };
-        this.Size = "Medium";
         this.RacialTraits = [
             {
                 "Low-Light Vision": "Elves can see twice as far as humans in conditions of dim light."
