@@ -9,9 +9,9 @@ export default class Stats extends BuilderComponent {
     setRacialBonus(ability) {
         if (!this.character.Race.AbilityMods.any) return;
 
-        Object.values(this.character.Abilities).forEach(ability => ability.Racial = 0);
+        Object.values(this.character.Abilities).forEach(ability => ability.RacialModifier = 0);
 
-        this.character.Abilities[ability].Racial = 2;
+        this.character.Abilities[ability].RacialModifier = 2;
         this.setState({});
     }
 

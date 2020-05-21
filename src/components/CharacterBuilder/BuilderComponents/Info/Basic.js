@@ -1,14 +1,21 @@
 import React from 'react';
 import BuilderComponent from '../../BuilderComponent';
 import Races from '../../lib/races/Races';
+import AgeCategories from '../../lib/base/AgeCategories';
 
 export default class Basic extends BuilderComponent {
+
+    constructor(props) {
+        super(props);
+
+        this.character.Age = AgeCategories.Adult;
+    }
 
     setRace(race) {
         this.character.Race = Races[race];
 
         Object.values(this.character.Abilities).forEach(ability => {
-            ability.Racial = 0;
+            ability.RacialModifier = 0;
         })
 
         if(this.character.Race.AbilityMods.any) {
@@ -17,7 +24,17 @@ export default class Basic extends BuilderComponent {
         } 
 
         Object.keys(this.character.Race.AbilityMods).forEach(mod => {
-            this.character.Abilities[mod].Racial = this.character.Race.AbilityMods[mod];
+            this.character.Abilities[mod].RacialModifier = this.character.Race.AbilityMods[mod];
+        });
+        this.props.updateState();
+    }
+
+    setAge(ageCategory) {
+        let age = AgeCategories[ageCategory];
+        this.character.Age = age;
+
+        Object.values(this.character.Abilities).forEach(ability => {
+            ability.AgeModifier = age.AbilityMods[ability.Name];
         });
         this.props.updateState();
     }
@@ -45,12 +62,8 @@ export default class Basic extends BuilderComponent {
                     </div>
                     <div>
                         <label title="Category">Age</label>
-                        <select name="age" defaultValue="Adult" onChange={e => this.setValue({ ageCategory: e.target.value })}>
-                            <option value="Young">Young</option>
-                            <option value="Adult">Adult</option>
-                            <option value="Middle Aged">Middle Aged</option>
-                            <option value="Old">Old</option>
-                            <option value="Venerable">Venerable</option>
+                        <select name="age" defaultValue="Adult" onChange={e => this.setAge(e.target.value)}>
+                            {Object.values(AgeCategories).map(ageCategory => <option value={ageCategory.Name}>{ageCategory.Name}</option>)}
                         </select>
                     </div>
                 </div>
