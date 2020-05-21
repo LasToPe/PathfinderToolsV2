@@ -74,9 +74,9 @@ class AgeCategory {
 }
 
 export default {
-    Young: AgeCategory.Young,
-    Adult: AgeCategory.Adult,
+    "Young": AgeCategory.Young,
+    "Adult": AgeCategory.Adult,
     "Middle aged": AgeCategory.MiddleAged,
-    Old: AgeCategory.Old,
-    Venerable: AgeCategory.Venerable
+    "Old": AgeCategory.Old,
+    "Venerable": AgeCategory.Venerable
 }
