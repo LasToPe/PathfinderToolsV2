@@ -6,6 +6,7 @@ import ClassLevels from './BuilderComponents/ClassLevels';
 import BuilderTab from './BuilderTab';
 import Feats from './BuilderComponents/Feats';
 import Skills from './BuilderComponents/Skills';
+import Equipment from './BuilderComponents/Equipment';
 
 export default class CharacterBuilder extends React.Component {
 
@@ -33,6 +34,7 @@ export default class CharacterBuilder extends React.Component {
                         <li><a className={this.state.tab === 'class-levels' ? 'active' : ''} href="#class-levels" onClick={() => this.gotoTab('class-levels')}>Class Levels</a></li>
                         <li><a className={this.state.tab === 'feats' ? 'active': ''} href="#feats" onClick={() => this.gotoTab('feats')}>Feats</a></li>
                         <li><a className={this.state.tab === 'skills' ? 'active': ''} href="#skills" onClick={() => this.gotoTab('skills')}>Skills</a></li>
+                        <li><a className={this.state.tab === 'equipment' ? 'active': ''} href="#equipment" onClick={() => this.gotoTab('equipment')}>Equipment</a></li>
                     </ul>
                 </nav>
 
@@ -47,6 +49,9 @@ export default class CharacterBuilder extends React.Component {
                 </BuilderTab>
                 <BuilderTab active={this.state.tab === 'skills'}>
                     <Skills character={this.state.character} />
+                </BuilderTab>
+                <BuilderTab active={this.state.tab === 'equipment'}>
+                    <Equipment character={this.state.character} />
                 </BuilderTab>
             </div>
         )
