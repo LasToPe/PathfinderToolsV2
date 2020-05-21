@@ -1,13 +1,17 @@
 import Dwarf from './core/Dwarf';
 import Elf from './core/Elf';
 import Gnome from './core/Gnome';
+import HalfElf from './core/Half-Elf';
+import HalfOrc from './core/Half-Orc';
+import Halfling from './core/Halfling';
+import Human from './core/Human';
 
 export default {
     Dwarf: new Dwarf(),
     Elf: new Elf(),
     Gnome: new Gnome(),
-    HalfElf: require('./core/Half-Elf.json'),
-    Halfling: require('./core/Halfling.json'),
-    HalfOrc: require('./core/Half-Orc.json'),
-    Human: require('./core/Human.json')
+    HalfElf: new HalfElf(),
+    Halfling: new Halfling(),
+    HalfOrc: new HalfOrc(),
+    Human: new Human()
 }
