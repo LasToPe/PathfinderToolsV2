@@ -1,5 +1,5 @@
-import Ability from "./Ability";
-import Skill from "./Skill";
+import Ability from "./base/Ability";
+import Skill from "./base/Skill";
 
 export default class Character {
 
