@@ -1,5 +1,7 @@
+import Dwarf from './core/Dwarf';
+
 export default {
-    Dwarf: require('./Dwarf.json'),
+    Dwarf: new Dwarf(),
     Elf: require('./Elf.json'),
     Gnome: require('./Gnome.json'),
     HalfElf: require('./Half-Elf.json'),
