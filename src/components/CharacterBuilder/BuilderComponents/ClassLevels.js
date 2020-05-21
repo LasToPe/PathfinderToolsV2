@@ -7,18 +7,20 @@ export default class ClassLevels extends BuilderComponent {
     constructor(props) {
         super(props);
 
-        this.character.levels = {};
+        this.character.Levels = {
+            "1": {}
+        };
     }
 
     addLevel() {
-        let level = Object.keys(this.character.levels).length + 1;
-        this.character.levels[level] = {};
+        let level = Object.keys(this.character.Levels).length + 1;
+        this.character.Levels[level] = {};
         this.setState({});
     }
 
     removeLevel() {
-        let level = Object.keys(this.character.levels).length;
-        delete this.character.levels[level];
+        let level = Object.keys(this.character.Levels).length;
+        delete this.character.Levels[level];
         this.setState({});
     }
 
@@ -26,7 +28,7 @@ export default class ClassLevels extends BuilderComponent {
         return (
             <div className="class-levels">
                 {
-                    Object.keys(this.character.levels)
+                    Object.keys(this.character.Levels)
                         .map(level =>
                             <ClassLevel
                                 level={level}

@@ -14,7 +14,7 @@ export default class Feats extends BuilderComponent {
         return (
             <div className="feats">
                 {
-                    Object.keys(this.character.levels).map(level => {
+                    Object.keys(this.character.Levels).map(level => {
                         return <Feat level={level} character={this.character} />
                     })
                 }

@@ -18,7 +18,7 @@ export default class ClassLevel extends BuilderComponent {
     get classLevel() {
         let classLevel = 0;
         for (let i = 1; i <= this.props.level; i++) {
-            if (this.character.levels[i] && this.character.levels[i].Name === this.state.class) {
+            if (this.character.Levels[i] && this.character.Levels[i].Name === this.state.class) {
                 classLevel += 1;
             }
         }
@@ -30,7 +30,7 @@ export default class ClassLevel extends BuilderComponent {
     }
 
     submit() {
-        this.character.levels[this.props.level] = Classes[this.state.class]
+        this.character.Levels[this.props.level] = Classes[this.state.class]
 
         this.setState({ editing: false });
         this.props.updateState();
@@ -46,14 +46,14 @@ export default class ClassLevel extends BuilderComponent {
 
     renderDetails() {
         if (
-            !this.character.levels[this.props.level] ||
-            !this.character.levels[this.props.level].Specials ||
-            !this.character.levels[this.props.level].Specials[this.classLevel - 1]
+            !this.character.Levels[this.props.level] ||
+            !this.character.Levels[this.props.level].Specials ||
+            !this.character.Levels[this.props.level].Specials[this.classLevel - 1]
         ) {
             return null;
         }
 
-        return this.character.levels[this.props.level].Specials[this.classLevel - 1].map(special => {
+        return this.character.Levels[this.props.level].Specials[this.classLevel - 1].map(special => {
             return <SpecialChoice
                 character={this.character}
                 class={this.state.class}
@@ -71,9 +71,9 @@ export default class ClassLevel extends BuilderComponent {
                 </div>
                 <div className="class">
                     {
-                        this.character.levels[this.props.level] &&
+                        this.character.Levels[this.props.level] &&
                         !this.state.editing &&
-                        `${this.character.levels[this.props.level].Name} (${this.classLevel})`
+                        `${this.character.Levels[this.props.level].Name} (${this.classLevel})`
                     }
                     {
                         this.state.editing &&
