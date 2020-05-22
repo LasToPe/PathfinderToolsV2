@@ -6,11 +6,13 @@ import ShieldItems from '../../lib/equipment/shield.json';
 export default class Armor extends BuilderComponent {
 
     setArmor(armor) {
-
+        this.character.Equipment.Armor = ArmorItems.find(item => item.Name === armor);
+        this.setState({});
     }
 
     setShield(shield) {
-        
+        this.character.Equipment.Shield = ShieldItems.find(item => item.Name === shield);
+        this.setState({});
     }
 
     render() {
@@ -20,7 +22,7 @@ export default class Armor extends BuilderComponent {
             <div className="armor">
                 <div className="armor-armor">
                     Armor: 
-                    <select>
+                    <select onChange={ e => this.setArmor(e.target.value) }>
                         <option>No Armor</option>
                         {
                             armorTypes.map(type => {
@@ -39,7 +41,7 @@ export default class Armor extends BuilderComponent {
                 </div>
                 <div className="armor-shield">
                     Shield:
-                    <select>
+                    <select onChange={e => this.setShield(e.target.value)}>
                         <option>No Shield</option>
                         {
                             ShieldItems.map(item => {
