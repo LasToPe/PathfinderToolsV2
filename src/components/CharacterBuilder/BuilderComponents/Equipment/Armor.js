@@ -20,8 +20,9 @@ export default class Armor extends BuilderComponent {
 
         return (
             <div className="armor">
+                <b>Armor items</b>
                 <div className="armor-armor">
-                    Armor: 
+                    <label>Armor:</label>
                     <select onChange={ e => this.setArmor(e.target.value) }>
                         <option>No Armor</option>
                         {
@@ -40,7 +41,7 @@ export default class Armor extends BuilderComponent {
                     </select>
                 </div>
                 <div className="armor-shield">
-                    Shield:
+                    <label>Shield:</label>
                     <select onChange={e => this.setShield(e.target.value)}>
                         <option>No Shield</option>
                         {

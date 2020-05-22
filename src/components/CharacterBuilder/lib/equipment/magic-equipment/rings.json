@@ -1,0 +1,874 @@
+[
+    {
+      "Name": "Dungeon Ring (prisoner's)",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Ironbound Ring (Minion)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Fool's Malady",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Kyton Ring",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Ring of Arcane Signets",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Ring of Inurement",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Ring of the Faithful Dead",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Riverclub Ring",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Ring of Serene Contortions",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Ring of Torag",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Dark Life Ring",
+      "Cost": "1,250 gp"
+    },
+    {
+      "Name": "Ring of Resistance (+1)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Deadeye's Spotter Ring",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Ring of Spell Knowledge (type I)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Ring of Balanced Grip",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Ring of Starlight",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Ring of Protection (+1)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Bloodletting Thimble",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ring of Lingering Blood Magic",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ring of the Grasping Grave",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ring of the Sublime",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ring of Emancipation",
+      "Cost": "2,100 gp"
+    },
+    {
+      "Name": "Ring of Feather Falling",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Ring of Climbing",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Ring of Jumping",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Ring of Sustenance",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Ring of Swimming",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Droskar's Guiding Ring",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Ring of Natural Attunement (Leshy)",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Knight-Inheritor's Ring",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Profane Seal Signet",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ring of Austere Majesty",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ring of Ferocious Action",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ring of Powerful Blood Magic",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ring of Eloquence",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Ring of Stairs and Stars",
+      "Cost": "3,820 gp"
+    },
+    {
+      "Name": "Ring of Ancestral Blood Magic",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Ring of Counterspells",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Ring of Planar Focus",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Ring of Seven Lovely Colors",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Saltspray Ring",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Red Hound Ring",
+      "Cost": "4,700 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (1 stone)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Gluttonous Feasting Ring",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Ring of Ki Mastery",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Ring of Maniacal Devices",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Ring of Rat Fangs",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Glorious Flame Ring",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Ring of Vengeful Blood Magic",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Ring of Resistance (+2)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Communique Rings",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Far Strike",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Return",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Sacred Mistletoe",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Sundering Metals",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Swarming Stabs",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Knowledge (type II)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ring of Unquenchable Passions",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Ring of Grit Mastery",
+      "Cost": "6,840 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Archon)",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Angel)",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Protean)",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Kyton)",
+      "Cost": "7,300 gp"
+    },
+    {
+      "Name": "Ring of the Stone Sibling",
+      "Cost": "7,400 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Asura)",
+      "Cost": "7,600 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Psychopomp)",
+      "Cost": "7,600 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Agathion)",
+      "Cost": "7,700 gp"
+    },
+    {
+      "Name": "Ring of Culturemeld",
+      "Cost": "7,800 gp"
+    },
+    {
+      "Name": "Ring of Natural Attunement (Kami)",
+      "Cost": "7,800 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Aeon)",
+      "Cost": "7,800 gp"
+    },
+    {
+      "Name": "Ring of the Godless (+1)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Protection (+2)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Maintenance Overseer's Ring",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ironbound Ring (Master)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Forcefangs",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Heroes",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Mind Shielding",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Strength Sapping",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of the Beast",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Society Ring",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Soultether Ring",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Inevitable)",
+      "Cost": "8,100 gp"
+    },
+    {
+      "Name": "Band of Toxic Nullification",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Contract Rings",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Ring of Force Shield",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Qlippoth)",
+      "Cost": "8,600 gp"
+    },
+    {
+      "Name": "Ring of the Ram",
+      "Cost": "8,600 gp"
+    },
+    {
+      "Name": "Scholar's Ring",
+      "Cost": "8,700 gp"
+    },
+    {
+      "Name": "Ring of Protected Life",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Rings of Friend-Finding",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Div)",
+      "Cost": "9,100 gp"
+    },
+    {
+      "Name": "Band of Efficacious Death",
+      "Cost": "9,250 gp"
+    },
+    {
+      "Name": "Splendorous Ring",
+      "Cost": "9,900 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (2 stones)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Revelation (lesser)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Climbing (improved)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Curing",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Foe Focus",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Jumping (improved)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Seven Virtues",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Swimming (improved)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ring of Summoning Affinity (Daemon)",
+      "Cost": "10,600 gp"
+    },
+    {
+      "Name": "Ring of Animal Friendship",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Ring of the Iron Skull",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Ring of Transposition",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Holdout Ring",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Ring of Tactical Precision",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Ring of the Sophisticate",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Decoy Ring",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Energy Resistance (minor)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Blood Calling",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Craft Magic",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Ectoplasmic Invigoration",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Immolation",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Retreat",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of the Troglodyte",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Steelhand Circle",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Ring of Chameleon Power",
+      "Cost": "12,700 gp"
+    },
+    {
+      "Name": "Ring of Natural Attunement (Drake)",
+      "Cost": "12,880 gp"
+    },
+    {
+      "Name": "Ghost Battling Ring",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Ring of Resistance (+3)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Ring of Spell Knowledge (type III)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Ring of Rulership",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Ring of the Sea Strider",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Duxotar's Signet",
+      "Cost": "14,500 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (3 stones)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ophidian Coil",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of Adept Maneuvers",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of Resilience",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of Retribution",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of the Cacodaemon",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of Water Walking",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Scavenger's Ring",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring of Revelation (greater)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Heavenly Aegis Ring",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Dungeon Ring (jailer's)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Ring of Perfect Sizing",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Sigil of Kraggodan",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Ring of Entropy and Order",
+      "Cost": "16,200 gp"
+    },
+    {
+      "Name": "Ring of the Godless (+2)",
+      "Cost": "17,000 gp"
+    },
+    {
+      "Name": "Ring of Protection (+3)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Ring of Inner Fortitude (minor)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Storing (minor)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Ring of Stony Flesh",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Ring of the Clean Hands",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Rings of Bondage",
+      "Cost": "18,200 gp"
+    },
+    {
+      "Name": "Ring of Energy Shroud",
+      "Cost": "19,500 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (4 stones)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Nethysian Ring of Minor Spell Storing",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Arcane Mastery",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Invisibility",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Phrenic Prowess",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Plagues",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Terrible Cost",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Wizardry (type I)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Mysticism (Type I)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Ring of Resistance (+4)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Ring of Revelation (superior)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Knowledge (type IV)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (5 stones)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Ring of Evasion",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Ring of X-Ray Vision",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Witness Hunter's Ring",
+      "Cost": "25,200 gp"
+    },
+    {
+      "Name": "Swarmwalker's Ring",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "The Bloodflame Ring",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Ring of the Godless (+3)",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Ring of Blinking",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Ring of Energy Resistance (major)",
+      "Cost": "28,000 gp"
+    },
+    {
+      "Name": "Ring of the Ecclesiarch",
+      "Cost": "28,500 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (6 stones)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Elemental Ring",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Planefarer's Band",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Ring of Transcendent Spells",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Rings of Alien Geometries",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Ring of Resumption",
+      "Cost": "30,800 gp"
+    },
+    {
+      "Name": "Ring of Energy Dampening",
+      "Cost": "31,500 gp"
+    },
+    {
+      "Name": "Ring of Protection (+4)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Ring of Refusal",
+      "Cost": "32,500 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (7 stones)",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Sihedron Ring",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Ring of Resistance (+5)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Ring of the Godless (+4)",
+      "Cost": "38,000 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (8 stones)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Ring of Freedom of Movement",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Ring of Mysticism (Type II)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Ring of Wizardry (type II)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Ring of Inner Fortitude (major)",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Rings of Bondage, Greater",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Ring of Energy Resistance (greater)",
+      "Cost": "44,000 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom (9 stones)",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Ring of Delayed Doom",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Ring of Fear Reflection",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Ring of Protection (+5)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of the Godless (+5)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Band of Triumph",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of Friend Shield",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of Psychic Mastery",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of Shooting Stars",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Storing",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Ring of Continuation",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Survivor's Ring",
+      "Cost": "56,160 gp"
+    },
+    {
+      "Name": "Ring of Inner Fortitude (greater)",
+      "Cost": "66,000 gp"
+    },
+    {
+      "Name": "Spiritualist Rings",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Ring of Wizardry (type III)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Ring of Mysticism (Type III)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Ring of Telekinesis",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Ring of Regeneration",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Turning",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Ring of Mysticism (Type IV)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Ring of Wizardry (type IV)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Ring of the Shadow Victim",
+      "Cost": "101,000 gp"
+    },
+    {
+      "Name": "Ring of Three Wishes",
+      "Cost": "120,000 gp"
+    },
+    {
+      "Name": "Ring of Djinni Calling",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Ring of the Recalled Soul",
+      "Cost": "150,000 gp"
+    },
+    {
+      "Name": "Ring of the Hidden Psyche",
+      "Cost": "160,000 gp"
+    },
+    {
+      "Name": "Ring of Splendid Security",
+      "Cost": "180,000 gp"
+    },
+    {
+      "Name": "Ring of Elemental Command",
+      "Cost": "200,000 gp"
+    },
+    {
+      "Name": "Ring of Spell Storing (major)",
+      "Cost": "200,000 gp"
+    }
+  ]

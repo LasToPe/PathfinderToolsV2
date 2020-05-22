@@ -213,3 +213,34 @@ button.btn {
         }
     }
 }
+
+.equipment {
+    select {
+        width: 250px;
+    }
+}
+
+.weapons {
+    label {
+        width: 100px;
+        display: inline-block;
+    }
+
+    .weapon-category {
+        width: 100px;
+    }
+}
+
+.armor {
+    label {
+        width: 100px;
+        display: inline-block;
+    }
+}
+
+.magic-equipment {
+    label {
+        width: 100px;
+        display: inline-block;
+    }
+}

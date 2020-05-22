@@ -29,7 +29,7 @@ export default class Weapon extends BuilderComponent {
 
         return (
             <div className="weapon">
-                Weapon:
+                <label>Weapon:</label>
                 <select defaultValue={this.props.weapon.Name} onChange={e => this.setWeapon(e.target.value)}>
                     <option hidden>Select weapon</option>
                     {
@@ -44,7 +44,7 @@ export default class Weapon extends BuilderComponent {
                         })
                     }
                 </select>
-                <select defaultValue={this.state.category} onChange={e => this.setState({ category: e.target.value })}>
+                <select className="weapon-category" defaultValue={this.state.category} onChange={e => this.setState({ category: e.target.value })}>
                     {weaponCategories.map(cat => <option value={cat}>{cat}</option>)}
                 </select>
             </div>
