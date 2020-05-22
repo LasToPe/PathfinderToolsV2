@@ -6,6 +6,13 @@ import Magic from './Equipment/Magic';
 import Misc from './Equipment/Misc';
 
 export default class Equipment extends BuilderComponent {
+
+    constructor(props) {
+        super(props);
+
+        this.character.Equipment = {};
+    }
+
     render() {
         return (
             <div className="equipment">
