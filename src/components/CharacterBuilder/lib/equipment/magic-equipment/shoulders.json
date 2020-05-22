@@ -1,0 +1,618 @@
+[
+    {
+      "Name": "Catching Cape",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Protean Cloak (+1 bonus)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Cloak of Human Guise",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Cloak of Resistance (+1)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Muleback Cords",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Shawl of Life-Keeping",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Shield Cloak",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Pauldrons of Unflinching Fortitude (+1/+2 Fortitude)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Cloak of Quick Reflexes (+1/+2 Reflex)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Cape of Free Will (+1/+2 Will)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Quickchange Cloak",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Cowardly Crouching Cloak",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Protean Cloak (+2 bonus)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Entangling Aiguillette",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Cloak of the Jungle",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Cloak of Elvenkind",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Cloak of the Hedge Wizard",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Cloak of the Night Sky",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Rockfall Cloak",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Cloak of Fiery Vanishing",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Caparison of Resistance (+1 bonus)",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Cloak of the Crusader",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Deathlurker's Cloak",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Cloak of Fangs",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Great Barghest Hero Cloak",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Grapsing Cloak",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Pauldrons of the Serpent",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Cloak of Blood Alarm (Ratfolk)",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Bear Pelt of the Bonebreaker",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Rimepelt",
+      "Cost": "3,350 gp"
+    },
+    {
+      "Name": "Cloak of Woodland Creatures",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Stonemist Cloak",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Cloak of Eternal Mist",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Elusion Cloak",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Swordlord's Cloak (+1 bonus)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Cloak of Resistance (+2)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Cloak of the Yeti",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Featherscale Cloak",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Protean Cloak (+3 bonus)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Golden Eagle Epaulets",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Shroud of Venom",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Skelterhide",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "The Red Raven's Cape",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Harborwing Cloak",
+      "Cost": "5,200 gp"
+    },
+    {
+      "Name": "Iron Guard Pauldrons",
+      "Cost": "5,750 gp"
+    },
+    {
+      "Name": "Pauldrons of Unflinching Fortitude (+2/+3 Fortitude)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Cloak of Quick Reflexes (+2/+3 Reflex)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Cape of Free Will (+2/+3 Will)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Cloak of Heavenly Fire",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Cloak of the Scuttling Rat",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Dead Man's Shroud",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Mantle of the Darkest Night",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Seafoam Shawl",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Treeform Cloak",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Cloak of the Sneaky Scoundrel",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Soothing Stole",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Eagle Cape",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Cloak of the Manta Ray",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Plagueborn Mantle",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Hunter's Cloak",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Protean Cloak (+4 bonus)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Aspergillum Cloak",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Crow Brother's Cloak",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Cloak of Resistance (+3)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Arbalest Cloak",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Cape of Daring Deeds",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Cloak of the Troll King",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Phantom Entourage",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Poet's Cloak",
+      "Cost": "9,750 gp"
+    },
+    {
+      "Name": "Cloak of the Duskwalker",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Cocoon Cloak",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Pauldrons of the Bull",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Stone Cloak (Minor)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Caparison of Resistance (+2 bonus)",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Cape of the Mountebank",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Pauldrons of the Watchful Lion",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Cloak of Flash and Shadow",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Cloak of the Hunt",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Lion Cloak",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Mantle of the Protector",
+      "Cost": "12,200 gp"
+    },
+    {
+      "Name": "Protean Cloak (+5 bonus)",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Cloak of Good Fortune",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Mantle of Spores",
+      "Cost": "13,400 gp"
+    },
+    {
+      "Name": "Pauldrons of Unflinching Fortitude (+3/+4 Fortitude)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Cloak of Quick Reflexes (+3/+4 Reflex)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Cape of Free Will (+3/+4 Will)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Cloak of the Saga Keeper",
+      "Cost": "13,800 gp"
+    },
+    {
+      "Name": "Cape of Effulgent Escape",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Cape of Feinting",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Cloak of Arachnida",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Gunfighter's Poncho",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Tentacle Cloak",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Demonspike Pauldrons",
+      "Cost": "14,350 gp"
+    },
+    {
+      "Name": "Pelt of the Ulfen Wolf",
+      "Cost": "14,800 gp"
+    },
+    {
+      "Name": "Quicksand Cloak",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Comfort's Cloak",
+      "Cost": "15,600 gp"
+    },
+    {
+      "Name": "Pelt of the Beast",
+      "Cost": "15,600 gp"
+    },
+    {
+      "Name": "Swordlord's Cloak (+2 bonus)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Cloak of Resistance (+4)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Hyena Spirit Skin",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Shawl of the Crone",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Prestidigitator's Cloak",
+      "Cost": "17,200 gp"
+    },
+    {
+      "Name": "Dreamwing Cape",
+      "Cost": "17,500 gp"
+    },
+    {
+      "Name": "Cloak of Daggers",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Ebony Bolero",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Stole of Justice",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Moss Cloak",
+      "Cost": "18,700 gp"
+    },
+    {
+      "Name": "Jellyfish Cape",
+      "Cost": "19,200 gp"
+    },
+    {
+      "Name": "Cloak of the Diplomat",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Key Cloak",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Murktouch Cloak",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Slashing Cloak",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Stone Cloak (Major)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Reaper's Wisdom",
+      "Cost": "21,600 gp"
+    },
+    {
+      "Name": "Erinyes Company Cloak",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Groundbreaker Cloak",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Wings of Flying (Lesser)",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Pauldrons of Unflinching Fortitude (+4/+5 Fortitude)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Cloak of Quick Reflexes (+4/+5 Reflex)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Cape of Free Will (+4/+5 Will)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Lycanthrope Skin (Skinwalker) (boar, rat, wolf)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Cloak of Displacement (Minor)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Caparison of Resistance (+3 bonus)",
+      "Cost": "24,300 gp"
+    },
+    {
+      "Name": "Cloak of Resistance (+5)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Melding Cloak",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Cloak of the Bat",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Pelt of Primal Power",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Arms of the Marilith",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Cloak of Nightmares",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Cloak of Summer and Winter (Triaxian)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Highwayman's Cape",
+      "Cost": "32,500 gp"
+    },
+    {
+      "Name": "Cloak of Disarming",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Swordlord's Cloak (+3 bonus)",
+      "Cost": "37,000 gp"
+    },
+    {
+      "Name": "Pauldrons of Unflinching Fortitude (+5/+6 Fortitude)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Cloak of Quick Reflexes (+5/+6 Reflex)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Cape of Free Will (+5/+6 Will)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Plumed Mantle",
+      "Cost": "39,550 gp"
+    },
+    {
+      "Name": "Lycanthrope Skin (Skinwalker) (brown bear, bat, crocodile, shark, tiger)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Juggernaut's Pauldrons",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Caparison of Resistance (+4 bonus)",
+      "Cost": "43,200 gp"
+    },
+    {
+      "Name": "Charlatan's Cape",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Mantle of Life",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Cloak of Displacement (Major)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Wings of Flying",
+      "Cost": "54,000 gp"
+    },
+    {
+      "Name": "Cloak of Moral Refraction",
+      "Cost": "54,200 gp"
+    },
+    {
+      "Name": "Cloak of Etherealness",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Phoenix Cloak",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Deadened Shadows Cloak",
+      "Cost": "63,250 gp"
+    },
+    {
+      "Name": "Swordlord's Cloak (+4 bonus)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Immolation Cloak",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Caparison of Resistance (+5 bonus)",
+      "Cost": "67,500 gp"
+    },
+    {
+      "Name": "Wings of the Gargoyle",
+      "Cost": "72,000 gp"
+    },
+    {
+      "Name": "Wyvern Cloak",
+      "Cost": "78,600 gp"
+    },
+    {
+      "Name": "Swordlord's Cloak (+5 bonus)",
+      "Cost": "100,000 gp"
+    }
+  ]

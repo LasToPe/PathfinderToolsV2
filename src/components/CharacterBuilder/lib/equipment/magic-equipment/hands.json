@@ -1,0 +1,410 @@
+[
+    {
+      "Name": "Assisting Gloves",
+      "Cost": "180 gp"
+    },
+    {
+      "Name": "Gloves of Personal Purity",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Whispering Gloves (LotFW)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Dissident's Gloves",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Gloves of the Keen Evaluator",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Claws of the Ice Bear",
+      "Cost": "1,300 gp"
+    },
+    {
+      "Name": "Handstraps of Roofjumping",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Ioun Gauntlet",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Gloves of Reconnaissance",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Glowing Glove",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Apprentice's Cheating Gloves",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Challenger's Gloves",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Gloves of Larceny",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Healer's Gloves",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Quickfingers Gloves",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Touch of Avolition",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Inheritor's Gauntlet",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Dianxue Gloves",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Engineer's Workgloves",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Rimeshaper Gloves",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Gloves of Stolen Unlife",
+      "Cost": "3,040 gp"
+    },
+    {
+      "Name": "Death's Will",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Kalistocrat's Gloves",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Gloves of Improvised Might (+1)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Gauntlets of the Skilled Maneuver",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Ghostvision Gloves",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Gloves of Arrow Snaring",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Irongrip Gauntlets",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Trapspringer's Gloves",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "First Aid Gloves",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Impact Gauntlets",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Extractor's Gloves",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Gauntlets of the Deep",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Gauntlets of Twisting Vines",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Gloves of Arcane Striking",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Poisoner's Gloves",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Gloves of Bony Power",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Masterful Gray Gloves",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Bonebreaker Gauntlets",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Gauntlets of Catching",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Glove of Strength-Stealing",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Magnetist's Gloves",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Gloves of Swimming and Climbing",
+      "Cost": "6,250 gp"
+    },
+    {
+      "Name": "Quicksilver Gloves",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Gloves of Marking",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Fervent Searcher's Gloves",
+      "Cost": "7,400 gp"
+    },
+    {
+      "Name": "Beast Wrestler's Gauntlets",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Gloves of Elvenkind",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Bloodstained Gloves",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Deliquescent Gloves",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Demonic Smith's Gloves",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Form-Fixing Gauntlets",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Iron Cobra Gauntlet",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Rubble Gloves",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Shadow Falconer's Glove",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Spellstrike Gloves",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Gloves of Feasting",
+      "Cost": "8,400 gp"
+    },
+    {
+      "Name": "Gloves of Spell Snaring",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Glyphbane Gloves",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Inescapable Gloves",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Swindler's Gloves",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Gloves of Restrained Death",
+      "Cost": "9,250 gp"
+    },
+    {
+      "Name": "Gloves of Pulverizing Disruption",
+      "Cost": "9,400 gp"
+    },
+    {
+      "Name": "Glove of Storing",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Gloves of Shaping",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Gloves of Unfolding Wind",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Hand Wraps of Blinding Ki",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Perilous Gloves",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Pliant Gloves",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Gloves of Unexpected Violence (Standard)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Stonefist Gloves",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Gauntlet of Rust",
+      "Cost": "11,500 gp"
+    },
+    {
+      "Name": "Ratcheting Gauntlets",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Gauntlets of the Unchained",
+      "Cost": "13,200 gp"
+    },
+    {
+      "Name": "Gloves of Dueling",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Saboteur's Gloves",
+      "Cost": "15,240 gp"
+    },
+    {
+      "Name": "Skullcrusher Gauntlets",
+      "Cost": "15,302 gp"
+    },
+    {
+      "Name": "Whispering Gloves (ToBM)",
+      "Cost": "15,400 gp"
+    },
+    {
+      "Name": "Gloves of Improvised Might (+2)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Raven Bracers",
+      "Cost": "16,600 gp"
+    },
+    {
+      "Name": "Empty Hands",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Vampiric Gloves",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Giant Fist Gauntlets",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Gloves of Distant Action",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Glove of Familiar's Touch",
+      "Cost": "23,000 gp"
+    },
+    {
+      "Name": "Armguards of Waning Hope",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Hand of Hoarded Deaths",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Gloves of The Shortened Path",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Gloves of Unexpected Violence (Expert)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Gloves of the Commanding Conjurer",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Gauntlet of Rust (Greater)",
+      "Cost": "34,500 gp"
+    },
+    {
+      "Name": "Gloves of Improvised Might (+3)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Stormcrusher Gauntlets",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Mantis Embrace",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Gloves of Stolen Breath",
+      "Cost": "54,000 gp"
+    },
+    {
+      "Name": "Rust Monster Antenna Whip",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Effigy of the Favored Servant",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Gloves of Improvised Might (+4)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Talons of Leng",
+      "Cost": "67,000 gp"
+    },
+    {
+      "Name": "Ruby Circlet",
+      "Cost": "94,000 gp"
+    },
+    {
+      "Name": "Gloves of Improvised Might (+5)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Gauntlets of the Weaponmaster",
+      "Cost": "110,000 gp"
+    }
+  ]

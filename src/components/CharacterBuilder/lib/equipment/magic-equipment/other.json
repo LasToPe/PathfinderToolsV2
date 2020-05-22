@@ -1,0 +1,5226 @@
+[
+    {
+      "Name": "Firepowder",
+      "Cost": "10 gp"
+    },
+    {
+      "Name": "Hex Nail",
+      "Cost": "20 gp"
+    },
+    {
+      "Name": "Caltrop Bead (Iron)",
+      "Cost": "40 gp"
+    },
+    {
+      "Name": "Feather Token (Anchor)",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Sentinel Scorpion",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Truecolor Dye",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Universal Solvent",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Wound Paste",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Devil's Spit",
+      "Cost": "60 gp"
+    },
+    {
+      "Name": "Ioun Torch",
+      "Cost": "75 gp"
+    },
+    {
+      "Name": "Caltrop Bead (Cold Iron)",
+      "Cost": "80 gp"
+    },
+    {
+      "Name": "Raucous Canard",
+      "Cost": "100 gp"
+    },
+    {
+      "Name": "Stubborn Nail",
+      "Cost": "100 gp"
+    },
+    {
+      "Name": "War Paint of the Terrible Visage",
+      "Cost": "100 gp"
+    },
+    {
+      "Name": "Glittering Trinket",
+      "Cost": "120 gp"
+    },
+    {
+      "Name": "Brastlewark Brew",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Elixir of Last Will",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Elixir of Love",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Elixir of Repression",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Lady's Mercy",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Feather Token (Lance)",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Unguent of Timelessness",
+      "Cost": "150 gp"
+    },
+    {
+      "Name": "Goblet of Quenching",
+      "Cost": "180 gp"
+    },
+    {
+      "Name": "Bottled Sunlight",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Feather Token (Fan)",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Formula Alembic",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Hybridization Funnel",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Feather Token (Sky Hook)",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Soul Soap",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Trollbane Blanch",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Clandestine Voucher",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Corpse Puppet",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Dust of Hex Hiding",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Dust of Tracelessness",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Elixir of Hiding",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Elixir of Swimming",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Elixir of the Thundering Voice",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Elixir of Tumbling",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Elixir of Vision",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Gourd of Fire Burping",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Nightdrops",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Nightmare Tears",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Oil of Silence",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Palelight Torch",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Platter of Exquisite Feasting",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Silversheen",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Traveler's Any-Tool",
+      "Cost": "250 gp"
+    },
+    {
+      "Name": "Accent Pill",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Feather Token (Bird)",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Bottle of Messages",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Caber Twig",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Escape Dust",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Jumping Cinder",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Root of the World Tree (Lesser)",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Origami Swarm",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Shrinking Berries",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Trapped Beverage",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Unguent of Revivification",
+      "Cost": "300 gp"
+    },
+    {
+      "Name": "Salt Lamp",
+      "Cost": "350 gp"
+    },
+    {
+      "Name": "Stunstone",
+      "Cost": "350 gp"
+    },
+    {
+      "Name": "False Coin",
+      "Cost": "375 gp"
+    },
+    {
+      "Name": "Alluring Golden Apple",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Feather Token (Catapult)",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Erasing Book",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Gremlin Bell",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Haunt Siphon",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Key of Lock Jamming",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Toothpick of Pyrotechnics",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Feather Token (Tree)",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Conquering Brand (Conformity)",
+      "Cost": "420 gp"
+    },
+    {
+      "Name": "Displacing Stone",
+      "Cost": "430 gp"
+    },
+    {
+      "Name": "Dimensional Acid (Basic Pit)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Elixir of Agility",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Feather Token (Floating Feather)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Nesa's Coin",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Feather Token (Swan Boat)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Guiding Vellum (1st)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Animated Portrait",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Arrow of Latching",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Bag of Everlasting Dung",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Bilious Bottle",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Bottled Misfortune",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Feather Token (Campsite)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Clockwork Key (Abadar)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Dweomer's Essence",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Elixir of Amnesia",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Elixir of Truth",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Ironmorph Dust",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Replenishing Aquarium Ball (Lesser)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Mundanity Grease",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Mushroom Vest",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Nest Revealer",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Orbicular Sac",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Planar Strap",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Pliability Elixir",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Feather Token (Ram)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Recondite Holy Symbol",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Sandsculpt Resin",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Scabbard of Honing",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Scrap Collector's Strap",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Sinner's Wage",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Waxen Image",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Wayfinder",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Feather Token (Whip)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Seer's Tea",
+      "Cost": "550 gp"
+    },
+    {
+      "Name": "Abjurant Salt",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Arrow Magnet",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Bottled Cloud",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Cathedral Pit Stone",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Dream Journal of the Pallid Seer",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Dust of Darkness",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Elixir of Oppression",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Evidentiary Dust",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Horror Dust",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Jar of Mottled Clay",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Perfect Tuning Fork",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Spire Transport Token",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Storyteller's Dust",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Feather Token (Tar and Feathers)",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Wanderlust Map",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Exorcist Ofuda",
+      "Cost": "650 gp"
+    },
+    {
+      "Name": "Poltergeist Knot",
+      "Cost": "650 gp"
+    },
+    {
+      "Name": "Focusing Flask",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Globe of Moonlight",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Necrobinding Serum",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Poison Popcushion",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Pyre Salt",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Swarm Bullet",
+      "Cost": "700 gp"
+    },
+    {
+      "Name": "Campfire Bead",
+      "Cost": "720 gp"
+    },
+    {
+      "Name": "Kitharodian Pen",
+      "Cost": "720 gp"
+    },
+    {
+      "Name": "Kitsune Star Gem (1st)",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Archon's Torch",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Aspis Badge of Last Resort",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Assassin's Dust",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Bottle of Shifting Sand",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Charmer's Kiss",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Dyso's Travel Canopy",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Fugitive's Grenade",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Greensurge Bomb",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Honeytongue Elixir",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Iron Rope",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Book of Extended Summoning (Lesser)",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Levitating Land Mine",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Machinebane Oil",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Polish of Inconspicuous Armor",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Skill Slug",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Snapleaf",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Spiteful Cookie",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Stalagmite Seed",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Thoqqua Snake",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Trapped Puzzle Box",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Bottled Yeti Fur",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Defoliant Polish",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Dust of Emulation",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Fiery Maw Elixir",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Infiltrator's Onyx",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Jar of Lightning",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Leshy Mulch Manual (Leaf Leshy)",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Portable Stalactite",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Ranged Piton",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Shadow Hand Smoke Pellet",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Spirit Revivification Incense",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Steadfast Gut-Stone",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Dust of Dryness",
+      "Cost": "850 gp"
+    },
+    {
+      "Name": "Luminous Facet",
+      "Cost": "850 gp"
+    },
+    {
+      "Name": "Scarecrow Lure",
+      "Cost": "850 gp"
+    },
+    {
+      "Name": "Trapped Sword",
+      "Cost": "850 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Blue)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Bottled Scream",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Deadly Draught",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Elemental Storing Stone",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Elixir of Forceful Exhalation",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Green)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Healer's Aid",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Murderer's Silence",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Oozeclot Unguent",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Orange)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Red)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Saline Purge",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Silver)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Smoke bomb of Forgetfulness",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Steelsheen Elixir",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Yellow)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Boro Bead (1st)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (1st)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (1st)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (1st)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (1st)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (1st-level)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Anatomy Doll",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Bag of Holding, Minor",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Bead of Newt Prevention",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Beast-bond Brand",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Bloodbrew Elixir",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Bookplate of Recall",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Burdenstone",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Concealing Pocket",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Death's Head Coffer",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Dowsing Syrup",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Elixir of Spirit Sight",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Enlarging Amethyst)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Extending Garnet)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Firefoot Powder",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Fortifying Stone",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Godstar",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Incense of Transcendence",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Iron Lord's Transforming Slivers",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Dimensional Acid (Jagged Pit)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Lantern of Hidden Light",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Neverspill Goblet",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Root of the World Tree (Normal)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Pathfinder Pouch",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Pyxes of Redirected Focus",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Quill of Verification",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Salve of Slipperiness",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Feather Token (Siege Tower)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Silent Spinel)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Solidsmoke Pipeweed",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Still Amber)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Tengu Drinking Jug",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "The Storied Orb",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Tidy Trunk",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Time Bomb",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Unbalanced Scales",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Wasp Nest of Swarming",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Game of Fortunate Passing",
+      "Cost": "1,040 gp"
+    },
+    {
+      "Name": "Clockwork Bug",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Elixir of Concordance",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Elixir of Fire Breath",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Grave Salt",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Kalistocrat's Coin",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Sunlord's Feather",
+      "Cost": "1,100 gp"
+    },
+    {
+      "Name": "Leshy Mulch Manual (Gourd Leshy)",
+      "Cost": "1,125 gp"
+    },
+    {
+      "Name": "Toxin Sponge",
+      "Cost": "1,125 gp"
+    },
+    {
+      "Name": "Lens of Otherworldly Answers",
+      "Cost": "1,150 gp"
+    },
+    {
+      "Name": "Pipes of the Sewers",
+      "Cost": "1,150 gp"
+    },
+    {
+      "Name": "Bounteous Bath Suffusion",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Caver's Hammock",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Dust of Illusion",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Elixir of Countless Eyes",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Elixir of Darksight",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Goblin Skull Bomb",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Scourge Vial",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Traveler's Grandiose Carrying Case",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Wax of Defiance",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Wine of Concordance",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Briar Bomb",
+      "Cost": "1,250 gp"
+    },
+    {
+      "Name": "Poison Gum",
+      "Cost": "1,250 gp"
+    },
+    {
+      "Name": "Guardian Figurehead",
+      "Cost": "1,350 gp"
+    },
+    {
+      "Name": "Animal Divining Pot",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Bag of Rust",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Deathgag Elixir",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Echo of Divinity's Promise",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Elixir of Dragon Breath",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Elixir of Rancid Breath",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Elixir of the Infernal Familiar",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Ghost Powder",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Herbs of the Primal Beast",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Incense of Corporeality",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Litheria Blossom",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Magic Beans",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Nagaji Scale Polish",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Pyre Bead",
+      "Cost": "1,440 gp"
+    },
+    {
+      "Name": "Alchemist's Atlatl",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Badge of Authority",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Bookmark of Deception",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Bubble Vault",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Candle of Spirit Protection",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Desiccating Dust",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Devastating Dog Whistle",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Featherlight Compass",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Flask of Ebon Flame",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Incense of Dulled Senses",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Kohl of Uncanny Discernment",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Memory Mud",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Nine-Eaves Key",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Healer's Satchel (Normal)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Pathfinder's Coin",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Philanderous Compact",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Preklikin's Book of Cults",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Regression Mine",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Senete Aid Badge",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Shadowblood",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Sporecrafter's Kindness",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Lantern of the Four Elements (standard)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Sterling Salt",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Suggestive Tea",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Truefrost Elixir",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Wintertide Candle",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Word Bottle",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Wraith's Sight Elixir",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Traveler's Translator",
+      "Cost": "1,550 gp"
+    },
+    {
+      "Name": "Brilliant Flash Symbol",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Courier's Secure Pouch",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Dust of Acid Consumption",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Elixir of True Form",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Medicinal Bezoar",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Salve of the Second Chance",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Winged Bottle",
+      "Cost": "1,620 gp"
+    },
+    {
+      "Name": "Fan of Flirting",
+      "Cost": "1,700 gp"
+    },
+    {
+      "Name": "Oil of Attraction",
+      "Cost": "1,700 gp"
+    },
+    {
+      "Name": "Dimensional Acid (Corrosive Pit)",
+      "Cost": "1,750 gp"
+    },
+    {
+      "Name": "Elixir of Vicious Magic",
+      "Cost": "1,750 gp"
+    },
+    {
+      "Name": "Attentive Mirror",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (Black)",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Copycat Siphon",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Dust of Appearance",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Efficient Quiver",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Elixir of Elemental Protection",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Pipes of Sounding",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Primal Dowser",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Scabbard of Vigor",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Wheel of Survival",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Shoanti War Paint (White)",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Leshy Mulch Manual (Fungus Leshy)",
+      "Cost": "1,875 gp"
+    },
+    {
+      "Name": "Warding Lips",
+      "Cost": "1,900 gp"
+    },
+    {
+      "Name": "Ink of Mimicry",
+      "Cost": "1,950 gp"
+    },
+    {
+      "Name": "Tablet of Languages Lost",
+      "Cost": "1,980 gp"
+    },
+    {
+      "Name": "Runestone of Power (1st)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Guiding Vellum (2nd)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Agile Alpenstock",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Autonomous Cartographer",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Blood Reservoir of Physical Prowess",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Candle of Comity",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Chelish Crux",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Clamor Box",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Cockatrice Grit",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Dread Heart of Life",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Dry Load Powder Horn",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Empowering Topaz)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Eye of the Mantis",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Handy Haversack",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Horn of Fog",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Incense of Eidos",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Iron Spike of Safe Passage",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ki Crystal",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Lantern of Auras",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Liberator's Key",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Lightning Trap Spheres",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Lute of the Battle Ready",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Goblin Fire Drum (Normal)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Ointment of Secret Seeing (Ulfen)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Penetrating Whetstone",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Polychrome Cover",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Prophetic Paraphernalia",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Restoration Dust",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Scavenger's Stone",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Sigil Chalk",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Skyspirit Stone",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Smuggler's Wayfinder",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Replenishing Aquarium Ball (Standard)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Tidefinder",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Tome of Dissolution",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Satchel of Plentiful Feed (Type I)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Wayfinder, Shining",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Silver Nail",
+      "Cost": "2,100 gp"
+    },
+    {
+      "Name": "Volatile Vaporizer (1st)",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Blight Siphoner",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Knight's Pennon (Honor)",
+      "Cost": "2,200 gp"
+    },
+    {
+      "Name": "Blood of Baphomet",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Bones of Founder Raccona",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Effulgent Geode",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Elemental Gem",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Elixir of Sex Shift",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Faith Orb",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Flying Ointment",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Home Stone",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Ice Floe Elixir",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Kapre Cigar",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Leng Tea",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Monstrous Dye",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Paralyzing Snare",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Rhombocrystal",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Tallowheart Mass",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Dream Candle",
+      "Cost": "2,300 gp"
+    },
+    {
+      "Name": "Ashes of Unluck",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Charm of the Thriceborn",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Saccadic Focusing Prism",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Sashimono of Comfort",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Sovereign Glue",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Spirit Rush",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Trollbone",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Elixir of the Peaks",
+      "Cost": "2,450 gp"
+    },
+    {
+      "Name": "Apple of Eternal Sleep",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Banner of Piracy",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Brass Spider",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Candle of Drowsiness",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Candle of Truth",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Crackling Tassel",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Crate of Preservation",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Extraction Scarificator",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Faithful Lantern",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Familiar Bubble",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Root of the World Tree (Greater)",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Halflight Charm",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Hexing Doll",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Hood's Flair",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Medium's Harrow Mat",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Nettle's Poppet",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Oath Breaker's Brand",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Scabbard of Pain",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Swordmaster's Flair",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Bag of Holding (Type I)",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Urgathoa's Breath",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Venomsweat Salve",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Voidstick",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Winter Wolf Runetooth",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Pipe of Revealing Mists",
+      "Cost": "2,592 gp"
+    },
+    {
+      "Name": "Lens of Starsight",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Moon Clock",
+      "Cost": "2,650 gp"
+    },
+    {
+      "Name": "Dimensional Acid (Living Pit)",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Sacrificial Dagger of the Blood Mother",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Stone of Alarm",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Chon Chon Elixir",
+      "Cost": "2,750 gp"
+    },
+    {
+      "Name": "Book of Extended Summoning (Normal)",
+      "Cost": "2,750 gp"
+    },
+    {
+      "Name": "Dreamcatcher",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Incense of Golden Embers",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Incense of Open Thoughts",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Conquering Brand (Hobbling)",
+      "Cost": "2,820 gp"
+    },
+    {
+      "Name": "Portable Pit (Blunt pit)",
+      "Cost": "2,890 gp"
+    },
+    {
+      "Name": "Kitsune Star Gem (2nd)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Volatile Vaporizer (2nd)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Bead of Force",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Bell of Returning Spirits",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Boulder Bag",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Cauldron of Brewing",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Chime of Opening",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Energizing Salve",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Everburning Lantern",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Explosion Pocket",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Foxfire Lantern",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ghost Mirror",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Hypnotic Wayfinder",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Junk)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Map of the High Ice",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Mnemonic Repository",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ointment of Void Sealing",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Philter of Love",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Player's Prize",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Poison Vial of Distance",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Rope of Climbing",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Safecamp Wagon",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Saliharion",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Healer's Satchel (Specialized)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Steward's Iron Key",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Swarmlord's Jar",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Tablet of the First Law",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Talisman of True Faith",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Wand Key Ring",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Whispering Coin",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Whispering Shell",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Silver Nocking Point",
+      "Cost": "3,150 gp"
+    },
+    {
+      "Name": "Bivouac Banners",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Charts of the Fair Winds",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Looter's Satchel",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Brimstone Barbazu",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Bronze Skinning Knife",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Hydrodaemon Runestone",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Imploding Stone",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Incense of Many Fates",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Phlogiston Vial",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Shroud of Disintegration",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Spartoi Seeds",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Swarmform Elixir",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Bag of Tricks (Gray)",
+      "Cost": "3,400 gp"
+    },
+    {
+      "Name": "Alabaster Trapping",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Badge of Veiled Authority",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Discretion Charm",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Dust of Disappearance",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Elixir of Shadewalking",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Icon of the Midwife",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Lens of Detection",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Mummified Guardian",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Pact Parchment",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Trackless Boots",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Dust Of Weighty Burdens",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Elixir of Luck",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Fate's Shears",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Ghost Needle",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Golden Dragon Kite",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Monument's Truth",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Noble's Vigilant Pillbox",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Leshy Mulch Manual (Seaweed Leshy)",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Talisman of the Summoned Steed",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Chalice of Communal Dweomer",
+      "Cost": "3,750 gp"
+    },
+    {
+      "Name": "Four-leaf Clover",
+      "Cost": "3,750 gp"
+    },
+    {
+      "Name": "Volatile Vaporizer (3rd)",
+      "Cost": "3,800 gp"
+    },
+    {
+      "Name": "Flask of the Reaper",
+      "Cost": "3,800 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Silver Raven)",
+      "Cost": "3,800 gp"
+    },
+    {
+      "Name": "Trollskin Tourniquet",
+      "Cost": "3,850 gp"
+    },
+    {
+      "Name": "Ushabti of the Willing Servant",
+      "Cost": "3,900 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (2nd)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (2nd)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (2nd)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Boro Bead (2nd)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (2nd)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (2nd-level)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Bountiful Bottle",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Spirit Planchette (Brass)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Cautionary Creance",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Corpse-Ferrying Bag",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Elixir of Emulation",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Escape Ladder",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Far-Reaching Sight",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Flask of Endless Sake",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Replenishing Aquarium Ball (Greater)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Holdout Wand Wrap",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Homebound Timepiece",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Manual of Calm Reflection (Irori)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Marvelous Pigments",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Maximizing Sapphire)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Monster Almanac",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Mutineer's Bane Earring",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Papyrus of Eternal Rest",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Phantasmal Gem",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Purifying Ointment",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Restorative Ointment",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Secure Paypack",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Smear of Seeing",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Stone Salve",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Thaumaturgic Powder",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Satchel of Plentiful Feed (Type II)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Wax)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Widening Emerald)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Wolf Caller's Horn",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Homunculus Clay",
+      "Cost": "4,100 gp"
+    },
+    {
+      "Name": "Blackblot",
+      "Cost": "4,200 gp"
+    },
+    {
+      "Name": "Horse-Caller Flute",
+      "Cost": "4,200 gp"
+    },
+    {
+      "Name": "Glowing Gourd",
+      "Cost": "4,250 gp"
+    },
+    {
+      "Name": "Windsong Lute",
+      "Cost": "4,250 gp"
+    },
+    {
+      "Name": "Wind-Caller Compass",
+      "Cost": "4,400 gp"
+    },
+    {
+      "Name": "Shrouded Demise",
+      "Cost": "4,410 gp"
+    },
+    {
+      "Name": "Guiding Vellum (3rd)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Bag of Tricks (Aquamarine)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Knight's Pennon (Battle)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Cauldron of Overwhelming Allies",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Goblin Fire Drum (Greater)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Mountebank's Megaphone",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Knight's Pennon (Parley)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Phoenix Feather",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Sea Silk Shell",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Soul Scribe Quill",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Void Dust",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Zenj Spirit Fetish",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Globe of Blizzards",
+      "Cost": "4,550 gp"
+    },
+    {
+      "Name": "Trollblood Elixir",
+      "Cost": "4,550 gp"
+    },
+    {
+      "Name": "Father's Forgehammer",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Kyonin Bliss",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Memory Musk Gourd",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Incense of Meditation",
+      "Cost": "4,900 gp"
+    },
+    {
+      "Name": "Floating Sail (10-ft.-by-15-ft.)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Admixture Vial",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bone Razor",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Brain Cylinder",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Chest of Preparedness",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Elixir of Two Worlds",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Eloko Bell",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Essence of Wandering Dreams",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Glory Medallion",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Heirloom Seal",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Horn of the Huntmaster",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Hospitality's Hammock",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Ice)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Insightful Scroll Case",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Insistent Doorknocker",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Ivory Succubus",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Mallet of Building",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Nectar of the Gods",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Numerology Cylinder",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Paradox Box",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Perilous Puzzle Box",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Polymorphic Pouch",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Quill of Passage",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Red Feather Fan",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Riverseer Plate",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Scabbard of Many Blades",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Scabbard of Stanching",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "School of Eyes",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Seven-Sided Coin",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Sheath of Bladestealth",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Soaring Cathedra",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Soul Jar",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Spell-Capturing Gem",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Steadfast Grapple",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Stone of Alliance",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Stone of Tomb Warding",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Summoning Shackle",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Tireless Wayfinder",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Toastmaster's Teacup",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bag of Concealment (Type I)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bag of Holding (Type II)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Vial of Reckless Courage",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Hidden Strength",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Zonzon Doll of Forgiveness",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Banner of Restful Nights",
+      "Cost": "5,040 gp"
+    },
+    {
+      "Name": "Universal Lock",
+      "Cost": "5,150 gp"
+    },
+    {
+      "Name": "Assassin's Sight",
+      "Cost": "5,250 gp"
+    },
+    {
+      "Name": "Tankard of the Drunken Hero",
+      "Cost": "5,300 gp"
+    },
+    {
+      "Name": "Discord Bottle",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Eversmoking Bottle",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Field Scrivener's Desk",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Harvesting Lens",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Lantern of the Shining Truth",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Planar Guide",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Sustaining Spoon",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Portable Pit (Spiked pit)",
+      "Cost": "5,410 gp"
+    },
+    {
+      "Name": "All-Seeing Eye",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Grave Candle",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Icon of Aspects",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Metalseeker Swarm",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Resplendent Diplomat's Palette",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Seishinru, Spirit Elixir",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Wind Fan",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Gorthek Masks",
+      "Cost": "5,800 gp"
+    },
+    {
+      "Name": "Gory Beacon",
+      "Cost": "5,800 gp"
+    },
+    {
+      "Name": "Grim Lantern",
+      "Cost": "5,800 gp"
+    },
+    {
+      "Name": "Book of Written Whispers",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Caver's Bolt",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Coin of the Untrodden Road",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Coral Hippocampus)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Eye of Scrying",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Fan of Autumn",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Fortifying Leeches",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Gremlin-Skin Drum",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Horn of Battle Clarity",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Life Link Badge",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Luminous Lockpicks",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Martyr's Tear",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Master Vidlian's Squeeze-Box",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Memoriam Root",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Panacea Flask",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Pentacle Token",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Pipes of Haunting",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Pipes of the Warren Guardian",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Pocket Prey",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Righteous Medal",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Rope of Knots",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Singing Bell of Striking",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Spiral Tiles (Pharasma)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Steelbone Frame",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Stone Familiar",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Symbol of Luck",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Time Bomb, Greater",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Ioun Memory Node (Type I)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Wavecutter's Figurine",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Wood)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Book of Extended Summoning (Greater)",
+      "Cost": "6,126 gp"
+    },
+    {
+      "Name": "Black Marketeer's Bag",
+      "Cost": "6,200 gp"
+    },
+    {
+      "Name": "Jar of Haunt Siphoning",
+      "Cost": "6,250 gp"
+    },
+    {
+      "Name": "Insidious Bear Trap",
+      "Cost": "6,300 gp"
+    },
+    {
+      "Name": "Whistle of Calling",
+      "Cost": "6,300 gp"
+    },
+    {
+      "Name": "Clockwork Arm",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Clockwork Prosthesis",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Dawnflower Lantern",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Dragonbone Divination Sticks",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Elocution Tooth",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Expedition Pavilion",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Farglass",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Tiller's Pendant",
+      "Cost": "6,400 gp"
+    },
+    {
+      "Name": "Brazen Head",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Foresight Quill",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Gas-Trap Cylinder",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Lantern of the Four Elements (greater)",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Horn of Goodness/Evil",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Horn of Plenty",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Instant Muzzle",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Trumpet of Spirit Speaking",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Lesser Horn of the Tritons",
+      "Cost": "6,600 gp"
+    },
+    {
+      "Name": "Naga-scale Bindi",
+      "Cost": "6,600 gp"
+    },
+    {
+      "Name": "Anvil of the Skyseeker (Dwarf)",
+      "Cost": "6,700 gp"
+    },
+    {
+      "Name": "Bonedancer Bodhran",
+      "Cost": "6,700 gp"
+    },
+    {
+      "Name": "Kitsune Star Gem (3rd)",
+      "Cost": "6,750 gp"
+    },
+    {
+      "Name": "Bathing Basin",
+      "Cost": "6,750 gp"
+    },
+    {
+      "Name": "Chime of Storm Calling",
+      "Cost": "6,750 gp"
+    },
+    {
+      "Name": "Lucky Horseshoe",
+      "Cost": "6,800 gp"
+    },
+    {
+      "Name": "Effigy of Anubis",
+      "Cost": "6,900 gp"
+    },
+    {
+      "Name": "Bottle of Shadows",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Cape of Bravado",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Costume Bureau",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Emerald Frog)",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Ghostlight Lantern",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Horn of the Golden Draught",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Instant Bridge",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Mirror of Guarding Reflections",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Noisemaker Wayfinder",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Orb of Arcane Research",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Vial of Efficacious Medicine",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Folding Boat",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Bottle of Air",
+      "Cost": "7,250 gp"
+    },
+    {
+      "Name": "Bag of Holding (Type III)",
+      "Cost": "7,400 gp"
+    },
+    {
+      "Name": "Balm of Impish Grace",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Binding Contract (Chelaxian)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Candle of Clean Air",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Cauldron of Fireworks",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Elven Still (Elf)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Harp of Charming",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Lastwall Banner (Hordeline)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Jalhazar's Wheel",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Lapis Camel)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Manual of War",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "One-Way Window",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Satchel of Plentiful Feed (Type III)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Wave Harp",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Witchlight Lantern",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Zoic Fetish",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Pearl Dolphin)",
+      "Cost": "7,600 gp"
+    },
+    {
+      "Name": "Teleporting Climbing Rig",
+      "Cost": "7,600 gp"
+    },
+    {
+      "Name": "Creeping Glyph",
+      "Cost": "7,750 gp"
+    },
+    {
+      "Name": "Magnificent Map",
+      "Cost": "7,800 gp"
+    },
+    {
+      "Name": "Scarab of Khepri",
+      "Cost": "7,800 gp"
+    },
+    {
+      "Name": "Runestone of Power (2nd)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Guiding Vellum (4th)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Alpine Ice Axe",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Censer of Dreams",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Chalice of Poison Weeping",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Champion's Banner",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Cups of Rapport",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Desna's Coin",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Exorcist's Aspergillum",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Flesh)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Force Casket",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Harp of Shattering",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Herald Seed",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Hezzilreen's Spellbook",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Insignia of Valor",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Malleable Monument",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Mockingskull",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Needles of Fleshgraving",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Padma Blossom",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Psychic Aurascope",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Metamagic Gem (Quickening Diamond)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Restless Lockpicks",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Retriever Drone",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Symbol of Unholy Command",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Throne of the Sky-Father",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Revelation",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Spellbreaking",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Wayfinder, Vanishing",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Werewhistle",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Whisper Safe",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Deck of Illusions",
+      "Cost": "8,100 gp"
+    },
+    {
+      "Name": "Witchmarket Coin",
+      "Cost": "8,100 gp"
+    },
+    {
+      "Name": "Razored Ropes",
+      "Cost": "8,301 gp"
+    },
+    {
+      "Name": "Candle of Invocation",
+      "Cost": "8,400 gp"
+    },
+    {
+      "Name": "Bag of Tricks (Rust)",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Tomb Guard",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Scabbard of the Lost Kiss",
+      "Cost": "8,600 gp"
+    },
+    {
+      "Name": "Blackwick Cauldron",
+      "Cost": "8,850 gp"
+    },
+    {
+      "Name": "Boro Bead (3rd)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (3rd)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (3rd)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (3rd)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (3rd)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (3rd-level)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Branding Iron of Tracking",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Candle of Abaddon",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Chest of Keeping",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Commander's Tent",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Confabulation Plates",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Decanter of Endless Water",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Dune Boat",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Gemcarver's Tools",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Investigator's Pipe",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Fetish of the Frog Queen (Lesser)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Loathsome Mirror",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Mithral Rose",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Mother-Sphinx Token",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Pugwampi Braid",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Redemptor's Blessing",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Ruby Butterfly)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Sandstorm Dust",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Three Reasons to Live",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Black Jade Raven)",
+      "Cost": "9,100 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Serpentine Eagle)",
+      "Cost": "9,100 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Serpentine Owl)",
+      "Cost": "9,100 gp"
+    },
+    {
+      "Name": "Mudstone Minion",
+      "Cost": "9,250 gp"
+    },
+    {
+      "Name": "Jade Mantis",
+      "Cost": "9,450 gp"
+    },
+    {
+      "Name": "Strand of Prayer Beads (Lesser)",
+      "Cost": "9,600 gp"
+    },
+    {
+      "Name": "Chirugeon Cube",
+      "Cost": "9,800 gp"
+    },
+    {
+      "Name": "Sorcerous Pigments",
+      "Cost": "9,900 gp"
+    },
+    {
+      "Name": "Golem Manual (Alchemical)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ambrosia",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ancestral Clasp",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Anointed Holy Symbol",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Black Feather Fan",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Book Thief's Satchel",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Boundary Chalk",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Bronze Griffon)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Chime of Resounding Silence",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Codex of Conversations",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Spirit Planchette (Cold Iron)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Commander's Banner",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Construct Channel Brick",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Stone Horse (Courser)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Cresset of Grisly Interrogation",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Doomharp",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Drum of Advance and Retreat",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Ebony Fly)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Eldritch Egress",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Embalming Thread",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Eye of the Void",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Glass)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Hematite Courgar)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Hourglass of Last Chances",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Hunter's Tree Fort",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ki Mat",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Lorestone",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Malleable Symbol",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Meltdown Safe",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Migrus Locker",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Molech",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Orb of Consumption",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Ornament of Healing Light",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Prayer Wheel of Ethical Strength",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Slate Spider)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Summon-Slave Crystal",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Lord's Banner (Swiftness)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Treasurer's Seal",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Bag of Concealment (Type II)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Bag of Holding (Type IV)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Conquering Brand (Lesser Geas)",
+      "Cost": "10,020 gp"
+    },
+    {
+      "Name": "Chalice of Poison",
+      "Cost": "10,080 gp"
+    },
+    {
+      "Name": "Portable Pit (Acid pit)",
+      "Cost": "10,090 gp"
+    },
+    {
+      "Name": "Clavis Somnus",
+      "Cost": "10,300 gp"
+    },
+    {
+      "Name": "Deck of the Hellwasp's Sting",
+      "Cost": "10,380 gp"
+    },
+    {
+      "Name": "Familiar's Soulstone",
+      "Cost": "10,500 gp"
+    },
+    {
+      "Name": "Besmara's Bones",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Chelish Listening Trumpet",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Shackles Ensign",
+      "Cost": "10,800 gp"
+    },
+    {
+      "Name": "Shield of Countless Causes",
+      "Cost": "11,157 gp"
+    },
+    {
+      "Name": "Forger's Friend",
+      "Cost": "11,200 gp"
+    },
+    {
+      "Name": "Fate-Reader's Lenses",
+      "Cost": "11,250 gp"
+    },
+    {
+      "Name": "Amazing Tools of Manufacture",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Black Soul Shard",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Blasphemous Chalice",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Bone)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Bosun's Call",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Clay)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Drinking Horn of the Panacea",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Horn of the War-Leader (Half-Orc)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Horsemaster's Saddle",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Lantern of Concealment",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Lithomancy Stones",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Moonstone Cat",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Pipes of Dissolution",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Pipes of Pain",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Radiant Panel",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "See Invisibility Sight",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Seeker's Sight",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Spell Totem",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Spirit Slate",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Deck of Doors",
+      "Cost": "12,150 gp"
+    },
+    {
+      "Name": "Warden's Cudgel",
+      "Cost": "12,150 gp"
+    },
+    {
+      "Name": "Shell of Sending",
+      "Cost": "12,200 gp"
+    },
+    {
+      "Name": "Assassin's Sight, Greater",
+      "Cost": "12,250 gp"
+    },
+    {
+      "Name": "Jungle Seeker's Monocle",
+      "Cost": "12,400 gp"
+    },
+    {
+      "Name": "Guiding Vellum (5th)",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Blessed Book",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Gossiper's Gourd",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Hook of Ascension",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Portal-Finding Gloves",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Bag of Holding (Giant) (Type V)",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Waters of Transfiguration",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Dagon's Eye",
+      "Cost": "12,600 gp"
+    },
+    {
+      "Name": "Gem of Brightness",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Harp of Contagion",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Horn of Assured Victory",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Terra-Cotta Talisman (Horse)",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Lyre of Building",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Mythopoeic Sphinx",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Retort of Control",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Tin Imp)",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Tome of Origami Animals",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Flute of Persuasion",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Glass Walrus)",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Sable Company Elite Saddle",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Snowfall Orb",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Ioun Memory Node (Type II)",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Void Pennant",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Seed of Fire",
+      "Cost": "14,400 gp"
+    },
+    {
+      "Name": "Portable Pit (Persistent pit)",
+      "Cost": "14,410 gp"
+    },
+    {
+      "Name": "Conquering Brand (Subjugation)",
+      "Cost": "14,420 gp"
+    },
+    {
+      "Name": "Conquering Brand (Tracking)",
+      "Cost": "14,420 gp"
+    },
+    {
+      "Name": "Skeleton Anchor",
+      "Cost": "14,450 gp"
+    },
+    {
+      "Name": "Stone Horse (Destrier)",
+      "Cost": "14,800 gp"
+    },
+    {
+      "Name": "Bag of Concealment (Type III)",
+      "Cost": "14,800 gp"
+    },
+    {
+      "Name": "Floating Sail (15-ft.-by-30-ft.)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Book of Night without Moon",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Book of the Loremaster",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Cauldron of Plenty",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Cavern Compass",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Expended Lightning Gun",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Figurine of the Dwarven Forge",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Handkerchief of Finding",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Lastwall Banner (Harchist)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Horn of Judgment",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Horn of the Tritons",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Lucky Horseshoe (Communal)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Obsidian Raven)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ring Of The Cacodaemon",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Sand)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Spy Eyes",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "The Lymirin Discourses",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Satchel of Plentiful Feed (Type IV)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Bag of Holding (Giant) (Type VI)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Zephyrs",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Sun Wukong's Puzzle Box",
+      "Cost": "15,200 gp"
+    },
+    {
+      "Name": "Entwined Syrinx",
+      "Cost": "15,300 gp"
+    },
+    {
+      "Name": "Pearl of the Sirines",
+      "Cost": "15,300 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Onyx Dog)",
+      "Cost": "15,500 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (4th)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (4th)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (4th)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Boro Bead (4th)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (4th)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (4th-level)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Astralabe",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Aviary of Spirits",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Caravan Guardian",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Diabolus Bell",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Discordant Piccolo",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Evergreen Seed Pouch",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Ganji Doll",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Hand of the Theurge",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Mistcaller",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Monster Killer's Folio",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Nightbane Quiver",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Runes of the Crone's Coven",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Runes of the Old Faith",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Scabbard of Keen Edges",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Bag of Tricks (Tan)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Urn of Smoldering Shapes",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Terra-Cotta Talisman (Warrior)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Fey Map",
+      "Cost": "16,200 gp"
+    },
+    {
+      "Name": "Planar Keystone",
+      "Cost": "16,200 gp"
+    },
+    {
+      "Name": "Portable Pit (Hungry pit)",
+      "Cost": "16,210 gp"
+    },
+    {
+      "Name": "Cayden's Cup",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Golden Lions)",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Horse-Speaker's Saddle",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Mute Marionette",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Skin Harp",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Chime of Interruption",
+      "Cost": "16,800 gp"
+    },
+    {
+      "Name": "Broom of Flying",
+      "Cost": "17,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Marble Elephant)",
+      "Cost": "17,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Coral)",
+      "Cost": "17,500 gp"
+    },
+    {
+      "Name": "Crimson Altar",
+      "Cost": "17,500 gp"
+    },
+    {
+      "Name": "Spyglass of Discovery (Human)",
+      "Cost": "17,500 gp"
+    },
+    {
+      "Name": "Spell Winder (Nagaji) (2nd level)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (3rd)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Guiding Vellum (6th)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Banner of the Ancient Kings",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Banner of the Scarlet Rose",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Censer of Sanctuary",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Goblet of Liquefied Cognition",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Home Away",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Orb of Foul Abaddon",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Pipes of Shifting Tempo",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Planar Parchment",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Scope of Stormsight",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Spirit Planchette (Silver)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Trophy Box",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Tuned Bowstring",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Wanderer Compass",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Wayfinder of the Planes",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Wayfinder, Ebon",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Woodlands' Ingress",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Conquering Brand (Justice)",
+      "Cost": "18,020 gp"
+    },
+    {
+      "Name": "Master's Brand (Hobgoblin)",
+      "Cost": "18,200 gp"
+    },
+    {
+      "Name": "Wand Protector",
+      "Cost": "18,500 gp"
+    },
+    {
+      "Name": "Black Heart",
+      "Cost": "18,800 gp"
+    },
+    {
+      "Name": "Spirit Mirror",
+      "Cost": "18,900 gp"
+    },
+    {
+      "Name": "Flying Chest",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Idol of the Eye",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Purifying Pearl",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Talisman of Spying",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Floating Sail (15-ft.-by-40-ft.)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Carpet of Flying (5-ft.-by-5-ft.)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Apparatus of the Octopus",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Horn of Antagonism",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Horn of Blasting",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Impossible Bottle",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Lambent Window",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Lead)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Banner of Tactical Command (Lesser)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Magic Talking Board",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Master's Perfect Golden Bell",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Monster Almanac, Greater",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Necromancer's Athame",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Portable Hole",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Seeking Lens",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Stone of Good Luck (Luckstone)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Third Eye",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Trapmaker's Sack",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Bag of Concealment (Type IV)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Music Box Trap",
+      "Cost": "20,160 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Ivory Goats)",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Rope of Entanglement",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Cookbook of Arcane Augmentation",
+      "Cost": "21,500 gp"
+    },
+    {
+      "Name": "Congregant's Compass",
+      "Cost": "21,600 gp"
+    },
+    {
+      "Name": "Arcane Battery",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Harp of Storms",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Terra-Cotta Talisman (Hound)",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Mazludeh's Shield Token",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Orb of Golden Heaven",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Spikebones",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Stone)",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Weirding Watch",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Lamp of Fiery Visions",
+      "Cost": "22,200 gp"
+    },
+    {
+      "Name": "Mi-Go Mist Projector",
+      "Cost": "22,500 gp"
+    },
+    {
+      "Name": "Parting Glass",
+      "Cost": "23,000 gp"
+    },
+    {
+      "Name": "Mattock of the Titans",
+      "Cost": "23,348 gp"
+    },
+    {
+      "Name": "Angel's Clarion",
+      "Cost": "23,400 gp"
+    },
+    {
+      "Name": "Canopic Jar",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Corsair's Coffer",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Disk of Ghol-Gan",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Drinking Horn of Bottomless Valor",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Eye-Stealing Locket",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Ioun Memory Node (Type III)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Spectral Searchlight",
+      "Cost": "24,050 gp"
+    },
+    {
+      "Name": "Viol of Potent Summoning",
+      "Cost": "24,400 gp"
+    },
+    {
+      "Name": "Guiding Vellum (7th)",
+      "Cost": "24,500 gp"
+    },
+    {
+      "Name": "Boro Bead (5th)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (5th)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (5th)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (5th)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (5th)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (5th-level)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Chaos Emerald",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Nail of Blood",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Tablet of Arustun",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "The Master's Name",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Maul of the Titans",
+      "Cost": "25,305 gp"
+    },
+    {
+      "Name": "Crook's Cube",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Iron Bands of Binding",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Lintel Stone",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Saga of the Linnorm Kings",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Snake Charmer's Flute",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Osirian Spirit Jars",
+      "Cost": "26,250 gp"
+    },
+    {
+      "Name": "Conquering Brand (Geas)",
+      "Cost": "26,420 gp"
+    },
+    {
+      "Name": "Book of Perfect Jokes",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Cube of Frost Resistance",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Face of Dagon",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Stampede Drum (Kellid)",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Manual of Bodily Health (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Manual of Gainful Exercise (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Manual of Quickness of Action (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Tome of Clear Thought (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Tome of Leadership and Influence (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Tome of Understanding (+1)",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Ambush Cauldron",
+      "Cost": "28,000 gp"
+    },
+    {
+      "Name": "Memory Box",
+      "Cost": "28,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Obsidian Steed)",
+      "Cost": "28,500 gp"
+    },
+    {
+      "Name": "Book of Marvelous Recipes",
+      "Cost": "28,800 gp"
+    },
+    {
+      "Name": "Colossus Draught",
+      "Cost": "28,800 gp"
+    },
+    {
+      "Name": "Svingli's Eye",
+      "Cost": "28,800 gp"
+    },
+    {
+      "Name": "Chest of Defending",
+      "Cost": "29,300 gp"
+    },
+    {
+      "Name": "Captain's Locker",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Carrion)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Cauldron of the Dead",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Chest of the Mercane",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Drums of Panic",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Lantern of Revealing",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Racing Broom of Flying",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Szuriel's Scabbard",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Voidlight Lantern",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Warchanter's Torch (Goblin)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Watchful Tankard",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Witching Doll",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Bag of Shadow Clouds",
+      "Cost": "30,240 gp"
+    },
+    {
+      "Name": "Kikuya's Sensu",
+      "Cost": "30,840 gp"
+    },
+    {
+      "Name": "Floating Sail (20-ft.-by-50-ft.)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (4th)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Guiding Vellum (8th)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Asura Meditation Mat",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Meldrel's Underwater Orb",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Scabbard of True Death",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Thrum of the Hidden Soul",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Verdict of the Nether Court",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Healer's Burning Glass",
+      "Cost": "32,400 gp"
+    },
+    {
+      "Name": "Blackmarrow Altar",
+      "Cost": "32,500 gp"
+    },
+    {
+      "Name": "Fetish of the Frog Queen (Standard)",
+      "Cost": "32,500 gp"
+    },
+    {
+      "Name": "Cauldron of Resurrection",
+      "Cost": "33,000 gp"
+    },
+    {
+      "Name": "Cauldron of Transmutation",
+      "Cost": "33,000 gp"
+    },
+    {
+      "Name": "Soultheft Glass",
+      "Cost": "33,000 gp"
+    },
+    {
+      "Name": "Standard of the Celestial Heir (Aasimar)",
+      "Cost": "33,000 gp"
+    },
+    {
+      "Name": "Belkzen Battle Standard (Orc)",
+      "Cost": "34,000 gp"
+    },
+    {
+      "Name": "Chisel of Excavation",
+      "Cost": "34,000 gp"
+    },
+    {
+      "Name": "Dirgesinger's Choir",
+      "Cost": "34,000 gp"
+    },
+    {
+      "Name": "Harrow Deck of Secret Schemes",
+      "Cost": "34,400 gp"
+    },
+    {
+      "Name": "Carpet of Flying (5-ft.-by-10-ft.)",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Chime of Disillusionment",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Clockwork)",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Cornucopia of Plenty",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Iron)",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "War Drums of Savagery",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Portrait of Health",
+      "Cost": "35,650 gp"
+    },
+    {
+      "Name": "Spell Lattice (6th)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Preserving Flask (6th)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (6th)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (6th)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Boro Bead (6th)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (6th-level)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Ganji Doll (Greater)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Marionette Crux",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Orb of Utter Chaos",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Tome of Living Runes",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Ioun Memory Node (Type IV)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Atavistic Splinter",
+      "Cost": "37,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Fossil)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Harp of Slumber",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Flying Platform",
+      "Cost": "38,000 gp"
+    },
+    {
+      "Name": "Karyukai Tea Set",
+      "Cost": "38,160 gp"
+    },
+    {
+      "Name": "Spell Winder (Nagaji) (4th level)",
+      "Cost": "39,000 gp"
+    },
+    {
+      "Name": "Truthseeker Wayfinder",
+      "Cost": "39,000 gp"
+    },
+    {
+      "Name": "Animator Brush",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Cauldron of Flying",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Crystal)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Dark Lens Altar",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Dawnflower's Light",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Discriminating Cube",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Doorknobs of Peregrination",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Enmity Fetish",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Moribund Key",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Obsidian)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Ring Gates",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Guiding Vellum (9th)",
+      "Cost": "40,500 gp"
+    },
+    {
+      "Name": "Lantern of Dancing Shadows",
+      "Cost": "41,000 gp"
+    },
+    {
+      "Name": "Scabbard of the Efreet",
+      "Cost": "41,000 gp"
+    },
+    {
+      "Name": "Blood Chest",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Cauldron of Seeing",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Crystal Ball (Normal)",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Stone Guardian)",
+      "Cost": "44,000 gp"
+    },
+    {
+      "Name": "Aligned Horn of Valhalla",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Drums of Haste",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Hemnetep's Chariot",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Hobgoblin Battle Standard (Iron Resolve)",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Meduseion",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Null Spike",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Soothing Lyre",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Infinite Doorways",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Strand of Prayer Beads (Standard)",
+      "Cost": "45,800 gp"
+    },
+    {
+      "Name": "Void Funnel",
+      "Cost": "46,000 gp"
+    },
+    {
+      "Name": "Samisen of Oracular Vision",
+      "Cost": "46,575 gp"
+    },
+    {
+      "Name": "Necromancer's Beacon",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Orb of Storms",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Orgone Accumulator",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Propagation Pod",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Shadow Stylus",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Wing of the Shorn Harpy",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (7th)",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (7th)",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (7th)",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (7th-level)",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (5th)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Book of Banishing",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Hobgoblin Battle Standard (Despair)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Dossal of Salt and Tears",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Horn of Valhalla",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Lock of Formbinding",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Crystal Ball (See Invisibility)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Unicorn's Blackened Horn",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Crystal Ball (Detect Thoughts)",
+      "Cost": "51,000 gp"
+    },
+    {
+      "Name": "Vanity's Eye",
+      "Cost": "51,000 gp"
+    },
+    {
+      "Name": "Last Leaves of the Autumn Dryad",
+      "Cost": "52,000 gp"
+    },
+    {
+      "Name": "Parley Ward",
+      "Cost": "52,000 gp"
+    },
+    {
+      "Name": "Glass of Veils",
+      "Cost": "53,000 gp"
+    },
+    {
+      "Name": "Astrologer's Telescope",
+      "Cost": "54,000 gp"
+    },
+    {
+      "Name": "Tome of Understanding (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Tome of Leadership and Influence (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Tome of Clear Thought (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Manual of Quickness of Action (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Manual of Gainful Exercise (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Manual of Bodily Health (+2)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Brass)",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Instant Fortress",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Ohalia's Horn",
+      "Cost": "55,000 gp"
+    },
+    {
+      "Name": "Cube of Varied Force Walls",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Headhunter Wayfinder",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Kiss of Noctura",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Lord's Banner (Terror)",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Many Paths",
+      "Cost": "57,750 gp"
+    },
+    {
+      "Name": "Spell Winder (Nagaji) (6th level)",
+      "Cost": "58,000 gp"
+    },
+    {
+      "Name": "Carpet of Flying (10-ft.-by-10-ft.)",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Banner of the Rushing Horde",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Figurine of Wondrous Power (Basalt Dragon)",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Cannon)",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Canopic Jar of Unlife",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Crystal Ball of the Dark Void",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Darkskull",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Deadlimb Pins",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Hobgoblin Battle Standard (Ferocity)",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Orb of Pure Law",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Ribbon of the Three",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Thunder Strap",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Well of Stars",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Cube of Force",
+      "Cost": "62,000 gp"
+    },
+    {
+      "Name": "Private Palanquin",
+      "Cost": "63,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (8th)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (8th)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (8th)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (8th-level)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Dragonhide)",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Gold)",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Howdah of Leisurely Travel",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Lyre of Storms",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Ruby Skull of Chast",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Suppression Gem",
+      "Cost": "65,000 gp"
+    },
+    {
+      "Name": "Moonlight Lantern",
+      "Cost": "66,000 gp"
+    },
+    {
+      "Name": "The Pendulate Divan of Emperor Fortigré",
+      "Cost": "66,000 gp"
+    },
+    {
+      "Name": "Threshold Guardian",
+      "Cost": "66,000 gp"
+    },
+    {
+      "Name": "Twinned Cubes of Force",
+      "Cost": "66,000 gp"
+    },
+    {
+      "Name": "Behemoth Golem Manual",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Blood)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Horn of Blasting (Greater)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Independent Cube of Force",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Quasit Key",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Rechargeable Cube of Force",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Remote Activation Cube",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Crystal Ball (Telepathy)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Tremor Bar (Kobold)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (Two Spells)",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Tyrant's Mark",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Wayfinder of the Sleeping Eye",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Wayfinder of the Stars",
+      "Cost": "70,200 gp"
+    },
+    {
+      "Name": "Runestone of Power (6th)",
+      "Cost": "72,000 gp"
+    },
+    {
+      "Name": "Fetish of the Frog Queen (Greater)",
+      "Cost": "73,000 gp"
+    },
+    {
+      "Name": "Gem of Seeing",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Lord's Banner (Victory)",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Viridium)",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Xanthuun Tablets",
+      "Cost": "78,000 gp"
+    },
+    {
+      "Name": "Eye Orb",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Flying Sled",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Mithral)",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Ofuda of Dimensional Warding",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Crystal Ball (True Seeing)",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Spell Lattice (9th)",
+      "Cost": "81,000 gp"
+    },
+    {
+      "Name": "Page of Spell Knowledge (9th)",
+      "Cost": "81,000 gp"
+    },
+    {
+      "Name": "Pearl of Power (9th)",
+      "Cost": "81,000 gp"
+    },
+    {
+      "Name": "Shard of Psychic Power (9th-level)",
+      "Cost": "81,000 gp"
+    },
+    {
+      "Name": "Shadow Well",
+      "Cost": "82,000 gp"
+    },
+    {
+      "Name": "Well of Many Worlds",
+      "Cost": "82,000 gp"
+    },
+    {
+      "Name": "Manual of Bodily Health (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Manual of Gainful Exercise (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Manual of Quickness of Action (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Tome of Clear Thought (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Tome of Leadership and Influence (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Tome of Understanding (+3)",
+      "Cost": "82,500 gp"
+    },
+    {
+      "Name": "Preyfinder",
+      "Cost": "85,000 gp"
+    },
+    {
+      "Name": "Relic of a Virtuous Emperor",
+      "Cost": "87,000 gp"
+    },
+    {
+      "Name": "Apparatus of the Crab",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Beacon of the North",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Bowl of Conjuring Water Elementals",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Brazier of Conjuring Fire Elementals",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Bronze Sentinel",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Carpet of Comfort",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Censer of Conjuring Air Elementals",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Chariot of the Conqueror",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Inubrix)",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Oculus of Magnetic Fury",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Stone of Conjuring Earth Elementals",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Mirror of Opposition",
+      "Cost": "92,000 gp"
+    },
+    {
+      "Name": "Lightning Gun",
+      "Cost": "95,000 gp"
+    },
+    {
+      "Name": "Strand of Prayer Beads (Greater)",
+      "Cost": "95,800 gp"
+    },
+    {
+      "Name": "Ruby Sapphire of Osh-Maru",
+      "Cost": "96,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (7th)",
+      "Cost": "98,000 gp"
+    },
+    {
+      "Name": "Lord's Banner (Crusades)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Banner of Tactical Command (Normal)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Tome of Forgotten Epithets",
+      "Cost": "108,000 gp"
+    },
+    {
+      "Name": "Tome of Understanding (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Tome of Leadership and Influence (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Tome of Clear Thought (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Manual of Quickness of Action (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Manual of Gainful Exercise (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Manual of Bodily Health (+4)",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Golden Carriage of Gaspar Longfellow",
+      "Cost": "114,000 gp"
+    },
+    {
+      "Name": "Farwatcher",
+      "Cost": "120,850 gp"
+    },
+    {
+      "Name": "Planar Carriage",
+      "Cost": "121,500 gp"
+    },
+    {
+      "Name": "Well of the Welcome Respite",
+      "Cost": "122,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Adamantine)",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Lastwall Banner (Sunwall)",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Nightglass",
+      "Cost": "126,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (8th)",
+      "Cost": "128,000 gp"
+    },
+    {
+      "Name": "Sovereign Shabti",
+      "Cost": "130,000 gp"
+    },
+    {
+      "Name": "Contingent Wayfinder",
+      "Cost": "132,000 gp"
+    },
+    {
+      "Name": "Wayfinder of Passage",
+      "Cost": "136,000 gp"
+    },
+    {
+      "Name": "Manual of Bodily Health (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Manual of Gainful Exercise (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Manual of Quickness of Action (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Tome of Clear Thought (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Tome of Leadership and Influence (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Tome of Understanding (+5)",
+      "Cost": "137,500 gp"
+    },
+    {
+      "Name": "Efreeti Bottle",
+      "Cost": "145,000 gp"
+    },
+    {
+      "Name": "Golem Manual (Quintessence)",
+      "Cost": "150,000 gp"
+    },
+    {
+      "Name": "Bell of Obedience",
+      "Cost": "157,500 gp"
+    },
+    {
+      "Name": "Cage of Captivity",
+      "Cost": "160,000 gp"
+    },
+    {
+      "Name": "Chaos Cutter",
+      "Cost": "160,000 gp"
+    },
+    {
+      "Name": "Runestone of Power (9th)",
+      "Cost": "162,000 gp"
+    },
+    {
+      "Name": "Cubic Gate",
+      "Cost": "164,000 gp"
+    },
+    {
+      "Name": "Iron Flask",
+      "Cost": "170,000 gp"
+    },
+    {
+      "Name": "Mirror of Mental Prowess",
+      "Cost": "175,000 gp"
+    },
+    {
+      "Name": "Flying Skiff",
+      "Cost": "180,000 gp"
+    },
+    {
+      "Name": "Bastion Banner",
+      "Cost": "182,000 gp"
+    },
+    {
+      "Name": "Silent Aviary",
+      "Cost": "195,000 gp"
+    },
+    {
+      "Name": "Mirror of Life Trapping",
+      "Cost": "200,000 gp"
+    },
+    {
+      "Name": "Eternal Egg",
+      "Cost": "240,000 gp"
+    },
+    {
+      "Name": "Champion of the Gilded Host",
+      "Cost": "500,000 gp"
+    }
+  ]

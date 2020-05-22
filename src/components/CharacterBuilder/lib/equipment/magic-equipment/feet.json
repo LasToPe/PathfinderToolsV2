@@ -1,0 +1,394 @@
+[
+    {
+      "Name": "Boots of the Cat",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Boots of the Soft Step",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Slippers of Scampering",
+      "Cost": "1,200 gp"
+    },
+    {
+      "Name": "Daredevil Boots",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Daredevil Softpaws",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Boots of the Enduring March",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Bondbreaker's Boots",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Battle Strider's Boots",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Boots of Gusto",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Cat Burglar's Boots",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Feather Step Slippers",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Fungal Slippers",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Stagger-Proof Boots",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Boots of Friendly Terrain",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Boots of Elvenkind",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Boots of the Winterlands",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Horseshoes of Great Burden",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Acrobat Slippers",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Dunestrider Boots",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Speed",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Seafarer's Waders",
+      "Cost": "3,350 gp"
+    },
+    {
+      "Name": "Boots of the Mire",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Boots of Vaulting",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Stonemeld Boots",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Ghungroos of Entrancement",
+      "Cost": "3,750 gp"
+    },
+    {
+      "Name": "Horseshoes of Crushing Blows (+1)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Boots of the Eternal Rose",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Burglar Boots (Minor)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Sandals of Quick Reaction",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Snowshoes of Northern Pursuit",
+      "Cost": "4,300 gp"
+    },
+    {
+      "Name": "Slippers of Cloudwalking",
+      "Cost": "4,400 gp"
+    },
+    {
+      "Name": "Slippers of Spider Climbing",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Boots of the Earth",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Sandals of the Lightest Step",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Boots of the Vengeful Behir",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Boots of Striding and Springing",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Subtle Slippers",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Ankle Chains of Walking",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Clandestine Horseshoes",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Gladiator's Sandals",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Horseshoes of a Zephyr",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Jungle Boots",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Haunted Shoes",
+      "Cost": "6,480 gp"
+    },
+    {
+      "Name": "Boots of Flawless Resolve",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Jaunt Boots",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Boots of Levitation",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Boots of Swift Fury",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Boots of Escape",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Earth Root Boots",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Sandals of Interception",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Soles of the Silent Stride",
+      "Cost": "8,250 gp"
+    },
+    {
+      "Name": "Nightmare Boots",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Rat-Tread Boots",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Crashing Boots",
+      "Cost": "8,800 gp"
+    },
+    {
+      "Name": "Nightmare Horseshoes",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Rootsense Boots",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Bogstrider Boots",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Caltrop Boots",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Quick Action Slippers",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Tremor Boots",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Bastion Boots",
+      "Cost": "10,500 gp"
+    },
+    {
+      "Name": "Boots of the Mastodon",
+      "Cost": "10,500 gp"
+    },
+    {
+      "Name": "Shoes of Lightning Leaping",
+      "Cost": "10,500 gp"
+    },
+    {
+      "Name": "Uplifting Boots",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Bog Boots",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Boots of Speed",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Verdant Boots",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Anthill Boots",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Blight Kickers",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Rebuilder's Boots",
+      "Cost": "14,500 gp"
+    },
+    {
+      "Name": "Sandstorm Sandals",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Crushing Blows (+2)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Daring Dancers",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Winged Boots",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Combat Sandals",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Boots of Earth and Wind",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Boots of the Winter Jarl",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Sacred Silver",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Shoes of the Firewalker",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Dryad Sandals",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Slippers of the Primordial Wilds",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Boots of Planar Grounding",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Mist",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Rime-Stride Boots",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Boots of the Battle Herald",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Getaway Boots",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Crushing Blows (+3)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Glory",
+      "Cost": "39,600 gp"
+    },
+    {
+      "Name": "Boots of Fiendish Escape (Tiefling)",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Burglar Boots (Major)",
+      "Cost": "46,000 gp"
+    },
+    {
+      "Name": "Boots of Teleportation",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Slippers of the Triton",
+      "Cost": "56,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Crushing Blows (+4)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Unctous Waders",
+      "Cost": "67,200 gp"
+    },
+    {
+      "Name": "Earthquake Boots",
+      "Cost": "67,500 gp"
+    },
+    {
+      "Name": "Seven-League Boots",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Desert Fury (Keleshite)",
+      "Cost": "88,000 gp"
+    },
+    {
+      "Name": "Horseshoes of Crushing Blows (+5)",
+      "Cost": "100,000 gp"
+    }
+  ]

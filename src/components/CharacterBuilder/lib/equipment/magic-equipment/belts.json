@@ -1,0 +1,326 @@
+[
+    {
+      "Name": "Belt of Tumbling",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Beneficial Bandolier",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Meridian Belt",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Belt of Superior Maneuvers (+1)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Bladed Belt",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Channel-Thieving Belt",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Heavyload Belt",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Dawnflower Sash",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Aquatic Cummerbund",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Belt of the Snake King",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Scarf of the Suggestive Dance",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Equestrian Belt",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Belt of Giant Strength (+2)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Belt of Incredible Dexterity (+2)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Belt of Mighty Constitution (+2)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Belt of Teeth",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Belt of Trelmarixian",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Tightfit Belt",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Broken Chain of the Beast",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Gutbite Belt",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Blinkback Belt",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Diminishing Sash",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Infernal Cord (Normal)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Victor's Belt",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "War Saddle",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Plague Rat Belt",
+      "Cost": "5,200 gp"
+    },
+    {
+      "Name": "Belt of Foraging",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Khangarad Scabbard",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Windwave Kilt",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Belt of Superior Maneuvers (+2)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Serpent Belt",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Channel-Thieving Belt, Greater",
+      "Cost": "9,200 gp"
+    },
+    {
+      "Name": "Monkey Belt",
+      "Cost": "9,400 gp"
+    },
+    {
+      "Name": "Belt of Physical Might (+2)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Belt of the Weasel",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Belt of Thunderous Charging",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Canopic Wrap",
+      "Cost": "10,500 gp"
+    },
+    {
+      "Name": "Minotaur Belt",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Plague Rat Belt (Greater)",
+      "Cost": "11,200 gp"
+    },
+    {
+      "Name": "Belt of Equilibrium",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Feller's Belt",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Security Belt",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "War-Kilt of Sarenrae",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Belt of Mighty Hurling (Lesser)",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Belt of Dwarvenkind",
+      "Cost": "14,900 gp"
+    },
+    {
+      "Name": "Belt of Spirit Vines",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Cord of Stubborn Resolve",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Belt of Physical Perfection (+2)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Belt of Mighty Constitution (+4)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Belt of Incredible Dexterity (+4)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Belt of Giant Strength (+4)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Belt of Impossible Action (Vudrani)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Belt of Superior Maneuvers (+3)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Monkey Belt (Greater)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Anaconda's Coils",
+      "Cost": "18,500 gp"
+    },
+    {
+      "Name": "Ghoulbane Belt",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Serpent Belt (Greater)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Serpentform Belt",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Belt of Fallen Heroes",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Gorgon Belt",
+      "Cost": "23,000 gp"
+    },
+    {
+      "Name": "Elemental Earth Belt",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Mountainshaper's Girdle",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Sash of Flowing Water",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Silver Soul Cord",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Infernal Cord (Greater)",
+      "Cost": "31,000 gp"
+    },
+    {
+      "Name": "Belt of Superior Maneuvers (+4)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Merform Belt",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Belt of Giant Strength (+6)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Belt of Incredible Dexterity (+6)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Belt of Mighty Constitution (+6)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Mirroring Belt",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Belt of Physical Might (+4)",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Belt of Mighty Hurling (Greater)",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Belt of Superior Maneuvers (+5)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Anchoring Belt",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Belt of Stoneskin",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Belt of Physical Perfection (+4)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Coven Charm",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Belt of Physical Might (+6)",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Shadowform Belt",
+      "Cost": "110,000 gp"
+    },
+    {
+      "Name": "Belt of Physical Perfection (+6)",
+      "Cost": "144,000 gp"
+    }
+  ]

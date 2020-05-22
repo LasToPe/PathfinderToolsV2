@@ -1,0 +1,314 @@
+[
+    {
+      "Name": "Sleeves of Many Garments",
+      "Cost": "200 gp"
+    },
+    {
+      "Name": "Armbands of the Brawler",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Lover's Bangle",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+1)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Decorum Band",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Quickmetal Bracers (Silver)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Burglar's Bracers",
+      "Cost": "1,050 gp"
+    },
+    {
+      "Name": "Saint's Protection Charm",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Bracers of Steadiness",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Quickmetal Bracers (Cold Iron)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Manacles of Cooperation",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Spellsight Bracer",
+      "Cost": "2,100 gp"
+    },
+    {
+      "Name": "Seafaring Stanchions",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Shackles of Compliance",
+      "Cost": "3,280 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+2)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Bracers of Falcon's Aim",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Inquisitor's Bastion Vambraces",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Quickmetal Bracers (Adamantine)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bands of Unbreakable Camaraderie",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bracers of Archery (Lesser)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Spellguard Bracers",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Vanishing Sheath",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Bone Beads",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Bonebreaker Bracers",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Vambraces of Defense",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Verdant Vine",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Howling Bracers",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Armiger's Panoply",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Longarm Bracers",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Bracers of the Glib Entertainer",
+      "Cost": "7,900 gp"
+    },
+    {
+      "Name": "Charm Bracelet",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Duelist's Vambraces",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Merciful Vambraces",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Vambraces of the Tactician",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Harvester's Bindings",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+3)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Bracelets of Defiant Wind",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Broken Rune Bracers (Shoanti)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Fate-Woven Braid of the Norns",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Seducer's Bane",
+      "Cost": "9,900 gp"
+    },
+    {
+      "Name": "Bracers of Might",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Dueling Cuffs",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Lidless Charm Bracelet",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Bracers of the Avenging Knight",
+      "Cost": "11,500 gp"
+    },
+    {
+      "Name": "Arrowmaster's Bracers",
+      "Cost": "13,900 gp"
+    },
+    {
+      "Name": "Vambraces of the Genie (Efreeti)",
+      "Cost": "14,400 gp"
+    },
+    {
+      "Name": "Bracelet of Bargaining",
+      "Cost": "14,500 gp"
+    },
+    {
+      "Name": "Bracelet of Mercy",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Ioun Spite Bracers",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Style-Stealing Vambrace",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Bracers of the Merciful Knight",
+      "Cost": "15,600 gp"
+    },
+    {
+      "Name": "Bracelet of Second Chances",
+      "Cost": "15,750 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+4)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Bracelet of Good Luck Charms (Halfling)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Bracers of Celestial Intervention",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Silver Smite Bracelet",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Shackles of Durance Vile",
+      "Cost": "16,200 gp"
+    },
+    {
+      "Name": "Rift-Rending Bracers",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Vambraces of the Genie (Djinni)",
+      "Cost": "18,900 gp"
+    },
+    {
+      "Name": "Vambraces of the Genie (Marid)",
+      "Cost": "18,900 gp"
+    },
+    {
+      "Name": "Vambraces of the Genie (Shaitan)",
+      "Cost": "18,900 gp"
+    },
+    {
+      "Name": "Bracelet of Friends",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Armband of the Golden Serpent",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+5)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Bracers of Archery (Greater)",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Bracers of Sworn Vengeance",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Bracelets of Stone",
+      "Cost": "26,760 gp"
+    },
+    {
+      "Name": "Swallowtail Bracers",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Dimensional Shackles",
+      "Cost": "28,000 gp"
+    },
+    {
+      "Name": "Anchoring Bracers",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Bracers of Primal Mastery",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "High Elven Bracers",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Electro-Temporal Bracer",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Thorned Manacles",
+      "Cost": "35,600 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+6)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Bracers of the Shield Mates",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+7)",
+      "Cost": "49,000 gp"
+    },
+    {
+      "Name": "Bracers of Armor (+8)",
+      "Cost": "64,000 gp"
+    }
+  ]

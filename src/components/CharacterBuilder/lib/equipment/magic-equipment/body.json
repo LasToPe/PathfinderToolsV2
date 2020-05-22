@@ -1,0 +1,326 @@
+[
+    {
+      "Name": "Glorious Tabard (Lesser)",
+      "Cost": "400 gp"
+    },
+    {
+      "Name": "Robe of Infinite Twine",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Robe of Needles",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Vest of Endure Elements",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Coldfire Wrappings",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Festival Garment",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Robe of the Master of Masters",
+      "Cost": "2,300 gp"
+    },
+    {
+      "Name": "Pauper's Robes",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Robe of Bones",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Traveler's Wet Suit",
+      "Cost": "2,750 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+1)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Corset of the Vishkanya",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Glorious Tabard (Greater)",
+      "Cost": "3,250 gp"
+    },
+    {
+      "Name": "Hag's Shabble",
+      "Cost": "3,400 gp"
+    },
+    {
+      "Name": "Gown of Graceful Petiteness",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Druid's Vestment",
+      "Cost": "3,750 gp"
+    },
+    {
+      "Name": "Pressure Suit",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Liar's Robe",
+      "Cost": "4,180 gp"
+    },
+    {
+      "Name": "Cassock of the Clergy",
+      "Cost": "4,600 gp"
+    },
+    {
+      "Name": "Charlatan's Cope",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Living Garments",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Mnemonic Vestment",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Robe of Components",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Sorcerer's Robe",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Dhoti of Style Mastery",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "False Flag Tabard",
+      "Cost": "5,500 gp"
+    },
+    {
+      "Name": "Crusader's Tabard",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Eidolon Anchoring Harness",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Lupine Robe",
+      "Cost": "6,800 gp"
+    },
+    {
+      "Name": "Hyperboreal Robe",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Robe of Useful Items",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Bestial Rags",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Pathfinder Greatcoat",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Robe of Blending",
+      "Cost": "8,400 gp"
+    },
+    {
+      "Name": "Neili Robes",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Blazing Robe",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Shocking Robe",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Voidfrost Robe",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+2)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Harness of Hovering",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Shozoku of the Night Wind",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Monk's Robe",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Habit of the Winter Explorer",
+      "Cost": "13,380 gp"
+    },
+    {
+      "Name": "Hamatulatsu Robe",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Scintillating Garment",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Vestments of War",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Slayer's Robe",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Anaphexis Robe",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Robe of Arcane Heritage",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Untouchable Jacket",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Xorn Robe",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Corset of Dire Witchcraft",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Shimmering Kilt",
+      "Cost": "25,200 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+3)",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Robe of Scintillating Colors",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Vestments of False Faith",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Cassock of the Black Monk",
+      "Cost": "34,000 gp"
+    },
+    {
+      "Name": "Witching Gown",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Gunman's Duster",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Harness of Grabbing Vines",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Robe of Runes",
+      "Cost": "44,000 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+4)",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Smuggler's Collapsible Robe",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Summoner's Robe",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Robe of Stars",
+      "Cost": "58,000 gp"
+    },
+    {
+      "Name": "Robe of Gates",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Otherworldly Kimono",
+      "Cost": "67,000 gp"
+    },
+    {
+      "Name": "Seamless Skin",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+5)",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Resplendent Robe of the Thespian",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Robe of the Archmagi",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Robe of the Overmind",
+      "Cost": "75,000 gp"
+    },
+    {
+      "Name": "Starfaring Robes",
+      "Cost": "82,000 gp"
+    },
+    {
+      "Name": "Penitent's Robes",
+      "Cost": "95,000 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+6)",
+      "Cost": "108,000 gp"
+    },
+    {
+      "Name": "Robe of Magma",
+      "Cost": "112,000 gp"
+    },
+    {
+      "Name": "Robe of Eyes",
+      "Cost": "120,000 gp"
+    },
+    {
+      "Name": "Bodywrap of Mighty Strikes (+7)",
+      "Cost": "147,000 gp"
+    },
+    {
+      "Name": "Robes of Xin-Edasseril",
+      "Cost": "164,000 gp"
+    },
+    {
+      "Name": "Robes of Xin-Bakrakhan",
+      "Cost": "198,000 gp"
+    },
+    {
+      "Name": "Robes of Xin-Shalast",
+      "Cost": "198,000 gp"
+    }
+  ]

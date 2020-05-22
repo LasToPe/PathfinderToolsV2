@@ -1,0 +1,1142 @@
+[
+    {
+      "Name": "Talisman (Lesser) (Beneficial Winds)",
+      "Cost": "50 gp"
+    },
+    {
+      "Name": "Hexbiter Charm",
+      "Cost": "180 gp"
+    },
+    {
+      "Name": "Lynx Eye Charm",
+      "Cost": "350 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Akoben)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Sealed Summons)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Warrior's Courage)",
+      "Cost": "450 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Beneficial Winds)",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Maiden's Promise",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Arrow Protection)",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Pentacle)",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Scarab)",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Trickelion)",
+      "Cost": "600 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Danger Sense)",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Bloodstone Collar",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Dust of Envy",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Freedom)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Hand of the Mage",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Death's Head Talisman (10 HD)",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Dire Collar",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Drowning Medallion",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Hivebrain Symbiote",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Pendant of the Blood Scarab",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Protective Ruff",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Ankh)",
+      "Cost": "1,250 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Protection from Flames)",
+      "Cost": "1,250 gp"
+    },
+    {
+      "Name": "Death's Head Talisman (14 HD)",
+      "Cost": "1,400 gp"
+    },
+    {
+      "Name": "Fetish of Natural Armor (+1)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Amulet of Bullet Protection (+1)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Aegis of Recovery",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Brooch of Shielding",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Stench Spray Amulet",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type I)",
+      "Cost": "1,650 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Good Fortune)",
+      "Cost": "1,680 gp"
+    },
+    {
+      "Name": "Death's Head Talisman (18 HD)",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Necklace of Fangs",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Purification Talisman",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Torc of Innocuous Gems",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Necklace of Bloody Incisors",
+      "Cost": "1,850 gp"
+    },
+    {
+      "Name": "Amulet of Natural Armor (+1)",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Brooch of Blending",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Charlatan's Symbol",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Collar of Sacrifice",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Eye of Crystalized Venom",
+      "Cost": "2,250 gp"
+    },
+    {
+      "Name": "Death's Head Talisman (24 HD)",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Choker of Body Alteration",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Healing Power)",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Soulspeaker",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Armillary Amulet",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Golembane Scarab",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Gossamer Amberstone",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type II)",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Hero's Release Pendant",
+      "Cost": "2,800 gp"
+    },
+    {
+      "Name": "Barbed Pentacle of Asmodeus",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Fortunate Charm",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Hamsa)",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Hand of the Honest Man",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Key of the Second Vault",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Pantheistic Clasp",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Swarmbane Clasp",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Azlant Pendant",
+      "Cost": "3,100 gp"
+    },
+    {
+      "Name": "Spidersilk Medallion",
+      "Cost": "3,240 gp"
+    },
+    {
+      "Name": "Nightstone of Sorrow",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Pallid Crystal",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Periapt of Devotion",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Vurra of the Maker",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Medal of the Hero's Heart",
+      "Cost": "3,400 gp"
+    },
+    {
+      "Name": "Talisman (Lesser) (Life's Breath)",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Mind Sentinel Medallion",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Mummer's Ruff",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Necklace of Stolen Breath",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Sihedron Medallion",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Hearth Mantle",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Periapt of Placebos",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Aegis of Recovery, Greater",
+      "Cost": "3,750 gp"
+    },
+    {
+      "Name": "Orb of the Waybringer",
+      "Cost": "3,900 gp"
+    },
+    {
+      "Name": "Amulet of Mighty Fists (+1)",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Amulet of Elemental Strife",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Crepuscular Trinket",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Pendant of the Souk",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Righteous Fist Amulet",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Talisman of Beast Training",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Shad'gorum Nugget",
+      "Cost": "4,200 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type III)",
+      "Cost": "4,350 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Akoben)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Sealed Summons)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Stinging Stiletto",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Warrior's Courage)",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Amulet of Dragon's Breath",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Bloodlink",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Thundering Collar",
+      "Cost": "4,800 gp"
+    },
+    {
+      "Name": "Amulet of Uncanny Defense",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Best Friend Pendant",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Charm of Fate",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Collar of Obedience",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Deathbalm Talisman",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Forbearer's Grace",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Ghoul Stone",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Stormlure",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Sun Falcon Pectoral",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Talisman of Soul-Eating",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type IV)",
+      "Cost": "5,400 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type V)",
+      "Cost": "5,850 gp"
+    },
+    {
+      "Name": "Amulet of Bullet Protection (+2)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Amulet of Courage",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Arrow Protection)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Burrower's Bridle",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Eyes)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Feychild Necklace",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Pain Ward of the Ostiarius",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Pentacle)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Scarab)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Torc of the Primal Song",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Triskelion)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "True Love Locket",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Amulet of the True Form",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Gorget of Umbral Hunger",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Oakstewards' Favor",
+      "Cost": "6,550 gp"
+    },
+    {
+      "Name": "Fetish of Natural Armor (+2)",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Carcanet of Detention",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Danger Sense)",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Medalion of Sar-Gorog",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Periapt of Health",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Spell-Sharing Collar",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Amulet of Natural Armor (+2)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Amulet of Proof against Petrification",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Nursing Necklace (Ant)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Apollyon Clasp",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Azata's Whimsy",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Blessed Keepsake",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Nursing Necklace (Centipede)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Choker of the Queen Bee",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Choker of the Siphoning Scorpion",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Everwake Amulet",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Gravewatch Pendant",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Hair)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Hand of Glory",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Heavens)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Horn)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Periapt of Proof Against Paralysis",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Periapt of Temporary Familiar",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Propitious Metumbe",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Scale of the Mariner",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Nursing Necklace (Spider)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Torc of Bloody Rage",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Torc of Lionheart Fury",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Wind)",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type VI)",
+      "Cost": "8,100 gp"
+    },
+    {
+      "Name": "Necklace of Fireballs (Type VII)",
+      "Cost": "8,700 gp"
+    },
+    {
+      "Name": "Amulet of Hidden Light",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Amulet of Hidden Strength",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Best Friend Pendant, Greater",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Claws)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Darksire Amulet",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Doomsday Key",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Freedom)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Necklace of Adaptation",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Scales)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Scarf of Glorious Histories (Varisian)",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Shark Tooth Amulet",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Torc of Enmity",
+      "Cost": "9,500 gp"
+    },
+    {
+      "Name": "Amulet of Eldest's Blessing (Gnome)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of Spell Cunning",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of Water Parting",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of Wind Defiance",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Collar of the True Companion",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Destined)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Eye of the Overwatched",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Fey)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Flame)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Frost Fist Amulet",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Golden Holy Symbol",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Hexing Runes",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Nursing Necklace (Leech)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Locket of True and False Friends (Half-Elf)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Missive Stone",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Necklace of Air Adaptation",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Nursing Necklace (Scarab)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Stone)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Unerring Compass",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Vishkanya Periapt",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Waves)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Beguiling Bangles",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Abyssal)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Accursed)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of Channeled Life",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of Euphoric Healing",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Battle)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Bones)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Bones)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Celestial)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Crest of the Fallen",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Crystal of Healing Hands",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Draconic)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Elemental)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Emblem of Lost Lives",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Guardian Gorget",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Indomitable Jewel",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Infernal)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Spirits (Life)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Medallion of Thoughts",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Monkey's Paw",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Periapt of Protection from Curses",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Scarab of Mummy Defense",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Talisman of the Orc Mother's Fury",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Necklace of Beast's Might (Teeth)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Undead)",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Ankh)",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Protection from Flames)",
+      "Cost": "12,500 gp"
+    },
+    {
+      "Name": "Forge Fist Amulet",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Guiding Scarab",
+      "Cost": "13,000 gp"
+    },
+    {
+      "Name": "Amulet of Bullet Protection (+3)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Collar of Unliving Servitude",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Dire Collar, Greater",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Fangwood Clasp",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Amulet of the Blooded (Aberrant)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Amulet of the Abyss",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Amulet of Undead Persuasion (Dhampir)",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Gorget of Living Whispers",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Periapt of Wound Closure",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Amulet of Mighty Fists (+2)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Necklace of Ki Serenity",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Saffron Slave Collar",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Serpentine Choker",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Fetish of Natural Armor (+3)",
+      "Cost": "16,500 gp"
+    },
+    {
+      "Name": "Eye of Brokerage",
+      "Cost": "16,550 gp"
+    },
+    {
+      "Name": "Brooch of Amber Sparks",
+      "Cost": "16,800 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Good Fortune)",
+      "Cost": "16,800 gp"
+    },
+    {
+      "Name": "Roc Rider Badge",
+      "Cost": "17,000 gp"
+    },
+    {
+      "Name": "Symbol of Sanguine Protection",
+      "Cost": "17,500 gp"
+    },
+    {
+      "Name": "Amulet of Natural Armor (+3)",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Gallows Rope",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Beast Talisman",
+      "Cost": "18,900 gp"
+    },
+    {
+      "Name": "Ampoule of False Blood",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Amulet of Magecraft",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Charm of Aluum Control",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Dragonfoe Amulet",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Halflight Charm (Greater)",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Noose of Terminal Embrace",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Hand of Abendego",
+      "Cost": "20,258 gp"
+    },
+    {
+      "Name": "Amulet of Grasping Souls",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Amulet of Spell Mastery",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Eye of Horus Amulet",
+      "Cost": "23,000 gp"
+    },
+    {
+      "Name": "Amulet of Bullet Protection (+4)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Cartouche of Distinctive Warding",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Cloud Engineer Badge",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Healing Power)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Amulet of Primal Mastery",
+      "Cost": "24,200 gp"
+    },
+    {
+      "Name": "Slave Collar",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Hand of Stone",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Periapt of Proof against Poison",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Amulet of Quaking Strikes",
+      "Cost": "28,000 gp"
+    },
+    {
+      "Name": "Mothman Memento",
+      "Cost": "28,800 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Hamsa)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Amulet of Natural Armor (+4)",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Medallion of Demonic Disruption",
+      "Cost": "32,000 gp"
+    },
+    {
+      "Name": "Periapt of Utter Devotion",
+      "Cost": "33,000 gp"
+    },
+    {
+      "Name": "Masters' Call",
+      "Cost": "34,000 gp"
+    },
+    {
+      "Name": "Amulet of Proof against Detection and Location",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Talisman (Greater) (Life's Breath)",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Necklace of Spectral Strikes",
+      "Cost": "35,500 gp"
+    },
+    {
+      "Name": "Amulet of Mighty Fists (+3)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Amulet of the Storm",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Necklace of Lovelies",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Amulet of Bullet Protection (+5)",
+      "Cost": "37,500 gp"
+    },
+    {
+      "Name": "Scarab of Protection",
+      "Cost": "38,000 gp"
+    },
+    {
+      "Name": "Rimeheart Amulet",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Necklace of Netted Stars",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Amulet of Radiation Absorption",
+      "Cost": "45,000 gp"
+    },
+    {
+      "Name": "Iron Collar of the Unbound Coven",
+      "Cost": "46,000 gp"
+    },
+    {
+      "Name": "Amulet of Natural Armor (+5)",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Iron Road",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Star Cinder",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Zoic of the Primeval",
+      "Cost": "50,000 gp"
+    },
+    {
+      "Name": "Agent's Clasp (Taldan)",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Torc of Truespeech",
+      "Cost": "60,000 gp"
+    },
+    {
+      "Name": "Amulet of Mighty Fists (+4)",
+      "Cost": "64,000 gp"
+    },
+    {
+      "Name": "Sanguine Talisman of Sheel Leroung",
+      "Cost": "67,500 gp"
+    },
+    {
+      "Name": "Whispering Amulet",
+      "Cost": "70,000 gp"
+    },
+    {
+      "Name": "Shrunken Head",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Phlegmatic Talisman",
+      "Cost": "96,000 gp"
+    },
+    {
+      "Name": "Amulet of Mighty Fists (+5)",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Choker of the Rough Beast",
+      "Cost": "100,000 gp"
+    },
+    {
+      "Name": "Amulet of the Planes",
+      "Cost": "120,000 gp"
+    },
+    {
+      "Name": "Necklace of Ensured Return",
+      "Cost": "120,000 gp"
+    },
+    {
+      "Name": "Necklace of Construct Aversion",
+      "Cost": "132,000 gp"
+    }
+  ]

@@ -1,0 +1,706 @@
+[
+    {
+      "Name": "Gag of Silence",
+      "Cost": "500 gp"
+    },
+    {
+      "Name": "Quick-Change Mask",
+      "Cost": "650 gp"
+    },
+    {
+      "Name": "Veil of Attentiveness",
+      "Cost": "750 gp"
+    },
+    {
+      "Name": "Cap of Human Guise",
+      "Cost": "800 gp"
+    },
+    {
+      "Name": "Bridle of Tricks (3 tricks)",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Cap of Light",
+      "Cost": "900 gp"
+    },
+    {
+      "Name": "Plume of Panache",
+      "Cost": "1,000 gp"
+    },
+    {
+      "Name": "Shawl of Shadowy Disguise",
+      "Cost": "1,350 gp"
+    },
+    {
+      "Name": "Skinsaw Mask",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Circlet of Spell-Eating (Type I)",
+      "Cost": "1,500 gp"
+    },
+    {
+      "Name": "Bridle of Tricks (4 tricks)",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "False Face",
+      "Cost": "1,600 gp"
+    },
+    {
+      "Name": "Besmara's Bicorne",
+      "Cost": "1,700 gp"
+    },
+    {
+      "Name": "Hat of Disguise",
+      "Cost": "1,800 gp"
+    },
+    {
+      "Name": "Buffering Cap",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Caller's Feather",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Glarecutter Goggles",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Plaguebringer's Mask",
+      "Cost": "2,000 gp"
+    },
+    {
+      "Name": "Holy Mask of the Living God",
+      "Cost": "2,100 gp"
+    },
+    {
+      "Name": "Keffiyeh of Cooling",
+      "Cost": "2,100 gp"
+    },
+    {
+      "Name": "Gray Gambler's Hat",
+      "Cost": "2,400 gp"
+    },
+    {
+      "Name": "Bridle of Tricks (5 tricks)",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Mask of the Cursed Eye",
+      "Cost": "2,500 gp"
+    },
+    {
+      "Name": "Besmara's Tricorne",
+      "Cost": "2,600 gp"
+    },
+    {
+      "Name": "Animal Mask",
+      "Cost": "2,700 gp"
+    },
+    {
+      "Name": "Hood of the Living",
+      "Cost": "2,840 gp"
+    },
+    {
+      "Name": "Diabolical Masquerade Mask",
+      "Cost": "2,900 gp"
+    },
+    {
+      "Name": "Hollow Mask",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Mask of Cutting Flesh",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Miser's Mask",
+      "Cost": "3,000 gp"
+    },
+    {
+      "Name": "Ossuary Mask",
+      "Cost": "3,100 gp"
+    },
+    {
+      "Name": "Explorer's Pith Helmet",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Shawl of the Lingering Phantom",
+      "Cost": "3,200 gp"
+    },
+    {
+      "Name": "Veil of Veils",
+      "Cost": "3,300 gp"
+    },
+    {
+      "Name": "Cap of Enervation",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Maiden's Helm",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Mortuary Mask",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Stag's Helm",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Stalker's Mask",
+      "Cost": "3,500 gp"
+    },
+    {
+      "Name": "Demon Mother's Mask",
+      "Cost": "3,600 gp"
+    },
+    {
+      "Name": "Kybwa'ka War Mask",
+      "Cost": "3,700 gp"
+    },
+    {
+      "Name": "Tlil Mask",
+      "Cost": "3,700 gp"
+    },
+    {
+      "Name": "Lore Needle",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Mask of Conflicting Energies",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Traveling Master's Turban",
+      "Cost": "4,000 gp"
+    },
+    {
+      "Name": "Vagrant's Hood",
+      "Cost": "4,400 gp"
+    },
+    {
+      "Name": "Bastion Crown",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Circlet of Persuasion",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Diadem of Inspiring Rule",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Hat of the Seven Winds",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Ushanka of the Northlands",
+      "Cost": "4,500 gp"
+    },
+    {
+      "Name": "Grappler's Mask",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Helm of Fearsome Mien",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Jingasa of the Fortunate Soldier",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Mask of Destruction and Creation (Nethys)",
+      "Cost": "5,000 gp"
+    },
+    {
+      "Name": "Helm of Comprehend Languages and Read Magic",
+      "Cost": "5,200 gp"
+    },
+    {
+      "Name": "Cyclops Helm",
+      "Cost": "5,600 gp"
+    },
+    {
+      "Name": "Crown of Swords",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Mask of the Mantis",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Seashell Diving Mask",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Circlet of Spell-Eating (Type II)",
+      "Cost": "6,000 gp"
+    },
+    {
+      "Name": "Beautiful War Paint",
+      "Cost": "6,300 gp"
+    },
+    {
+      "Name": "Crown of Blasting (Minor)",
+      "Cost": "6,480 gp"
+    },
+    {
+      "Name": "Aspect Mask",
+      "Cost": "6,500 gp"
+    },
+    {
+      "Name": "Lepidstadt Investigator's Hat",
+      "Cost": "7,000 gp"
+    },
+    {
+      "Name": "Mask of the Krenshar",
+      "Cost": "7,200 gp"
+    },
+    {
+      "Name": "Plague Mask",
+      "Cost": "7,500 gp"
+    },
+    {
+      "Name": "Fog-Cutting Lenses",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Goz Mask",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Mask of Stony Demeanor",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Mouthpiece of the Dominion",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Muzzle of Suppression",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Shadow Fletching",
+      "Cost": "8,000 gp"
+    },
+    {
+      "Name": "Helm of the Mammoth Lord",
+      "Cost": "8,500 gp"
+    },
+    {
+      "Name": "Shepsi-ak's Funerary Mask",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Sniper's Helmet",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Veil of Fleeting Glances",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "War Mask of Terror",
+      "Cost": "9,000 gp"
+    },
+    {
+      "Name": "Bax's Mask",
+      "Cost": "9,100 gp"
+    },
+    {
+      "Name": "Visage of the Broodlord",
+      "Cost": "9,600 gp"
+    },
+    {
+      "Name": "Dervish Sikke",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Earth Child Faceguard",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Flame of Bakrakhan",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Hunter's Nose Ring",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Commander's Helm (Dwarf) (Lesser)",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Mask Of A Thousand Tomes",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Medusa Mask",
+      "Cost": "10,000 gp"
+    },
+    {
+      "Name": "Vermin Mask",
+      "Cost": "10,080 gp"
+    },
+    {
+      "Name": "Desert Veil",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Hyena Shawl",
+      "Cost": "11,000 gp"
+    },
+    {
+      "Name": "Nose Ring of Unearthly Scent",
+      "Cost": "11,475 gp"
+    },
+    {
+      "Name": "Cap of the Free Thinker",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Greater Hat of Disguise",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Helm of the Fanged Crown",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Mask of the Rabbit Prince",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Reaper's Mask",
+      "Cost": "12,000 gp"
+    },
+    {
+      "Name": "Clasp of the Mind Scream",
+      "Cost": "12,800 gp"
+    },
+    {
+      "Name": "Circlet of Spell-Eating (Type III)",
+      "Cost": "13,500 gp"
+    },
+    {
+      "Name": "Bitter Widow's Veil",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Horned Helm of the Wild Stag",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Translator's Cap (Human)",
+      "Cost": "14,000 gp"
+    },
+    {
+      "Name": "Crown of the Kobold King",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Tin Cap",
+      "Cost": "15,000 gp"
+    },
+    {
+      "Name": "Death Mask",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Commander's Helm (Dwarf) (Greater)",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Halo of Inner Calm",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Helm of the Valkyrie",
+      "Cost": "16,000 gp"
+    },
+    {
+      "Name": "Frontovik's Gas Mask",
+      "Cost": "17,000 gp"
+    },
+    {
+      "Name": "Mask of Stolen Mien",
+      "Cost": "17,200 gp"
+    },
+    {
+      "Name": "Cat's Eye Crown",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Maw of the Wyrm",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Mitre of the Hierophant",
+      "Cost": "18,000 gp"
+    },
+    {
+      "Name": "Laurel Wreath",
+      "Cost": "19,000 gp"
+    },
+    {
+      "Name": "Amulet of Reverse Incantation",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Daylight Diadem",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Magician's Hat",
+      "Cost": "20,000 gp"
+    },
+    {
+      "Name": "Crown of Challenge",
+      "Cost": "21,000 gp"
+    },
+    {
+      "Name": "Helm of Ooze",
+      "Cost": "21,500 gp"
+    },
+    {
+      "Name": "Circlet of Mindsight",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Mask of the Skull",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Vudran Ashak Helmet",
+      "Cost": "22,000 gp"
+    },
+    {
+      "Name": "Howling Helm",
+      "Cost": "22,600 gp"
+    },
+    {
+      "Name": "Visage of the Bound",
+      "Cost": "22,900 gp"
+    },
+    {
+      "Name": "Miasmatic Mask",
+      "Cost": "23,000 gp"
+    },
+    {
+      "Name": "Crown of Blasting (Major)",
+      "Cost": "23,760 gp"
+    },
+    {
+      "Name": "Crystal Helm",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Helm of Underwater Action",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Commander's Helm (Dwarf) (Superior)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Circlet of Spell-Eating (Type IV)",
+      "Cost": "24,000 gp"
+    },
+    {
+      "Name": "Crown of Conquest",
+      "Cost": "24,600 gp"
+    },
+    {
+      "Name": "Greathelm of the Mammoth Lord",
+      "Cost": "24,700 gp"
+    },
+    {
+      "Name": "Hat of Infinite Disguises",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Mask of Anonymous Mien",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Mask of the Mesmerist",
+      "Cost": "25,000 gp"
+    },
+    {
+      "Name": "Batrachian Helm",
+      "Cost": "26,000 gp"
+    },
+    {
+      "Name": "Dance of Seven Veils",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Helm of Telepathy",
+      "Cost": "27,000 gp"
+    },
+    {
+      "Name": "Sensory Deprivation Hood",
+      "Cost": "27,500 gp"
+    },
+    {
+      "Name": "Token of the Eldest",
+      "Cost": "27,680 gp"
+    },
+    {
+      "Name": "Imperial Army Greathelm",
+      "Cost": "29,000 gp"
+    },
+    {
+      "Name": "Crown of Ash",
+      "Cost": "29,900 gp"
+    },
+    {
+      "Name": "Crown of False Rule",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Iron Circlet of Guarded Souls",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Laurel of Command",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Mask of Giants (Lesser)",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Nightgaunt Mask",
+      "Cost": "30,000 gp"
+    },
+    {
+      "Name": "Thremyr's Beard (Lesser)",
+      "Cost": "32,250 gp"
+    },
+    {
+      "Name": "Steel-mind Cap",
+      "Cost": "33,600 gp"
+    },
+    {
+      "Name": "Stormlord's Helm",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Yithian Thought Ring",
+      "Cost": "35,000 gp"
+    },
+    {
+      "Name": "Helm of Brilliance (Lesser)",
+      "Cost": "36,000 gp"
+    },
+    {
+      "Name": "Roseskin Comb",
+      "Cost": "37,000 gp"
+    },
+    {
+      "Name": "Mask of the Far Traveler",
+      "Cost": "38,000 gp"
+    },
+    {
+      "Name": "Bridle of Charon",
+      "Cost": "40,000 gp"
+    },
+    {
+      "Name": "Falcon Crown",
+      "Cost": "42,000 gp"
+    },
+    {
+      "Name": "Thremyr's Beard (Greater)",
+      "Cost": "42,250 gp"
+    },
+    {
+      "Name": "Frostwild Bridle",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Golden Helm of Xin-Shalast",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Grim Helm",
+      "Cost": "48,000 gp"
+    },
+    {
+      "Name": "Judge's Wig",
+      "Cost": "59,200 gp"
+    },
+    {
+      "Name": "Khepresh of Refuge",
+      "Cost": "63,000 gp"
+    },
+    {
+      "Name": "Diadem of the Interplanetary Emissary (Lashunta)",
+      "Cost": "67,500 gp"
+    },
+    {
+      "Name": "Helm of Teleportation",
+      "Cost": "73,500 gp"
+    },
+    {
+      "Name": "Helm of Reclamation",
+      "Cost": "80,000 gp"
+    },
+    {
+      "Name": "Circlet of Petty Discord",
+      "Cost": "84,000 gp"
+    },
+    {
+      "Name": "Halo of Menace",
+      "Cost": "84,000 gp"
+    },
+    {
+      "Name": "Blind Helm",
+      "Cost": "85,000 gp"
+    },
+    {
+      "Name": "Cap of Darkest Dreams (Changeling)",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Magnate's Miter",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Mask of Giants (Greater)",
+      "Cost": "90,000 gp"
+    },
+    {
+      "Name": "Helm of the Serpent King",
+      "Cost": "96,000 gp"
+    },
+    {
+      "Name": "Hood of Privacy",
+      "Cost": "120,000 gp"
+    },
+    {
+      "Name": "Helm of Brilliance",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Helm of Electric Radiance",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Hurricane Crown",
+      "Cost": "125,000 gp"
+    },
+    {
+      "Name": "Crown of Heaven",
+      "Cost": "150,000 gp"
+    }
+  ]
