@@ -24,8 +24,8 @@ export default class Weapons extends BuilderComponent {
         return (
             <div className="weapons">
                 {this.character.Equipment.Weapons.map((weapon, index) => <Weapon index={index} weapon={weapon} character={this.character} />)}
-                <button onClick={() => this.addWeapon()}>Add Weapon</button>
-                <button onClick={() => this.removeWeapon()}>Remove Weapon</button>
+                <button className="btn btn-default" onClick={() => this.addWeapon()}>Add Weapon</button>
+                <button className="btn btn-default" onClick={() => this.removeWeapon()}>Remove Weapon</button>
             </div>
         )
     }

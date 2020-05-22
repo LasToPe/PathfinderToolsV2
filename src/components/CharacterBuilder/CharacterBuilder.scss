@@ -43,6 +43,14 @@ select {
     border-radius: 4px;
 }
 
+button.btn {
+    &.btn-default {
+        background-color: white;
+        border-radius: 4px;
+        padding: 8px;
+    }
+}
+
 .info {
     padding: 0 0 20px 0;
 
@@ -124,14 +132,6 @@ select {
             flex-direction: column;    
             padding-left: 8px;
             border-left: 1px solid #999;
-        }
-    }
-
-    button.btn {
-        &.btn-default {
-            background-color: white;
-            border-radius: 4px;
-            padding: 8px;
         }
     }
 }
