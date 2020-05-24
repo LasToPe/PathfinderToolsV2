@@ -3,6 +3,16 @@ import BuilderComponent from "../BuilderComponent";
 import Skill from './Skills/Skill';
 
 export default class Skills extends BuilderComponent {
+
+
+    get totalSkillRanks() {
+        let sum = 0;
+        Object.values(this.character.Skills).forEach(skill => {
+            sum += parseInt(skill.Ranks);
+        });
+        return sum;
+    }
+
     render() {
         return (
             <div className="skills">
@@ -31,9 +41,12 @@ export default class Skills extends BuilderComponent {
                 </div>
                 {
                     Object.values(this.character.Skills).map(skill => {
-                        return <Skill skill={skill} />
+                        return <Skill skill={skill} updateState={() => this.setState({})} />
                     })
                 }
+                <div>
+                    {`Total skill ranks: ${this.totalSkillRanks}`}
+                </div>
             </div>
         )
     }

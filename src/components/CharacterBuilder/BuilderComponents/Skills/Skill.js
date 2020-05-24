@@ -6,6 +6,7 @@ export default class Skill extends BuilderComponent {
         if (/\d+/.test(val)) {
             this.props.skill.Ranks = val;
             this.setState({});
+            this.props.updateState();
         }
     }
 
