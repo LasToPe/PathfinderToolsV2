@@ -5,6 +5,12 @@
   top: 0;
   position: fixed;
 
+  @media(max-width: 550px) {
+    width: 36px;
+    background-color: inherit;
+    color: inherit;
+  }
+
   ul {
     list-style-type: none;
     padding: 0;
@@ -28,6 +34,12 @@
     bottom: 4px;
     left: 4px;
     color: white;
+
+    @media(max-width: 550px) {
+      font-size: x-small;
+      color: inherit;
+      white-space: nowrap;
+    }
   }
 }
 
@@ -35,4 +47,8 @@
   position: absolute;
   left: 215px;
   padding-bottom: 20px;
+
+  @media(max-width: 550px) {
+    left: 65px;
+  }
 }

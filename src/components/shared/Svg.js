@@ -46,6 +46,22 @@ export default class Svg extends React.PureComponent {
         )
     }
 
+    get homeIcon() {
+        return (
+            <svg viewBox="0 0 32 32" class="icon icon-home" aria-hidden="true">
+                <path d="M27 18.039L16 9.501 5 18.039V14.56l11-8.54 11 8.538v3.481zm-2.75-.31v8.251h-5.5v-5.5h-5.5v5.5h-5.5v-8.25L16 11.543l8.25 6.186z"/>
+            </svg>
+        )
+    }
+
+    get burgerIcon() {
+        return (
+            <svg viewBox="0 0 32 32" class="icon icon-hamburger" aria-hidden="true">
+                <path d="M6.001 7.128L6 10.438l19.998-.005L26 7.124zM6.001 21.566L6 24.876l19.998-.006.002-3.308zM6.001 14.341L6 17.65l19.998-.004.002-3.309z"/>
+            </svg>
+        )
+    }
+
     render() {
         return this[this.props.icon];
     }
