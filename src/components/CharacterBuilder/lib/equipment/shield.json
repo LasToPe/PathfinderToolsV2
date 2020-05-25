@@ -1,137 +1,146 @@
 [
-    {
-      "Name": "Buckler",
-      "Cost": "5",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -1,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "5"
-    },
-    {
-      "Name": "Klar",
-      "Cost": "12",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -1,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "6"
-    },
-    {
-      "Name": "Light steel",
-      "Cost": "9",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -1,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "6"
-    },
-    {
-      "Name": "Light steel quickdraw",
-      "Cost": "59",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "7"
-    },
-    {
-      "Name": "Light wooden",
-      "Cost": "3",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -1,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "5"
-    },
-    {
-      "Name": "Light wooden quickdraw",
-      "Cost": "53",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "6"
-    },
-    {
-      "Name": "Madu (leather)",
-      "Cost": "40",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "5"
-    },
-    {
-      "Name": "Madu (steel)",
-      "Cost": "50",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "5%",
-      "Weight": "6"
-    },
-    {
-      "Name": "Poisoner's Buckler",
-      "Cost": "1,505",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": "—",
-      "Arcane Spell Failure Chance": "—",
-      "Weight": "3"
-    },
-    {
-      "Name": "War-shield, dwarven",
-      "Cost": "50",
-      "Armor Bonus": 1,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -1,
-      "Arcane Spell Failure Chance": "20%",
-      "Weight": "8"
-    },
-    {
-      "Name": "Heavy steel",
-      "Cost": "20",
-      "Armor Bonus": 2,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "15%",
-      "Weight": "15"
-    },
-    {
-      "Name": "Heavy wooden",
-      "Cost": "7",
-      "Armor Bonus": 2,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -2,
-      "Arcane Spell Failure Chance": "15%",
-      "Weight": "10"
-    },
-    {
-      "Name": "Snarlshield, steel",
-      "Cost": "50",
-      "Armor Bonus": 2,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -3,
-      "Arcane Spell Failure Chance": "15%",
-      "Weight": "20"
-    },
-    {
-      "Name": "Snarlshield, wooden",
-      "Cost": "37",
-      "Armor Bonus": 2,
-      "Max Dex Bonus": "—",
-      "Armor Check Penalty": -3,
-      "Arcane Spell Failure Chance": "15%",
-      "Weight": "15"
-    },
-    {
-      "Name": "Tower",
-      "Cost": "30",
-      "Armor Bonus": 4,
-      "Max Dex Bonus": 2,
-      "Armor Check Penalty": -10,
-      "Arcane Spell Failure Chance": "50%",
-      "Weight": "45"
-    }
-  ]
+  {
+    "Name": "No shield",
+    "Cost": "0",
+    "Armor Bonus": 0,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": 0,
+    "Arcane Spell Failure Chance": "0%",
+    "Weight": "0"
+  },
+  {
+    "Name": "Buckler",
+    "Cost": "5",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -1,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "5"
+  },
+  {
+    "Name": "Klar",
+    "Cost": "12",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -1,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "6"
+  },
+  {
+    "Name": "Light steel",
+    "Cost": "9",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -1,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "6"
+  },
+  {
+    "Name": "Light steel quickdraw",
+    "Cost": "59",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "7"
+  },
+  {
+    "Name": "Light wooden",
+    "Cost": "3",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -1,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "5"
+  },
+  {
+    "Name": "Light wooden quickdraw",
+    "Cost": "53",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "6"
+  },
+  {
+    "Name": "Madu (leather)",
+    "Cost": "40",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "5"
+  },
+  {
+    "Name": "Madu (steel)",
+    "Cost": "50",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "5%",
+    "Weight": "6"
+  },
+  {
+    "Name": "Poisoner's Buckler",
+    "Cost": "1,505",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": "—",
+    "Arcane Spell Failure Chance": "—",
+    "Weight": "3"
+  },
+  {
+    "Name": "War-shield, dwarven",
+    "Cost": "50",
+    "Armor Bonus": 1,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -1,
+    "Arcane Spell Failure Chance": "20%",
+    "Weight": "8"
+  },
+  {
+    "Name": "Heavy steel",
+    "Cost": "20",
+    "Armor Bonus": 2,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "15%",
+    "Weight": "15"
+  },
+  {
+    "Name": "Heavy wooden",
+    "Cost": "7",
+    "Armor Bonus": 2,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -2,
+    "Arcane Spell Failure Chance": "15%",
+    "Weight": "10"
+  },
+  {
+    "Name": "Snarlshield, steel",
+    "Cost": "50",
+    "Armor Bonus": 2,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -3,
+    "Arcane Spell Failure Chance": "15%",
+    "Weight": "20"
+  },
+  {
+    "Name": "Snarlshield, wooden",
+    "Cost": "37",
+    "Armor Bonus": 2,
+    "Max Dex Bonus": "—",
+    "Armor Check Penalty": -3,
+    "Arcane Spell Failure Chance": "15%",
+    "Weight": "15"
+  },
+  {
+    "Name": "Tower",
+    "Cost": "30",
+    "Armor Bonus": 4,
+    "Max Dex Bonus": 2,
+    "Armor Check Penalty": -10,
+    "Arcane Spell Failure Chance": "50%",
+    "Weight": "45"
+  }
+]
