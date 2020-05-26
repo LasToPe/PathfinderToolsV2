@@ -1,5 +1,6 @@
 import Ability from "./base/Ability";
 import Skill from "./base/Skill";
+import ArmorClass from "./base/ArmorClass";
 
 export default class Character {
 
@@ -49,4 +50,6 @@ export default class Character {
         "Swim": new Skill('Swim', this.Abilities.Strength),
         "Use Magic Device": new Skill('Use Magic Device', this.Abilities.Charisma)
     };
+
+    ArmorClass = new ArmorClass(this.Abilities.Dexterity);
 }

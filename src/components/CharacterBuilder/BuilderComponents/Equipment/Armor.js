@@ -13,27 +13,19 @@ export default class Armor extends BuilderComponent {
     }
 
     setArmor(armor) {
-        this.character.Equipment.Armor = ArmorItems.find(item => item.Name === armor);
+        let item = ArmorItems.find(item => item.Name === armor);
+        this.character.Equipment.Armor = item;
+        this.character.ArmorClass.Armor = item['Armor Bonus'];
+        this.character.ArmorClass.ArmorMaxDex = parseInt(item['Max Dex Bonus']) || 20;
         this.setState({});
     }
 
     setShield(shield) {
-        this.character.Equipment.Shield = ShieldItems.find(item => item.Name === shield);
+        let item = ShieldItems.find(item => item.Name === shield);
+        this.character.Equipment.Shield = item;
+        this.character.ArmorClass.Shield = item['Armor Bonus'];
+        this.character.ArmorClass.ShieldMaxDex = parseInt(item['Max Dex Bonus']) || 20;
         this.setState({});
-    }
-
-    get AC() {
-        const armorMaxDex = parseInt(this.character.Equipment.Armor['Max Dex Bonus']) || 20;
-        const shieldMaxDex = parseInt(this.character.Equipment.Shield['Max Dex Bonus']) || 20;
-        const dexBonus = Math.min(this.character.Abilities.Dexterity.Modifier, armorMaxDex, shieldMaxDex);
-        return 10 + this.character.Equipment.Armor['Armor Bonus'] + this.character.Equipment.Shield['Armor Bonus'] + dexBonus;
-    }
-
-    get Touch() {
-        const armorMaxDex = parseInt(this.character.Equipment.Armor['Max Dex Bonus']) || 20;
-        const shieldMaxDex = parseInt(this.character.Equipment.Shield['Max Dex Bonus']) || 20;
-        const dexBonus = Math.min(this.character.Abilities.Dexterity.Modifier, armorMaxDex, shieldMaxDex);
-        return 10 + dexBonus;
     }
 
     render() {
@@ -70,7 +62,7 @@ export default class Armor extends BuilderComponent {
                         }
                     </select>
                 </div>
-                {`AC: ${this.AC}`}
+                {`AC: ${this.character.ArmorClass.AC}, Touch: ${this.character.ArmorClass.Touch}, FF: ${this.character.ArmorClass.FlatFooted}`}
             </div>
         )
     }
